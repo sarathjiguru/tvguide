@@ -1,0 +1,5 @@
+*/resources/*.csv
+*/resources/*.tsv
+*/resources/*.rt
+*/resources/*.imdb
+*idea/
