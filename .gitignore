@@ -1,5 +1,7 @@
-*/resources/*.csv
-*/resources/*.tsv
-*/resources/*.rt
-*/resources/*.imdb
-*idea/
+*.idea/
+*resources/*.rt
+*resources/*.imdb
+*resources/*.tsv
+*resources/*.csv
+*resources/*.twitter
+*.pyc
