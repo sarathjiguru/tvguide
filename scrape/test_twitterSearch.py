@@ -10,4 +10,4 @@ class TestTwitterSearch(TestCase):
         self.twitter = TwitterSearch()
 
     def test_search_show(self):
-        print(self.twitter.search_show(Listing("The Wendy Williams Show|tv")))
+        print(self.twitter.search_show(Listing("The Dark Knight|tv")))

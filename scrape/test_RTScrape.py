@@ -16,7 +16,7 @@ class TestRTScrape(TestCase):
         self.rt = RTScrape()
 
     def test_finder_url(self):
-        listing = Listing("Law & Order: Special Victims Unit|tv")
+        listing = Listing("CNN Newsroom|tv")
         self.assertEqual(self.rt.finder_url(listing),
                          "http://www.rottentomatoes.com/search/?search=Law+%26+Order%3A+Special+Victims+Unit#results_tv_tab")
 

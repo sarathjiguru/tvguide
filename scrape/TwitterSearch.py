@@ -22,13 +22,10 @@ class TwitterSearch:
                               'LKgpSjSZwptVoQ0QAB4rtl0DpUijLz8JJBhoN2EtqZl9C')
 
     def search_show(self, listing):
-        results = self.api.request('users/search', {'q': listing.show_name, 'count': 3})
-        count = 1
-        for twitter_msg in results:
-            if self.is_verified(twitter_msg) and count <= 3:
-                return self.save_listing_data(twitter_msg)
         time.sleep(1)
-        return {}
+        results = self.api.request('users/search', {'q': listing.show_name, 'count': 1})
+        for twitter_msg in results:
+            return self.save_listing_data(twitter_msg)
 
     def is_verified(self, twitter_msg):
         return 'verified' in twitter_msg and twitter_msg['verified']

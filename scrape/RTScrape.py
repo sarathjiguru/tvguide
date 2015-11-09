@@ -8,6 +8,7 @@ from __builtin__ import long
 from __builtin__ import file
 import sys
 import ujson
+import time
 
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
@@ -32,9 +33,9 @@ class RTScrape(object):
         query = urllib.urlencode({self.q: tv_listing.show_name})
         return self.url + self.find + "?" + query + lookup[tv_listing.type]
 
-    def parse_search_page(self, read):
+    def parse_search_page(self, read, type_):
         helper = ScrapeHelper(read)
-        by_id = helper.find_by_id('ul', 'tv_results_ul')
+        by_id = helper.find_by_id('ul', type_ + '_results_ul')
         return self.url + helper.find_all_anchors(by_id)[0].get('href')
 
     def page_url(self, tv_listing):
@@ -49,7 +50,7 @@ class RTScrape(object):
             request_url = page_response.geturl()
             if url_finder[tv_listing.type] in request_url:
                 return request_url
-            return self.parse_search_page(page_response.read())
+            return self.parse_search_page(page_response.read(), tv_listing.type)
 
     def get_scores(self, read):
         """
@@ -69,6 +70,7 @@ class RTScrape(object):
                         'best_rating': self.getCount(helper.rating_in_meta('bestrating', audience_score)),
                         'worst_rating': self.getCount(helper.rating_in_meta('worstrating', audience_score)),
                         'users': self.getCount(helper.rating_in_meta('ratingCount', audience_score))}
+        time.sleep(1)
         return {'all_critic': all_critic, 'avg_audience': avg_audience}
 
     def getCount(self, soup):
@@ -76,7 +78,7 @@ class RTScrape(object):
             value = soup
             if hasattr(soup, 'text'):
                 value = soup.text
-            return long(value.replace(",", ""))
+            return long(value.replace(",", "").replace("%", ""))
         return 0
 
 
