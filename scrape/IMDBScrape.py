@@ -7,9 +7,6 @@ import os
 import sys
 import urllib
 import ujson
-import logging
-
-logging.basicConfig(filename='imdb.log', level=logging.DEBUG)
 
 from __builtin__ import long
 from __builtin__ import file
@@ -31,27 +28,41 @@ class IMDBScrape(object):
         self.exact = "&s=tt&&exact=true"
         self.type = "type="
 
-    def finder_url(self, listing):
+    def finder_url(self, listing, titles=False):
         """
         fetches IMDB search url
         :param listing: Listing
         :return: imdb search url http://www.imdb.com/find?q=<query>&type=<type>&s=tt&&exact=true
         """
-        self.type += lookup[listing.type]
         path = urllib.urlencode({self.q: listing.show_name})
-        return self.url + self.find + "?" + path + "&" + self.type + self.exact
+        url = self.url + self.find + "?" + path + "&"
 
-    def page_url(self, read):
+        if titles:
+            return url + "s=tt"
+
+        self.type += lookup[listing.type]
+        return url + self.type + self.exact
+
+    def page_url(self, tv_listing):
         """
         parses the imdb search url page and retrieves the first listing page url.
         :param read: read object of a resource. This way we can stub it out, in such a way that we can send a url response
         object or file read object
         :return: returns url of the imdb listing page: http://www.imdb.com/title/tt0898266/?ref_=fn_tt_tt_1
         """
-        helper = ScrapeHelper(read)
-        rows = helper.find_table_by_class("findList")
+        url = self.finder_url(tv_listing)
+        with contextlib.closing(urllib.urlopen(url)) as page_response:
+            helper = ScrapeHelper(page_response.read())
+
+            if helper.is_table_exists("findList"):
+                rows = helper.find_table_by_class("findList")
+            else:
+                url = self.finder_url(tv_listing, titles=True)
+                with contextlib.closing(urllib.urlopen(url)) as page_response_1:
+                    helper = ScrapeHelper(page_response_1.read())
+                    rows = helper.find_table_by_class("findList")
+
         top_result = rows[0].find('td').find('a').get('href')
-        helper.close()
         return self.url + top_result
 
     def getCount(self, anchor):
@@ -59,11 +70,24 @@ class IMDBScrape(object):
             return anchor.get('title').split()[0].replace(',', '')
         return 0
 
+    def meter_change(self, helper):
+        try:
+            meter_change = helper.find_by_id('div', 'meterChangeRow')
+            change = meter_change.find('span').text.strip().lower()
+            meter_change_value = int(helper.find_by_id('span', 'meterChange', meter_change).text)
+            if change == 'down':
+                return -meter_change_value
+            else:
+                return meter_change_value
+        except Exception:
+            return 0
+
     def getPopularity(self, helper):
         popularity = 0
         by_id = helper.find_by_id('span', 'meterRank')
         if by_id is not None:
             popularity = int(by_id.text.replace(",", ""))
+            self.meter_change(helper)
         return popularity
 
     def get_scores(self, read):
@@ -72,11 +96,10 @@ class IMDBScrape(object):
         :param read: read object
         :return: dict of popularity, best_rating, users, reviews, and external_reviews
         """
-        popularity, best_rating, users, reviews, external_reviews = 0, 0, 0, 0, 0
-        rating = 0
 
         helper = ScrapeHelper(read)
         popularity = self.getPopularity(helper)
+        popularity_change = self.meter_change(helper)
         score_div = helper.find_div_by_itemtype('http://schema.org/AggregateRating')
         rating = float(helper.find_by_itemprop('span', 'ratingValue', score_div).text.replace(",", ""))
         best_rating = int(helper.find_by_itemprop('span', 'bestRating', score_div).text.replace(",", ""))
@@ -93,6 +116,7 @@ class IMDBScrape(object):
                 external_reviews = count
 
         return {'popularity': popularity,
+                'popularity_change': popularity_change,
                 'rating': rating,
                 'best_rating': best_rating,
                 'users': users,
@@ -109,13 +133,10 @@ if __name__ == '__main__':
         try:
             print(line.strip())
             listing = Listing(line.strip())
-            search_url = imdb_scrape.finder_url(listing)
-            with contextlib.closing(urllib.urlopen(search_url)) as response:
-                page_url = imdb_scrape.page_url(response.read())
+            page_url = imdb_scrape.page_url(listing)
             with contextlib.closing(urllib.urlopen(page_url)) as response:
                 score = imdb_scrape.get_scores(response.read())
             imdb_scores.write(line.strip() + '\t' + ujson.dumps(score) + "\n")
         except AttributeError as e:
             imdb_missed.write(line.strip() + '\n')
-            logging.error('error fot show', line, e)
     imdb_scores.close()
