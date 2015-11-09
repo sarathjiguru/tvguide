@@ -5,3 +5,5 @@
 *resources/*.csv
 *resources/*.twitter
 *.pyc
+*resources/*.fb
+*resources/*.log
