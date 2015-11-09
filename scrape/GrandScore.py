@@ -118,7 +118,7 @@ class GrandScore(object):
         sorted_ratings = sorted(ratings.items(), key=operator.itemgetter(1), reverse=True)
         print(self.grand_rating['Game of Thrones|tv'])
         for ratingtuple in sorted_ratings:
-            sorted_output.write(ratingtuple[0] + "," + str(ratingtuple[1]) + "\n")
+            sorted_output.write(ratingtuple[0] + "\t" + str(ratingtuple[1]) + "\n")
         sorted_output.close()
 
 
