@@ -1,0 +1,943 @@
+The Big Bang Theory|tv	{"rating":8.5,"users":484067,"popularity":18,"external_reviews":105,"reviews":354,"best_rating":10}
+Family Guy|tv	{"rating":8.3,"users":222103,"popularity":98,"external_reviews":83,"reviews":567,"best_rating":10}
+Criminal Minds|tv	{"rating":8.2,"users":99942,"popularity":32,"external_reviews":46,"reviews":154,"best_rating":10}
+NCIS|tv	{"rating":8.0,"users":78367,"popularity":43,"external_reviews":48,"reviews":162,"best_rating":10}
+How I Met Your Mother|tv	{"rating":8.4,"users":412742,"popularity":69,"external_reviews":59,"reviews":347,"best_rating":10}
+SpongeBob SquarePants|tv	{"rating":8.1,"users":53807,"popularity":371,"external_reviews":125,"reviews":273,"best_rating":10}
+Law & Order: Special Victims Unit|tv	{"rating":8.1,"users":48076,"popularity":62,"external_reviews":42,"reviews":150,"best_rating":10}
+Friends|tv	{"rating":9.0,"users":419137,"popularity":55,"external_reviews":110,"reviews":771,"best_rating":10}
+American Dad|tv	{"rating":7.5,"users":75572,"popularity":208,"external_reviews":28,"reviews":98,"best_rating":10}
+Duck Dynasty|tv	{"rating":6.5,"users":8917,"popularity":1172,"external_reviews":25,"reviews":47,"best_rating":10}
+Tosh.0|tv	{"rating":7.5,"users":11438,"popularity":1292,"external_reviews":17,"reviews":31,"best_rating":10}
+The Walking Dead|tv	{"rating":8.6,"users":559827,"popularity":1,"external_reviews":223,"reviews":726,"best_rating":10}
+South Park|tv	{"rating":8.8,"users":215719,"popularity":83,"external_reviews":164,"reviews":364,"best_rating":10}
+House|tv	{"rating":8.9,"users":277829,"popularity":86,"external_reviews":72,"reviews":440,"best_rating":10}
+Two and a Half Men|tv	{"rating":7.1,"users":185545,"popularity":118,"external_reviews":57,"reviews":282,"best_rating":10}
+Pawn Stars|tv	{"rating":7.3,"users":11729,"popularity":1051,"external_reviews":14,"reviews":56,"best_rating":10}
+Modern Family|tv	{"rating":8.6,"users":217623,"popularity":39,"external_reviews":75,"reviews":137,"best_rating":10}
+The King of Queens|tv	{"rating":7.4,"users":56534,"popularity":390,"external_reviews":43,"reviews":121,"best_rating":10}
+Ridiculousness|tv	{"rating":6.2,"users":3717,"popularity":1464,"external_reviews":"","reviews":30,"best_rating":10}
+Futurama|tv	{"rating":8.6,"users":136342,"popularity":304,"external_reviews":73,"reviews":289,"best_rating":10}
+Bones|tv	{"rating":8.0,"users":101947,"popularity":50,"external_reviews":68,"reviews":172,"best_rating":10}
+Seinfeld|tv	{"rating":8.9,"users":155517,"popularity":161,"external_reviews":60,"reviews":356,"best_rating":10}
+The Simpsons|tv	{"rating":8.9,"users":238240,"popularity":106,"external_reviews":162,"reviews":697,"best_rating":10}
+Law & Order: Criminal Intent|tv	{"rating":7.3,"users":16865,"popularity":387,"external_reviews":18,"reviews":143,"best_rating":10}
+Castle|tv	{"rating":8.3,"users":109197,"popularity":45,"external_reviews":58,"reviews":129,"best_rating":10}
+Everybody Loves Raymond|tv	{"rating":7.1,"users":47854,"popularity":311,"external_reviews":23,"reviews":175,"best_rating":10}
+American Pickers|tv	{"rating":6.9,"users":4602,"popularity":1541,"external_reviews":9,"reviews":20,"best_rating":10}
+That '70s Show|tv	{"rating":8.1,"users":107281,"popularity":121,"external_reviews":44,"reviews":231,"best_rating":10}
+The Office|tv	{"rating":8.8,"users":179555,"popularity":76,"external_reviews":83,"reviews":488,"best_rating":10}
+Cops|tv	{"rating":7.1,"users":3675,"popularity":1922,"external_reviews":10,"reviews":25,"best_rating":10}
+Martin|tv	{"rating":7.3,"users":4753,"popularity":824,"external_reviews":3,"reviews":40,"best_rating":10}
+Diners, Drive-Ins and Dives|tv	{"rating":7.5,"users":1746,"popularity":2417,"external_reviews":1,"reviews":9,"best_rating":10}
+America's Funniest Home Videos|tv	{"rating":6.2,"users":3440,"popularity":1787,"external_reviews":10,"reviews":39,"best_rating":10}
+CSI: Miami|tv	{"rating":6.4,"users":41790,"popularity":327,"external_reviews":34,"reviews":231,"best_rating":10}
+Storage Wars|tv	{"rating":6.6,"users":6671,"popularity":1025,"external_reviews":17,"reviews":14,"best_rating":10}
+Saturday Night Live|tv	{"rating":8.2,"users":30975,"popularity":241,"external_reviews":46,"reviews":186,"best_rating":10}
+King of the Hill|tv	{"rating":7.2,"users":33779,"popularity":714,"external_reviews":36,"reviews":137,"best_rating":10}
+Burn Notice|tv	{"rating":8.0,"users":56609,"popularity":339,"external_reviews":55,"reviews":145,"best_rating":10}
+Good Luck Charlie|tv	{"rating":7.1,"users":12298,"popularity":289,"external_reviews":1,"reviews":45,"best_rating":10}
+Keeping Up With the Kardashians|tv	{"rating":2.8,"users":17337,"popularity":242,"external_reviews":6,"reviews":45,"best_rating":10}
+It's Always Sunny in Philadelphia|tv	{"rating":8.8,"users":120641,"popularity":120,"external_reviews":75,"reviews":144,"best_rating":10}
+MythBusters|tv	{"rating":8.4,"users":40116,"popularity":388,"external_reviews":10,"reviews":51,"best_rating":10}
+Top Gear|tv	{"rating":8.9,"users":68258,"popularity":538,"external_reviews":37,"reviews":64,"best_rating":10}
+Supernatural|tv	{"rating":8.6,"users":256415,"popularity":9,"external_reviews":106,"reviews":539,"best_rating":10}
+Phineas and Ferb|tv	{"rating":8.0,"users":18965,"popularity":619,"external_reviews":21,"reviews":68,"best_rating":10}
+The Daily Show With Jon Stewart|tv	{"rating":8.8,"users":29106,"popularity":759,"external_reviews":44,"reviews":62,"best_rating":10}
+Chopped|tv	{"rating":7.5,"users":2006,"popularity":1579,"external_reviews":1,"reviews":8,"best_rating":10}
+Breaking Bad|tv	{"rating":9.5,"users":764520,"popularity":29,"external_reviews":168,"reviews":789,"best_rating":10}
+CNN Newsroom|tv	{"rating":4.2,"users":97,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Modern Marvels|tv	{"rating":8.2,"users":1220,"popularity":0,"external_reviews":5,"reviews":7,"best_rating":10}
+The Fresh Prince of Bel-Air|tv	{"rating":8.0,"users":83370,"popularity":319,"external_reviews":13,"reviews":97,"best_rating":10}
+The Golden Girls|tv	{"rating":7.8,"users":20314,"popularity":345,"external_reviews":31,"reviews":136,"best_rating":10}
+CSI: Crime Scene Investigation|tv	{"rating":7.8,"users":64737,"popularity":131,"external_reviews":65,"reviews":229,"best_rating":10}
+Almost Human|tv	{"rating":8.1,"users":38241,"popularity":687,"external_reviews":11,"reviews":88,"best_rating":10}
+House Hunters|tv	{"rating":7.0,"users":723,"popularity":3011,"external_reviews":1,"reviews":4,"best_rating":10}
+How It's Made|tv	{"rating":7.9,"users":3817,"popularity":2036,"external_reviews":1,"reviews":15,"best_rating":10}
+The Fairly OddParents|tv	{"rating":7.3,"users":18878,"popularity":1022,"external_reviews":8,"reviews":98,"best_rating":10}
+The Voice|tv	{"rating":6.6,"users":8871,"popularity":722,"external_reviews":2,"reviews":29,"best_rating":10}
+The First 48|tv	{"rating":8.4,"users":1596,"popularity":2534,"external_reviews":3,"reviews":10,"best_rating":10}
+Grey's Anatomy|tv	{"rating":7.7,"users":146922,"popularity":16,"external_reviews":63,"reviews":258,"best_rating":10}
+Law & Order|tv	{"rating":7.7,"users":23676,"popularity":234,"external_reviews":36,"reviews":156,"best_rating":10}
+George Lopez|tv	{"rating":6.7,"users":7944,"popularity":601,"external_reviews":3,"reviews":45,"best_rating":10}
+The Mentalist|tv	{"rating":8.1,"users":123894,"popularity":155,"external_reviews":52,"reviews":132,"best_rating":10}
+Star Trek: The Next Generation|tv	{"rating":8.7,"users":57771,"popularity":201,"external_reviews":189,"reviews":197,"best_rating":10}
+Full House|tv	{"rating":6.6,"users":36576,"popularity":243,"external_reviews":26,"reviews":294,"best_rating":10}
+Wipeout|tv	{"rating":6.7,"users":5878,"popularity":2796,"external_reviews":2,"reviews":13,"best_rating":10}
+Roseanne|tv	{"rating":7.0,"users":25952,"popularity":314,"external_reviews":20,"reviews":111,"best_rating":10}
+The Colbert Report|tv	{"rating":8.7,"users":27139,"popularity":2050,"external_reviews":12,"reviews":41,"best_rating":10}
+30 Rock|tv	{"rating":8.2,"users":87040,"popularity":249,"external_reviews":47,"reviews":84,"best_rating":10}
+Jessie|tv	{"rating":5.9,"users":7323,"popularity":229,"external_reviews":1,"reviews":53,"best_rating":10}
+Bar Rescue|tv	{"rating":7.8,"users":1623,"popularity":1828,"external_reviews":"","reviews":12,"best_rating":10}
+NCIS: Los Angeles|tv	{"rating":6.8,"users":31597,"popularity":146,"external_reviews":18,"reviews":77,"best_rating":10}
+Frasier|tv	{"rating":8.0,"users":52191,"popularity":262,"external_reviews":45,"reviews":145,"best_rating":10}
+Monk|tv	{"rating":8.0,"users":48175,"popularity":608,"external_reviews":46,"reviews":129,"best_rating":10}
+Scandal|tv	{"rating":7.9,"users":45181,"popularity":56,"external_reviews":45,"reviews":142,"best_rating":10}
+House Hunters International|tv	{"rating":7.1,"users":563,"popularity":0,"external_reviews":"","reviews":2,"best_rating":10}
+The Cosby Show|tv	{"rating":7.5,"users":23619,"popularity":552,"external_reviews":17,"reviews":90,"best_rating":10}
+Sons of Anarchy|tv	{"rating":8.7,"users":161238,"popularity":40,"external_reviews":100,"reviews":230,"best_rating":10}
+Adventure Time|tv	{"rating":8.7,"users":40959,"popularity":374,"external_reviews":41,"reviews":105,"best_rating":10}
+The Real Housewives of Atlanta|tv	{"rating":4.1,"users":2270,"popularity":1956,"external_reviews":2,"reviews":3,"best_rating":10}
+Rules of Engagement|tv	{"rating":7.3,"users":25042,"popularity":407,"external_reviews":8,"reviews":40,"best_rating":10}
+Today|tv	{"rating":5.2,"users":1092,"popularity":1908,"external_reviews":"","reviews":11,"best_rating":10}
+Psych|tv	{"rating":8.4,"users":63702,"popularity":228,"external_reviews":36,"reviews":124,"best_rating":10}
+Family Feud|tv	{"rating":7.2,"users":1061,"popularity":2959,"external_reviews":"","reviews":28,"best_rating":10}
+Once Upon a Time|tv	{"rating":8.0,"users":153179,"popularity":13,"external_reviews":54,"reviews":256,"best_rating":10}
+Sex and the City|tv	{"rating":6.9,"users":74481,"popularity":207,"external_reviews":45,"reviews":235,"best_rating":10}
+Fast N' Loud|tv	{"rating":7.7,"users":1154,"popularity":882,"external_reviews":1,"reviews":4,"best_rating":10}
+Scrubs|tv	{"rating":8.5,"users":178516,"popularity":177,"external_reviews":75,"reviews":301,"best_rating":10}
+Hardcore Pawn|tv	{"rating":4.8,"users":3234,"popularity":1699,"external_reviews":1,"reviews":67,"best_rating":10}
+The Cleveland Show|tv	{"rating":5.6,"users":28791,"popularity":876,"external_reviews":13,"reviews":87,"best_rating":10}
+Glee|tv	{"rating":6.7,"users":113304,"popularity":132,"external_reviews":89,"reviews":174,"best_rating":10}
+My Wife and Kids|tv	{"rating":6.8,"users":19310,"popularity":594,"external_reviews":1,"reviews":61,"best_rating":10}
+Pretty Little Liars|tv	{"rating":7.8,"users":103779,"popularity":58,"external_reviews":31,"reviews":132,"best_rating":10}
+Ancient Aliens|tv	{"rating":7.4,"users":5718,"popularity":1888,"external_reviews":27,"reviews":54,"best_rating":10}
+Marvel's Agents of S.H.I.E.L.D.|tv	{"rating":7.5,"users":115568,"popularity":19,"external_reviews":53,"reviews":278,"best_rating":10}
+The Vampire Diaries|tv	{"rating":7.9,"users":202753,"popularity":20,"external_reviews":57,"reviews":265,"best_rating":10}
+Doctor Who|tv	{"rating":8.8,"users":134834,"popularity":24,"external_reviews":151,"reviews":324,"best_rating":10}
+Sleepy Hollow|tv	{"rating":7.6,"users":44564,"popularity":71,"external_reviews":37,"reviews":108,"best_rating":10}
+Catfish: The TV Show|tv	{"rating":7.2,"users":4228,"popularity":1491,"external_reviews":10,"reviews":7,"best_rating":10}
+Regular Show|tv	{"rating":8.4,"users":15449,"popularity":821,"external_reviews":22,"reviews":60,"best_rating":10}
+Jersey Shore|tv	{"rating":3.5,"users":20330,"popularity":1330,"external_reviews":14,"reviews":56,"best_rating":10}
+The Daily Show|tv	{"rating":8.8,"users":29106,"popularity":759,"external_reviews":44,"reviews":62,"best_rating":10}
+Ghost Adventures|tv	{"rating":7.7,"users":4519,"popularity":612,"external_reviews":3,"reviews":48,"best_rating":10}
+Impractical Jokers|tv	{"rating":8.8,"users":12374,"popularity":603,"external_reviews":8,"reviews":36,"best_rating":10}
+The Nanny|tv	{"rating":6.8,"users":26679,"popularity":433,"external_reviews":11,"reviews":88,"best_rating":10}
+New Girl|tv	{"rating":7.8,"users":124362,"popularity":75,"external_reviews":21,"reviews":126,"best_rating":10}
+Conan|tv	{"rating":5.2,"users":79289,"popularity":751,"external_reviews":309,"reviews":315,"best_rating":10}
+Boy Meets World|tv	{"rating":8.1,"users":30669,"popularity":202,"external_reviews":23,"reviews":254,"best_rating":10}
+Reba|tv	{"rating":6.4,"users":10334,"popularity":461,"external_reviews":10,"reviews":72,"best_rating":10}
+Wendell & Vinnie|tv	{"rating":6.8,"users":760,"popularity":3435,"external_reviews":3,"reviews":13,"best_rating":10}
+Person of Interest|tv	{"rating":8.5,"users":106896,"popularity":51,"external_reviews":46,"reviews":175,"best_rating":10}
+The New Adventures of Old Christine|tv	{"rating":7.0,"users":9473,"popularity":1152,"external_reviews":8,"reviews":31,"best_rating":10}
+Victorious|tv	{"rating":6.9,"users":12414,"popularity":428,"external_reviews":5,"reviews":45,"best_rating":10}
+Property Brothers|tv	{"rating":7.3,"users":1206,"popularity":1381,"external_reviews":1,"reviews":19,"best_rating":10}
+Man v. Food|tv	{"rating":7.5,"users":5094,"popularity":3430,"external_reviews":4,"reviews":19,"best_rating":10}
+White Collar|tv	{"rating":8.3,"users":86552,"popularity":136,"external_reviews":33,"reviews":72,"best_rating":10}
+Charmed|tv	{"rating":7.0,"users":52562,"popularity":210,"external_reviews":28,"reviews":343,"best_rating":10}
+Love It or List It|tv	{"rating":6.3,"users":769,"popularity":2783,"external_reviews":1,"reviews":22,"best_rating":10}
+Wizards of Waverly Place|tv	{"rating":6.8,"users":19169,"popularity":528,"external_reviews":13,"reviews":78,"best_rating":10}
+American Horror Story|tv	{"rating":8.3,"users":173827,"popularity":2,"external_reviews":134,"reviews":267,"best_rating":10}
+Mickey Mouse Clubhouse|tv	{"rating":5.9,"users":1104,"popularity":1120,"external_reviews":32,"reviews":26,"best_rating":10}
+Revenge|tv	{"rating":8.0,"users":94445,"popularity":173,"external_reviews":23,"reviews":123,"best_rating":10}
+iCarly|tv	{"rating":6.5,"users":22051,"popularity":378,"external_reviews":21,"reviews":115,"best_rating":10}
+Flashpoint|tv	{"rating":7.7,"users":13641,"popularity":613,"external_reviews":15,"reviews":65,"best_rating":10}
+Tom & Jerry|tv	{"rating":7.9,"users":396,"popularity":0,"external_reviews":5,"reviews":2,"best_rating":10}
+Kitchen Nightmares|tv	{"rating":7.4,"users":7206,"popularity":2078,"external_reviews":4,"reviews":20,"best_rating":10}
+Shark Tank|tv	{"rating":7.4,"users":5031,"popularity":974,"external_reviews":3,"reviews":11,"best_rating":10}
+The Middle|tv	{"rating":7.4,"users":29424,"popularity":127,"external_reviews":9,"reviews":69,"best_rating":10}
+America's Got Talent|tv	{"rating":5.5,"users":6283,"popularity":1887,"external_reviews":2,"reviews":47,"best_rating":10}
+Parks and Recreation|tv	{"rating":8.6,"users":103093,"popularity":85,"external_reviews":45,"reviews":109,"best_rating":10}
+American Idol|tv	{"rating":4.1,"users":19078,"popularity":1773,"external_reviews":14,"reviews":136,"best_rating":10}
+Cold Case|tv	{"rating":7.6,"users":17875,"popularity":702,"external_reviews":4,"reviews":77,"best_rating":10}
+Restaurant: Impossible|tv	{"rating":7.1,"users":1082,"popularity":3329,"external_reviews":1,"reviews":13,"best_rating":10}
+I Love Lucy|tv	{"rating":8.5,"users":14712,"popularity":606,"external_reviews":41,"reviews":89,"best_rating":10}
+Hawaii Five-0|tv	{"rating":7.4,"users":42782,"popularity":74,"external_reviews":26,"reviews":118,"best_rating":10}
+Robot Chicken|tv	{"rating":7.8,"users":31542,"popularity":627,"external_reviews":37,"reviews":74,"best_rating":10}
+The Blacklist|tv	{"rating":8.2,"users":85358,"popularity":25,"external_reviews":27,"reviews":225,"best_rating":10}
+Shake It Up!|tv	{"rating":4.8,"users":8132,"popularity":589,"external_reviews":3,"reviews":99,"best_rating":10}
+2 Broke Girls|tv	{"rating":6.9,"users":64506,"popularity":163,"external_reviews":31,"reviews":190,"best_rating":10}
+Chelsea Lately|tv	{"rating":6.3,"users":3770,"popularity":2816,"external_reviews":2,"reviews":13,"best_rating":10}
+TMZ|tv	{"rating":3.7,"users":1645,"popularity":2613,"external_reviews":2,"reviews":17,"best_rating":10}
+Arrow|tv	{"rating":8.1,"users":254374,"popularity":4,"external_reviews":57,"reviews":374,"best_rating":10}
+Late Night With Jimmy Fallon|tv	{"rating":7.1,"users":8175,"popularity":1901,"external_reviews":1,"reviews":28,"best_rating":10}
+Everybody Hates Chris|tv	{"rating":7.4,"users":26168,"popularity":568,"external_reviews":10,"reviews":50,"best_rating":10}
+Girl Code|tv	{"rating":7.1,"users":1022,"popularity":2464,"external_reviews":1,"reviews":4,"best_rating":10}
+Good Morning America|tv	{"rating":5.3,"users":727,"popularity":2305,"external_reviews":"","reviews":3,"best_rating":10}
+Looney Tunes|tv	{"rating":8.5,"users":10826,"popularity":0,"external_reviews":2,"reviews":3,"best_rating":10}
+Elementary|tv	{"rating":7.9,"users":63905,"popularity":139,"external_reviews":35,"reviews":177,"best_rating":10}
+The Soup|tv	{"rating":8.4,"users":5223,"popularity":2363,"external_reviews":3,"reviews":15,"best_rating":10}
+The Suite Life on Deck|tv	{"rating":6.1,"users":8631,"popularity":957,"external_reviews":6,"reviews":34,"best_rating":10}
+Bob's Burgers|tv	{"rating":8.1,"users":31399,"popularity":159,"external_reviews":17,"reviews":90,"best_rating":10}
+Jeopardy!|tv	{"rating":8.3,"users":3525,"popularity":2961,"external_reviews":6,"reviews":34,"best_rating":10}
+Snapped|tv	{"rating":8.1,"users":421,"popularity":2775,"external_reviews":1,"reviews":4,"best_rating":10}
+Tyler Perry's House of Payne|tv	{"rating":3.3,"users":5172,"popularity":1588,"external_reviews":4,"reviews":82,"best_rating":10}
+Avatar: The Last Airbender|tv	{"rating":9.2,"users":113586,"popularity":325,"external_reviews":41,"reviews":247,"best_rating":10}
+Community|tv	{"rating":8.6,"users":133496,"popularity":152,"external_reviews":61,"reviews":130,"best_rating":10}
+Undercover Boss|tv	{"rating":5.9,"users":2298,"popularity":3028,"external_reviews":1,"reviews":16,"best_rating":10}
+Suits|tv	{"rating":8.7,"users":209185,"popularity":49,"external_reviews":35,"reviews":149,"best_rating":10}
+The X Factor|tv	{"rating":4.5,"users":3111,"popularity":1538,"external_reviews":1,"reviews":19,"best_rating":10}
+The Amazing Race|tv	{"rating":7.6,"users":11034,"popularity":982,"external_reviews":18,"reviews":63,"best_rating":10}
+Revolution|tv	{"rating":6.7,"users":68768,"popularity":401,"external_reviews":22,"reviews":319,"best_rating":10}
+Grimm|tv	{"rating":7.8,"users":74052,"popularity":99,"external_reviews":33,"reviews":138,"best_rating":10}
+Deadliest Catch|tv	{"rating":8.1,"users":5702,"popularity":1891,"external_reviews":9,"reviews":12,"best_rating":10}
+NOVA|tv	{"rating":8.7,"users":1176,"popularity":4549,"external_reviews":7,"reviews":4,"best_rating":10}
+A.N.T. Farm|tv	{"rating":4.8,"users":3855,"popularity":853,"external_reviews":2,"reviews":35,"best_rating":10}
+Teen Wolf|tv	{"rating":7.8,"users":76467,"popularity":70,"external_reviews":27,"reviews":135,"best_rating":10}
+E! News|tv	{"rating":4.5,"users":299,"popularity":4260,"external_reviews":"","reviews":"","best_rating":10}
+Bizarre Foods With Andrew Zimmern|tv	{"rating":8.1,"users":1386,"popularity":0,"external_reviews":2,"reviews":7,"best_rating":10}
+The Tonight Show With Jay Leno|tv	{"rating":5.3,"users":8135,"popularity":2594,"external_reviews":2,"reviews":89,"best_rating":10}
+CSI: NY|tv	{"rating":7.0,"users":34527,"popularity":386,"external_reviews":24,"reviews":75,"best_rating":10}
+Dr. Phil|tv	{"rating":4.0,"users":1841,"popularity":2412,"external_reviews":"","reviews":24,"best_rating":10}
+The Dr. Oz Show|tv	{"rating":4.9,"users":687,"popularity":0,"external_reviews":"","reviews":4,"best_rating":10}
+The Game|tv	{"rating":7.8,"users":242027,"popularity":1246,"external_reviews":152,"reviews":495,"best_rating":10}
+Cops Reloaded|tv	{"rating":7.1,"users":3675,"popularity":1922,"external_reviews":10,"reviews":25,"best_rating":10}
+M*A*S*H|tv	{"rating":8.4,"users":32066,"popularity":276,"external_reviews":54,"reviews":145,"best_rating":10}
+Judge Judy|tv	{"rating":5.9,"users":2383,"popularity":1978,"external_reviews":1,"reviews":58,"best_rating":10}
+My Name Is Earl|tv	{"rating":7.8,"users":79255,"popularity":452,"external_reviews":31,"reviews":138,"best_rating":10}
+Austin & Ally|tv	{"rating":6.0,"users":5613,"popularity":444,"external_reviews":1,"reviews":43,"best_rating":10}
+The Good Wife|tv	{"rating":8.3,"users":43245,"popularity":66,"external_reviews":28,"reviews":78,"best_rating":10}
+America's Next Top Model|tv	{"rating":5.5,"users":15144,"popularity":292,"external_reviews":7,"reviews":38,"best_rating":10}
+Archer|tv	{"rating":8.8,"users":73742,"popularity":105,"external_reviews":50,"reviews":65,"best_rating":10}
+Moonshiners|tv	{"rating":5.7,"users":783,"popularity":0,"external_reviews":2,"reviews":1,"best_rating":10}
+Teen Mom 2|tv	{"rating":4.3,"users":1407,"popularity":1549,"external_reviews":"","reviews":2,"best_rating":10}
+Through the Wormhole With Morgan Freeman|tv	{"rating":8.8,"users":8835,"popularity":2096,"external_reviews":9,"reviews":17,"best_rating":10}
+Real Husbands of Hollywood|tv	{"rating":7.8,"users":3034,"popularity":826,"external_reviews":1,"reviews":4,"best_rating":10}
+Love & Hip Hop: Atlanta|tv	{"rating":6.1,"users":419,"popularity":3893,"external_reviews":1,"reviews":1,"best_rating":10}
+Tyler Perry's Meet the Browns|tv	{"rating":4.0,"users":5598,"popularity":0,"external_reviews":43,"reviews":31,"best_rating":10}
+Drake & Josh|tv	{"rating":7.6,"users":24293,"popularity":448,"external_reviews":2,"reviews":83,"best_rating":10}
+Big Brother|tv	{"rating":5.2,"users":7524,"popularity":2065,"external_reviews":16,"reviews":47,"best_rating":10}
+Will & Grace|tv	{"rating":7.2,"users":34683,"popularity":524,"external_reviews":28,"reviews":184,"best_rating":10}
+Awkward.|tv	{"rating":7.7,"users":34370,"popularity":214,"external_reviews":22,"reviews":40,"best_rating":10}
+Masterpiece Classic|tv	{"rating":8.7,"users":97978,"popularity":44,"external_reviews":71,"reviews":120,"best_rating":10}
+The Real Housewives of New Jersey|tv	{"rating":3.8,"users":2318,"popularity":1947,"external_reviews":4,"reviews":4,"best_rating":10}
+The Real Housewives of Beverly Hills|tv	{"rating":4.3,"users":2927,"popularity":1194,"external_reviews":1,"reviews":10,"best_rating":10}
+Late Show With David Letterman|tv	{"rating":6.9,"users":9567,"popularity":2080,"external_reviews":2,"reviews":48,"best_rating":10}
+American Restoration|tv	{"rating":6.8,"users":1995,"popularity":3649,"external_reviews":5,"reviews":11,"best_rating":10}
+Chappelle's Show|tv	{"rating":8.8,"users":30538,"popularity":1307,"external_reviews":22,"reviews":87,"best_rating":10}
+Game of Thrones|tv	{"rating":9.5,"users":867990,"popularity":6,"external_reviews":187,"reviews":683,"best_rating":10}
+Dog the Bounty Hunter|tv	{"rating":5.2,"users":3625,"popularity":2542,"external_reviews":16,"reviews":62,"best_rating":10}
+Ghost Whisperer|tv	{"rating":6.3,"users":34817,"popularity":501,"external_reviews":24,"reviews":125,"best_rating":10}
+Zoey 101|tv	{"rating":5.7,"users":9046,"popularity":495,"external_reviews":2,"reviews":142,"best_rating":10}
+Workaholics|tv	{"rating":8.2,"users":34192,"popularity":315,"external_reviews":24,"reviews":36,"best_rating":10}
+Fringe|tv	{"rating":8.5,"users":166173,"popularity":222,"external_reviews":95,"reviews":374,"best_rating":10}
+Maury|tv	{"rating":4.3,"users":1361,"popularity":0,"external_reviews":1,"reviews":54,"best_rating":10}
+Leverage|tv	{"rating":7.9,"users":32923,"popularity":484,"external_reviews":36,"reviews":70,"best_rating":10}
+The Closer|tv	{"rating":7.5,"users":17589,"popularity":678,"external_reviews":21,"reviews":88,"best_rating":10}
+Wheel of Fortune|tv	{"rating":6.8,"users":1441,"popularity":2732,"external_reviews":1,"reviews":27,"best_rating":10}
+Guy Code|tv	{"rating":7.3,"users":436,"popularity":4384,"external_reviews":"","reviews":"","best_rating":10}
+Alaska State Troopers|tv	{"rating":7.7,"users":440,"popularity":0,"external_reviews":1,"reviews":3,"best_rating":10}
+Under the Dome|tv	{"rating":6.8,"users":78605,"popularity":169,"external_reviews":46,"reviews":357,"best_rating":10}
+Chicago Fire|tv	{"rating":7.9,"users":19674,"popularity":81,"external_reviews":15,"reviews":46,"best_rating":10}
+Anthony Bourdain: No Reservations|tv	{"rating":8.4,"users":4190,"popularity":3252,"external_reviews":4,"reviews":20,"best_rating":10}
+Counting Cars|tv	{"rating":7.5,"users":1189,"popularity":2407,"external_reviews":5,"reviews":8,"best_rating":10}
+The O'Reilly Factor|tv	{"rating":3.2,"users":3131,"popularity":0,"external_reviews":"","reviews":32,"best_rating":10}
+Without a Trace|tv	{"rating":6.9,"users":13936,"popularity":734,"external_reviews":12,"reviews":76,"best_rating":10}
+The Price Is Right|tv	{"rating":7.8,"users":2132,"popularity":1709,"external_reviews":"","reviews":31,"best_rating":10}
+1,000 Ways to Die|tv	{"rating":5.8,"users":1122,"popularity":0,"external_reviews":30,"reviews":19,"best_rating":10}
+Hoarding: Buried Alive|tv	{"rating":6.4,"users":309,"popularity":0,"external_reviews":1,"reviews":1,"best_rating":10}
+Ghost Hunters|tv	{"rating":7.3,"users":85242,"popularity":1752,"external_reviews":167,"reviews":325,"best_rating":10}
+Key & Peele|tv	{"rating":8.3,"users":8521,"popularity":781,"external_reviews":21,"reviews":23,"best_rating":10}
+MasterChef|tv	{"rating":7.3,"users":4755,"popularity":2018,"external_reviews":3,"reviews":22,"best_rating":10}
+American Greed|tv	{"rating":8.2,"users":154,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+Dexter|tv	{"rating":8.9,"users":456198,"popularity":67,"external_reviews":218,"reviews":449,"best_rating":10}
+Family Matters|tv	{"rating":6.5,"users":16964,"popularity":513,"external_reviews":7,"reviews":88,"best_rating":10}
+The Wayans Bros.|tv	{"rating":7.3,"users":2993,"popularity":2150,"external_reviews":2,"reviews":20,"best_rating":10}
+Cake Boss|tv	{"rating":6.8,"users":2420,"popularity":1392,"external_reviews":2,"reviews":11,"best_rating":10}
+The Amazing World of Gumball|tv	{"rating":8.1,"users":6012,"popularity":1150,"external_reviews":6,"reviews":43,"best_rating":10}
+The Young and the Restless|tv	{"rating":5.1,"users":4224,"popularity":308,"external_reviews":"","reviews":41,"best_rating":10}
+Buffy the Vampire Slayer|tv	{"rating":8.2,"users":95949,"popularity":116,"external_reviews":96,"reviews":648,"best_rating":10}
+The Originals|tv	{"rating":8.4,"users":61173,"popularity":48,"external_reviews":19,"reviews":82,"best_rating":10}
+The Andy Griffith Show|tv	{"rating":8.3,"users":7553,"popularity":432,"external_reviews":48,"reviews":54,"best_rating":10}
+The Millionaire Matchmaker|tv	{"rating":4.7,"users":1128,"popularity":3993,"external_reviews":2,"reviews":26,"best_rating":10}
+Long Island Medium|tv	{"rating":5.3,"users":937,"popularity":4623,"external_reviews":1,"reviews":5,"best_rating":10}
+Yes, Dear|tv	{"rating":7.0,"users":4975,"popularity":2170,"external_reviews":2,"reviews":55,"best_rating":10}
+Dance Moms|tv	{"rating":4.6,"users":4387,"popularity":931,"external_reviews":5,"reviews":34,"best_rating":10}
+Rizzoli & Isles|tv	{"rating":7.5,"users":21250,"popularity":260,"external_reviews":11,"reviews":54,"best_rating":10}
+Dancing With the Stars|tv	{"rating":4.7,"users":7671,"popularity":359,"external_reviews":3,"reviews":34,"best_rating":10}
+American Ninja Warrior|tv	{"rating":6.8,"users":1446,"popularity":3781,"external_reviews":1,"reviews":3,"best_rating":10}
+The Twilight Zone|tv	{"rating":9.0,"users":39244,"popularity":382,"external_reviews":71,"reviews":127,"best_rating":10}
+Project Runway|tv	{"rating":7.3,"users":7872,"popularity":848,"external_reviews":15,"reviews":19,"best_rating":10}
+The Following|tv	{"rating":7.5,"users":70187,"popularity":233,"external_reviews":39,"reviews":339,"best_rating":10}
+Arrested Development|tv	{"rating":9.0,"users":195478,"popularity":171,"external_reviews":66,"reviews":284,"best_rating":10}
+Falling Skies|tv	{"rating":7.3,"users":69947,"popularity":240,"external_reviews":90,"reviews":295,"best_rating":10}
+True Blood|tv	{"rating":8.0,"users":196923,"popularity":135,"external_reviews":203,"reviews":283,"best_rating":10}
+Nature|tv	{"rating":6.8,"users":11053,"popularity":0,"external_reviews":117,"reviews":76,"best_rating":10}
+Smallville|tv	{"rating":7.5,"users":91434,"popularity":182,"external_reviews":94,"reviews":363,"best_rating":10}
+The Late Late Show With Craig Ferguson|tv	{"rating":8.3,"users":8154,"popularity":2600,"external_reviews":1,"reviews":67,"best_rating":10}
+Cash Cab|tv	{"rating":7.6,"users":94,"popularity":0,"external_reviews":1,"reviews":"","best_rating":10}
+Cold Case Files|tv	{"rating":8.4,"users":667,"popularity":0,"external_reviews":4,"reviews":2,"best_rating":10}
+Hell's Kitchen|tv	{"rating":7.0,"users":13990,"popularity":1335,"external_reviews":8,"reviews":37,"best_rating":10}
+Covert Affairs|tv	{"rating":7.3,"users":21657,"popularity":434,"external_reviews":25,"reviews":67,"best_rating":10}
+Mike & Molly|tv	{"rating":6.5,"users":15487,"popularity":411,"external_reviews":9,"reviews":47,"best_rating":10}
+Blue Bloods|tv	{"rating":7.5,"users":19253,"popularity":102,"external_reviews":20,"reviews":84,"best_rating":10}
+Being Human|tv	{"rating":7.8,"users":19562,"popularity":651,"external_reviews":43,"reviews":42,"best_rating":10}
+General Hospital|tv	{"rating":6.7,"users":3131,"popularity":373,"external_reviews":1,"reviews":44,"best_rating":10}
+Sesame Street|tv	{"rating":8.3,"users":7125,"popularity":926,"external_reviews":24,"reviews":75,"best_rating":10}
+The Looney Tunes Show|tv	{"rating":7.6,"users":4850,"popularity":2443,"external_reviews":9,"reviews":57,"best_rating":10}
+Sam & Cat|tv	{"rating":5.9,"users":4289,"popularity":863,"external_reviews":2,"reviews":42,"best_rating":10}
+Malcolm in the Middle|tv	{"rating":8.0,"users":89368,"popularity":257,"external_reviews":30,"reviews":170,"best_rating":10}
+Lizard Lick Towing|tv	{"rating":4.7,"users":1673,"popularity":2355,"external_reviews":1,"reviews":23,"best_rating":10}
+The Real Housewives of Orange County|tv	{"rating":3.8,"users":2362,"popularity":721,"external_reviews":3,"reviews":21,"best_rating":10}
+Tanked|tv	{"rating":6.9,"users":768,"popularity":1839,"external_reviews":"","reviews":3,"best_rating":10}
+Raising Hope|tv	{"rating":8.0,"users":29055,"popularity":442,"external_reviews":14,"reviews":48,"best_rating":10}
+Aqua Teen Hunger Force|tv	{"rating":7.7,"users":17851,"popularity":1146,"external_reviews":21,"reviews":69,"best_rating":10}
+Ink Master|tv	{"rating":7.4,"users":1337,"popularity":1399,"external_reviews":1,"reviews":11,"best_rating":10}
+Hannity|tv	{"rating":3.5,"users":614,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+Gilmore Girls|tv	{"rating":8.0,"users":56517,"popularity":54,"external_reviews":52,"reviews":258,"best_rating":10}
+Mad Men|tv	{"rating":8.7,"users":131150,"popularity":92,"external_reviews":177,"reviews":210,"best_rating":10}
+Top Gear|tv	{"rating":8.9,"users":68260,"popularity":538,"external_reviews":37,"reviews":64,"best_rating":10}
+Johnny Test|tv	{"rating":5.2,"users":3186,"popularity":2189,"external_reviews":2,"reviews":62,"best_rating":10}
+The Wendy Williams Show|tv	{"rating":4.0,"users":663,"popularity":0,"external_reviews":2,"reviews":10,"best_rating":10}
+Swamp People|tv	{"rating":6.3,"users":1642,"popularity":4257,"external_reviews":11,"reviews":"","best_rating":10}
+Dog With a Blog|tv	{"rating":4.7,"users":3221,"popularity":814,"external_reviews":2,"reviews":35,"best_rating":10}
+I (Almost) Got Away With It|tv	{"rating":7.5,"users":328,"popularity":0,"external_reviews":1,"reviews":4,"best_rating":10}
+NBC Nightly News|tv	{"rating":5.7,"users":332,"popularity":0,"external_reviews":"","reviews":3,"best_rating":10}
+Entertainment Tonight|tv	{"rating":3.7,"users":1353,"popularity":2215,"external_reviews":"","reviews":17,"best_rating":10}
+Cheers|tv	{"rating":7.8,"users":32066,"popularity":312,"external_reviews":51,"reviews":102,"best_rating":10}
+Dateline NBC|tv	{"rating":6.5,"users":1072,"popularity":2306,"external_reviews":"","reviews":5,"best_rating":10}
+Face Off|tv	{"rating":7.3,"users":268243,"popularity":1146,"external_reviews":156,"reviews":531,"best_rating":10}
+Mob Wives|tv	{"rating":4.7,"users":1086,"popularity":2327,"external_reviews":"","reviews":9,"best_rating":10}
+What Not to Wear|tv	{"rating":7.0,"users":1505,"popularity":0,"external_reviews":2,"reviews":18,"best_rating":10}
+Nick Cannon Presents: Wild 'n Out|tv	{"rating":6.6,"users":1294,"popularity":2005,"external_reviews":1,"reviews":16,"best_rating":10}
+Parenthood|tv	{"rating":8.1,"users":22339,"popularity":195,"external_reviews":52,"reviews":82,"best_rating":10}
+Royal Pains|tv	{"rating":7.0,"users":15511,"popularity":499,"external_reviews":15,"reviews":35,"best_rating":10}
+Days of our Lives|tv	{"rating":5.2,"users":4555,"popularity":281,"external_reviews":"","reviews":89,"best_rating":10}
+Big Time Rush|tv	{"rating":6.1,"users":6192,"popularity":822,"external_reviews":3,"reviews":39,"best_rating":10}
+Good Eats|tv	{"rating":9.1,"users":2425,"popularity":3493,"external_reviews":4,"reviews":25,"best_rating":10}
+Dog Whisperer|tv	{"rating":8.1,"users":2189,"popularity":3902,"external_reviews":4,"reviews":22,"best_rating":10}
+Doc McStuffins|tv	{"rating":6.9,"users":968,"popularity":811,"external_reviews":6,"reviews":9,"best_rating":10}
+Curious George|tv	{"rating":6.6,"users":12403,"popularity":0,"external_reviews":87,"reviews":118,"best_rating":10}
+Caillou|tv	{"rating":4.4,"users":1438,"popularity":1916,"external_reviews":7,"reviews":70,"best_rating":10}
+So You Think You Can Dance|tv	{"rating":6.8,"users":8804,"popularity":1724,"external_reviews":2,"reviews":23,"best_rating":10}
+The People's Court|tv	{"rating":6.4,"users":447,"popularity":0,"external_reviews":"","reviews":15,"best_rating":10}
+Weeds|tv	{"rating":8.1,"users":82816,"popularity":255,"external_reviews":79,"reviews":140,"best_rating":10}
+NUMB3RS|tv	{"rating":6.9,"users":31745,"popularity":489,"external_reviews":26,"reviews":105,"best_rating":10}
+FOX and Friends|tv	{"rating":3.1,"users":629,"popularity":3378,"external_reviews":3,"reviews":10,"best_rating":10}
+Hot in Cleveland|tv	{"rating":7.2,"users":9597,"popularity":683,"external_reviews":17,"reviews":38,"best_rating":10}
+The Rachel Maddow Show|tv	{"rating":6.7,"users":642,"popularity":0,"external_reviews":"","reviews":13,"best_rating":10}
+Dora the Explorer|tv	{"rating":3.9,"users":2802,"popularity":1030,"external_reviews":15,"reviews":57,"best_rating":10}
+Saved by the Bell|tv	{"rating":7.0,"users":23901,"popularity":290,"external_reviews":10,"reviews":160,"best_rating":10}
+Survivorman|tv	{"rating":8.4,"users":5132,"popularity":3680,"external_reviews":2,"reviews":15,"best_rating":10}
+16 and Pregnant|tv	{"rating":3.0,"users":2176,"popularity":3473,"external_reviews":2,"reviews":2,"best_rating":10}
+Nashville|tv	{"rating":7.7,"users":15929,"popularity":88,"external_reviews":21,"reviews":52,"best_rating":10}
+Entourage|tv	{"rating":6.8,"users":41477,"popularity":124,"external_reviews":201,"reviews":144,"best_rating":10}
+According to Jim|tv	{"rating":6.4,"users":27379,"popularity":975,"external_reviews":6,"reviews":56,"best_rating":10}
+Good Times|tv	{"rating":7.3,"users":3501,"popularity":739,"external_reviews":21,"reviews":54,"best_rating":10}
+Mystery Detectives|tv	{"rating":8.8,"users":1546,"popularity":2167,"external_reviews":"","reviews":13,"best_rating":10}
+Judge Mathis|tv	{"rating":5.7,"users":299,"popularity":0,"external_reviews":"","reviews":22,"best_rating":10}
+Gold Rush: Alaska|tv	{"rating":7.1,"users":2358,"popularity":480,"external_reviews":1,"reviews":10,"best_rating":10}
+Lockup|tv	{"rating":6.3,"users":27180,"popularity":0,"external_reviews":47,"reviews":66,"best_rating":10}
+Switched at Birth|tv	{"rating":7.8,"users":17544,"popularity":172,"external_reviews":7,"reviews":40,"best_rating":10}
+Brain Games|tv	{"rating":8.7,"users":1469,"popularity":4169,"external_reviews":3,"reviews":5,"best_rating":10}
+The Doctors|tv	{"rating":5.1,"users":610,"popularity":3449,"external_reviews":1,"reviews":8,"best_rating":10}
+One Tree Hill|tv	{"rating":7.7,"users":54128,"popularity":104,"external_reviews":24,"reviews":191,"best_rating":10}
+Say Yes to the Dress|tv	{"rating":5.2,"users":1102,"popularity":2592,"external_reviews":2,"reviews":2,"best_rating":10}
+Dexter's Laboratory|tv	{"rating":8.0,"users":26956,"popularity":1533,"external_reviews":1,"reviews":52,"best_rating":10}
+Cupcake Wars|tv	{"rating":5.7,"users":548,"popularity":3713,"external_reviews":1,"reviews":1,"best_rating":10}
+Warehouse 13|tv	{"rating":7.6,"users":35715,"popularity":398,"external_reviews":31,"reviews":110,"best_rating":10}
+Home Improvement|tv	{"rating":7.2,"users":28593,"popularity":351,"external_reviews":42,"reviews":83,"best_rating":10}
+60 Minutes|tv	{"rating":7.9,"users":127291,"popularity":2166,"external_reviews":205,"reviews":517,"best_rating":10}
+Kickin' It|tv	{"rating":6.1,"users":3089,"popularity":942,"external_reviews":1,"reviews":15,"best_rating":10}
+Gold Rush|tv	{"rating":7.1,"users":2358,"popularity":480,"external_reviews":1,"reviews":10,"best_rating":10}
+The Biggest Loser|tv	{"rating":5.5,"users":4550,"popularity":2213,"external_reviews":4,"reviews":16,"best_rating":10}
+Jake and the Never Land Pirates|tv	{"rating":5.5,"users":735,"popularity":914,"external_reviews":5,"reviews":10,"best_rating":10}
+Steve Harvey|tv	{"rating":5.2,"users":113,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Bubble Guppies|tv	{"rating":7.4,"users":523,"popularity":2040,"external_reviews":6,"reviews":5,"best_rating":10}
+Justified|tv	{"rating":8.7,"users":58735,"popularity":196,"external_reviews":58,"reviews":117,"best_rating":10}
+Degrassi: The Next Generation|tv	{"rating":7.4,"users":8854,"popularity":330,"external_reviews":4,"reviews":131,"best_rating":10}
+Treehouse Masters|tv	{"rating":7.6,"users":557,"popularity":0,"external_reviews":1,"reviews":11,"best_rating":10}
+The Bernie Mac Show|tv	{"rating":6.9,"users":5210,"popularity":1517,"external_reviews":6,"reviews":50,"best_rating":10}
+Most Shocking|tv	{"rating":6.9,"users":149,"popularity":0,"external_reviews":"","reviews":2,"best_rating":10}
+The Cat in the Hat Knows a Lot About That!|tv	{"rating":6.6,"users":236,"popularity":0,"external_reviews":1,"reviews":4,"best_rating":10}
+Fear Factor|tv	{"rating":5.6,"users":4646,"popularity":1758,"external_reviews":5,"reviews":44,"best_rating":10}
+Witches of East End|tv	{"rating":7.7,"users":17613,"popularity":468,"external_reviews":12,"reviews":35,"best_rating":10}
+The Bachelor|tv	{"rating":2.9,"users":3922,"popularity":1646,"external_reviews":5,"reviews":29,"best_rating":10}
+The Haves and the Have Nots|tv	{"rating":5.9,"users":1635,"popularity":1220,"external_reviews":1,"reviews":32,"best_rating":10}
+Dragon Ball Z Kai|tv	{"rating":8.7,"users":11310,"popularity":1325,"external_reviews":21,"reviews":13,"best_rating":10}
+Let's Make a Deal|tv	{"rating":6.9,"users":217,"popularity":0,"external_reviews":1,"reviews":9,"best_rating":10}
+Are We There Yet?|tv	{"rating":4.5,"users":21054,"popularity":0,"external_reviews":73,"reviews":147,"best_rating":10}
+Top Chef|tv	{"rating":7.6,"users":4278,"popularity":2116,"external_reviews":3,"reviews":9,"best_rating":10}
+Drugs, Inc.|tv	{"rating":8.0,"users":620,"popularity":0,"external_reviews":1,"reviews":2,"best_rating":10}
+Alaska: The Last Frontier|tv	{"rating":8.0,"users":699,"popularity":1705,"external_reviews":1,"reviews":11,"best_rating":10}
+The Legend of Korra|tv	{"rating":8.7,"users":58502,"popularity":451,"external_reviews":29,"reviews":127,"best_rating":10}
+Squidbillies|tv	{"rating":6.8,"users":4374,"popularity":3085,"external_reviews":8,"reviews":23,"best_rating":10}
+Wife Swap|tv	{"rating":4.2,"users":1533,"popularity":0,"external_reviews":1,"reviews":9,"best_rating":10}
+The Universe|tv	{"rating":8.9,"users":3763,"popularity":0,"external_reviews":45,"reviews":17,"best_rating":10}
+The League|tv	{"rating":8.3,"users":34660,"popularity":142,"external_reviews":31,"reviews":36,"best_rating":10}
+Super Why!|tv	{"rating":6.3,"users":253,"popularity":3428,"external_reviews":4,"reviews":3,"best_rating":10}
+Too Cute!|tv	{"rating":8.5,"users":394,"popularity":0,"external_reviews":1,"reviews":2,"best_rating":10}
+Fashion Police|tv	{"rating":6.1,"users":965,"popularity":0,"external_reviews":1,"reviews":6,"best_rating":10}
+PBS NewsHour|tv	{"rating":7.1,"users":100,"popularity":0,"external_reviews":"","reviews":3,"best_rating":10}
+Total Divas|tv	{"rating":6.8,"users":1052,"popularity":1488,"external_reviews":2,"reviews":1,"best_rating":10}
+The Unit|tv	{"rating":8.1,"users":16045,"popularity":685,"external_reviews":13,"reviews":133,"best_rating":10}
+Overhaulin'|tv	{"rating":6.8,"users":798,"popularity":2659,"external_reviews":2,"reviews":12,"best_rating":10}
+Auction Hunters|tv	{"rating":6.1,"users":2427,"popularity":3392,"external_reviews":"","reviews":4,"best_rating":10}
+Morning Express With Robin Meade|tv	{"rating":7.0,"users":71,"popularity":0,"external_reviews":"","reviews":3,"best_rating":10}
+Beyond Scared Straight|tv	{"rating":7.6,"users":718,"popularity":4492,"external_reviews":1,"reviews":8,"best_rating":10}
+Heroes|tv	{"rating":7.7,"users":192963,"popularity":77,"external_reviews":75,"reviews":377,"best_rating":10}
+Border Wars|tv	{"rating":6.8,"users":123,"popularity":0,"external_reviews":1,"reviews":"","best_rating":10}
+Hell on Wheels|tv	{"rating":8.3,"users":34610,"popularity":231,"external_reviews":59,"reviews":76,"best_rating":10}
+Last Man Standing|tv	{"rating":7.3,"users":12681,"popularity":122,"external_reviews":4,"reviews":72,"best_rating":10}
+Tattoo Nightmares|tv	{"rating":6.7,"users":428,"popularity":3776,"external_reviews":"","reviews":1,"best_rating":10}
+Anthony Bourdain: Parts Unknown|tv	{"rating":8.6,"users":1463,"popularity":2696,"external_reviews":"","reviews":10,"best_rating":10}
+Sons of Guns|tv	{"rating":6.2,"users":1423,"popularity":0,"external_reviews":"","reviews":12,"best_rating":10}
+Wilfred|tv	{"rating":7.9,"users":34282,"popularity":726,"external_reviews":37,"reviews":49,"best_rating":10}
+Forensic Files|tv	{"rating":8.8,"users":1546,"popularity":2167,"external_reviews":"","reviews":13,"best_rating":10}
+Survivor: Philippines|tv	{"rating":6.9,"users":16524,"popularity":508,"external_reviews":25,"reviews":148,"best_rating":10}
+Anger Management|tv	{"rating":6.7,"users":25887,"popularity":306,"external_reviews":26,"reviews":53,"best_rating":10}
+Boardwalk Empire|tv	{"rating":8.6,"users":125285,"popularity":179,"external_reviews":130,"reviews":138,"best_rating":10}
+Survivor|tv	{"rating":5.6,"users":15623,"popularity":551,"external_reviews":51,"reviews":86,"best_rating":10}
+Shipping Wars|tv	{"rating":6.5,"users":941,"popularity":4114,"external_reviews":2,"reviews":2,"best_rating":10}
+The 65th Primetime Emmy Awards|tv	{"rating":7.1,"users":285,"popularity":0,"external_reviews":"","reviews":3,"best_rating":10}
+Deadly Women|tv	{"rating":8.2,"users":706,"popularity":2965,"external_reviews":"","reviews":4,"best_rating":10}
+Desperate Housewives|tv	{"rating":7.4,"users":88892,"popularity":261,"external_reviews":80,"reviews":161,"best_rating":10}
+Tia & Tamera|tv	{"rating":7.2,"users":460,"popularity":3167,"external_reviews":1,"reviews":"","best_rating":10}
+Devious Maids|tv	{"rating":7.9,"users":14096,"popularity":322,"external_reviews":8,"reviews":22,"best_rating":10}
+Little House on the Prairie|tv	{"rating":7.3,"users":10995,"popularity":295,"external_reviews":35,"reviews":63,"best_rating":10}
+Paranormal Witness|tv	{"rating":7.9,"users":1578,"popularity":1529,"external_reviews":1,"reviews":25,"best_rating":10}
+The Penguins of Madagascar|tv	{"rating":6.7,"users":51958,"popularity":932,"external_reviews":149,"reviews":112,"best_rating":10}
+Income Property|tv	{"rating":7.5,"users":183,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Basketball Wives|tv	{"rating":3.6,"users":424,"popularity":4050,"external_reviews":1,"reviews":"","best_rating":10}
+The Jamie Foxx Show|tv	{"rating":6.5,"users":1637,"popularity":3032,"external_reviews":3,"reviews":7,"best_rating":10}
+Comedy Central Presents|tv	{"rating":8.2,"users":803,"popularity":0,"external_reviews":6,"reviews":1,"best_rating":10}
+Living Single|tv	{"rating":7.2,"users":2489,"popularity":2214,"external_reviews":1,"reviews":27,"best_rating":10}
+Holmes on Homes|tv	{"rating":8.6,"users":526,"popularity":0,"external_reviews":1,"reviews":6,"best_rating":10}
+River Monsters|tv	{"rating":8.2,"users":2916,"popularity":2742,"external_reviews":1,"reviews":5,"best_rating":10}
+Mike & Mike|tv	{"rating":7.2,"users":439,"popularity":0,"external_reviews":"","reviews":7,"best_rating":10}
+Teen Titans Go!|tv	{"rating":5.3,"users":4749,"popularity":631,"external_reviews":7,"reviews":149,"best_rating":10}
+The Three Stooges|tv	{"rating":5.1,"users":24555,"popularity":2255,"external_reviews":160,"reviews":189,"best_rating":10}
+Arthur|tv	{"rating":5.8,"users":44091,"popularity":4808,"external_reviews":177,"reviews":158,"best_rating":10}
+Ned's Declassified School Survival Guide|tv	{"rating":7.4,"users":10839,"popularity":776,"external_reviews":3,"reviews":41,"best_rating":10}
+Teenage Mutant Ninja Turtles|tv	{"rating":5.9,"users":148478,"popularity":479,"external_reviews":338,"reviews":471,"best_rating":10}
+Four Weddings|tv	{"rating":5.2,"users":208,"popularity":0,"external_reviews":1,"reviews":1,"best_rating":10}
+Property Virgins|tv	{"rating":7.2,"users":248,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+Matlock|tv	{"rating":7.0,"users":3920,"popularity":745,"external_reviews":17,"reviews":27,"best_rating":10}
+Here Comes Honey Boo Boo|tv	{"rating":2.6,"users":6606,"popularity":2627,"external_reviews":12,"reviews":57,"best_rating":10}
+Amish Mafia|tv	{"rating":3.1,"users":1272,"popularity":4547,"external_reviews":1,"reviews":26,"best_rating":10}
+South Beach Tow|tv	{"rating":4.1,"users":827,"popularity":3077,"external_reviews":"","reviews":11,"best_rating":10}
+Hey Arnold!|tv	{"rating":7.7,"users":20490,"popularity":764,"external_reviews":7,"reviews":57,"best_rating":10}
+Antiques Roadshow|tv	{"rating":7.5,"users":632,"popularity":0,"external_reviews":3,"reviews":8,"best_rating":10}
+A Haunting|tv	{"rating":8.0,"users":2023,"popularity":1320,"external_reviews":3,"reviews":35,"best_rating":10}
+Jackass|tv	{"rating":6.6,"users":65078,"popularity":4346,"external_reviews":105,"reviews":323,"best_rating":10}
+Braxton Family Values|tv	{"rating":6.3,"users":410,"popularity":0,"external_reviews":26,"reviews":3,"best_rating":10}
+Hoarders|tv	{"rating":6.3,"users":1419,"popularity":0,"external_reviews":6,"reviews":7,"best_rating":10}
+Dual Survival|tv	{"rating":7.8,"users":2085,"popularity":1336,"external_reviews":3,"reviews":13,"best_rating":10}
+Mysteries at the Museum|tv	{"rating":8.2,"users":370,"popularity":2971,"external_reviews":"","reviews":2,"best_rating":10}
+Bates Motel|tv	{"rating":8.1,"users":49805,"popularity":153,"external_reviews":57,"reviews":104,"best_rating":10}
+Team Umizoomi|tv	{"rating":6.5,"users":325,"popularity":2719,"external_reviews":4,"reviews":3,"best_rating":10}
+Stargate SG-1|tv	{"rating":8.4,"users":58347,"popularity":279,"external_reviews":77,"reviews":181,"best_rating":10}
+Bonanza|tv	{"rating":7.3,"users":4961,"popularity":483,"external_reviews":26,"reviews":44,"best_rating":10}
+Naked and Afraid|tv	{"rating":6.6,"users":1633,"popularity":797,"external_reviews":3,"reviews":30,"best_rating":10}
+Being Mary Jane|tv	{"rating":7.6,"users":1975,"popularity":347,"external_reviews":27,"reviews":21,"best_rating":10}
+Live! With Kelly and Michael|tv	{"rating":5.0,"users":1180,"popularity":2888,"external_reviews":"","reviews":19,"best_rating":10}
+The Tomorrow People|tv	{"rating":7.3,"users":26193,"popularity":427,"external_reviews":5,"reviews":63,"best_rating":10}
+Hart of Dixie|tv	{"rating":7.8,"users":31772,"popularity":251,"external_reviews":13,"reviews":64,"best_rating":10}
+Defiance|tv	{"rating":7.0,"users":31033,"popularity":250,"external_reviews":23,"reviews":145,"best_rating":10}
+Bridezillas|tv	{"rating":4.1,"users":533,"popularity":0,"external_reviews":7,"reviews":2,"best_rating":10}
+On the Record With Greta Van Susteren|tv	{"rating":4.2,"users":220,"popularity":0,"external_reviews":"","reviews":3,"best_rating":10}
+Thomas & Friends|tv	{"rating":6.9,"users":1800,"popularity":1932,"external_reviews":6,"reviews":29,"best_rating":10}
+Gravity Falls|tv	{"rating":8.8,"users":14685,"popularity":226,"external_reviews":5,"reviews":44,"best_rating":10}
+Curb Your Enthusiasm|tv	{"rating":8.7,"users":60739,"popularity":239,"external_reviews":60,"reviews":155,"best_rating":10}
+Fish Hooks|tv	{"rating":4.9,"users":1972,"popularity":2290,"external_reviews":1,"reviews":17,"best_rating":10}
+Extreme Makeover: Home Edition|tv	{"rating":6.4,"users":3901,"popularity":1972,"external_reviews":8,"reviews":46,"best_rating":10}
+Graceland|tv	{"rating":7.8,"users":12761,"popularity":405,"external_reviews":10,"reviews":26,"best_rating":10}
+The Powerpuff Girls|tv	{"rating":7.2,"users":20490,"popularity":1076,"external_reviews":6,"reviews":59,"best_rating":10}
+Nikita|tv	{"rating":7.7,"users":40662,"popularity":481,"external_reviews":27,"reviews":78,"best_rating":10}
+Gangland|tv	{"rating":8.0,"users":614,"popularity":4190,"external_reviews":10,"reviews":2,"best_rating":10}
+Joel Osteen|tv	{"rating":7.0,"users":84,"popularity":0,"external_reviews":"","reviews":4,"best_rating":10}
+Brooklyn Nine-Nine|tv	{"rating":8.3,"users":50115,"popularity":97,"external_reviews":15,"reviews":56,"best_rating":10}
+Cougar Town|tv	{"rating":7.0,"users":34510,"popularity":471,"external_reviews":38,"reviews":66,"best_rating":10}
+Homeland|tv	{"rating":8.4,"users":203725,"popularity":12,"external_reviews":107,"reviews":241,"best_rating":10}
+Gossip Girl|tv	{"rating":7.4,"users":106087,"popularity":94,"external_reviews":46,"reviews":196,"best_rating":10}
+Whose Line Is It Anyway?|tv	{"rating":8.7,"users":26987,"popularity":920,"external_reviews":12,"reviews":114,"best_rating":10}
+The Killing|tv	{"rating":8.2,"users":61562,"popularity":205,"external_reviews":66,"reviews":157,"best_rating":10}
+Nancy Grace|tv	{"rating":2.7,"users":381,"popularity":0,"external_reviews":"","reviews":5,"best_rating":10}
+The Fosters|tv	{"rating":8.1,"users":13821,"popularity":230,"external_reviews":6,"reviews":42,"best_rating":10}
+Charlie Rose|tv	{"rating":7.8,"users":536,"popularity":0,"external_reviews":2,"reviews":10,"best_rating":10}
+The Bridge|tv	{"rating":8.6,"users":22092,"popularity":188,"external_reviews":22,"reviews":56,"best_rating":10}
+The Situation Room|tv	{"rating":5.5,"users":71,"popularity":0,"external_reviews":1,"reviews":"","best_rating":10}
+Operation Repo|tv	{"rating":3.0,"users":1453,"popularity":3399,"external_reviews":1,"reviews":25,"best_rating":10}
+Snooki & JWOWW|tv	{"rating":3.2,"users":1923,"popularity":3682,"external_reviews":5,"reviews":1,"best_rating":10}
+The Boondocks|tv	{"rating":8.4,"users":20412,"popularity":855,"external_reviews":17,"reviews":67,"best_rating":10}
+Un Show Más|tv	{"rating":8.4,"users":15449,"popularity":821,"external_reviews":22,"reviews":60,"best_rating":10}
+The Arsenio Hall Show|tv	{"rating":6.2,"users":571,"popularity":0,"external_reviews":2,"reviews":14,"best_rating":10}
+Teen Titans|tv	{"rating":7.5,"users":14404,"popularity":548,"external_reviews":24,"reviews":72,"best_rating":10}
+Rob & Big|tv	{"rating":7.9,"users":3195,"popularity":0,"external_reviews":5,"reviews":3,"best_rating":10}
+Once Upon a Time in Wonderland|tv	{"rating":7.1,"users":9087,"popularity":765,"external_reviews":7,"reviews":28,"best_rating":10}
+Bewitched|tv	{"rating":7.7,"users":10288,"popularity":455,"external_reviews":30,"reviews":68,"best_rating":10}
+Gator Boys|tv	{"rating":7.3,"users":419,"popularity":4350,"external_reviews":"","reviews":5,"best_rating":10}
+Private Practice|tv	{"rating":6.6,"users":17445,"popularity":360,"external_reviews":23,"reviews":37,"best_rating":10}
+Shameless|tv	{"rating":8.7,"users":81215,"popularity":96,"external_reviews":29,"reviews":125,"best_rating":10}
+Ax Men|tv	{"rating":5.5,"users":978,"popularity":4600,"external_reviews":8,"reviews":9,"best_rating":10}
+Man vs. Wild|tv	{"rating":8.2,"users":18807,"popularity":2201,"external_reviews":15,"reviews":23,"best_rating":10}
+Bait Car|tv	{"rating":5.9,"users":144,"popularity":0,"external_reviews":"","reviews":5,"best_rating":10}
+Malcolm|tv	{"rating":8.0,"users":89369,"popularity":257,"external_reviews":30,"reviews":170,"best_rating":10}
+Biography|tv	{"rating":7.9,"users":984,"popularity":2875,"external_reviews":3,"reviews":8,"best_rating":10}
+The Steve Wilkos Show|tv	{"rating":5.9,"users":889,"popularity":0,"external_reviews":"","reviews":43,"best_rating":10}
+Dracula|tv	{"rating":7.5,"users":134476,"popularity":475,"external_reviews":178,"reviews":644,"best_rating":10}
+Doomsday Preppers|tv	{"rating":6.2,"users":565,"popularity":0,"external_reviews":8,"reviews":7,"best_rating":10}
+The Mindy Project|tv	{"rating":7.4,"users":20269,"popularity":227,"external_reviews":23,"reviews":36,"best_rating":10}
+Dirty Jobs|tv	{"rating":7.9,"users":6456,"popularity":3299,"external_reviews":3,"reviews":21,"best_rating":10}
+Lost Girl|tv	{"rating":7.8,"users":21276,"popularity":198,"external_reviews":17,"reviews":73,"best_rating":10}
+Major Crimes|tv	{"rating":7.6,"users":6735,"popularity":486,"external_reviews":16,"reviews":39,"best_rating":10}
+20/20|tv	{"rating":6.6,"users":907,"popularity":3642,"external_reviews":"","reviews":8,"best_rating":10}
+48 Hours: Hard Evidence|tv	{"rating":7.6,"users":72,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+The Chew|tv	{"rating":5.2,"users":555,"popularity":3286,"external_reviews":"","reviews":8,"best_rating":10}
+Black Ink Crew|tv	{"rating":5.6,"users":118,"popularity":2552,"external_reviews":"","reviews":"","best_rating":10}
+The Crazy Ones|tv	{"rating":7.1,"users":10039,"popularity":1147,"external_reviews":7,"reviews":38,"best_rating":10}
+Cheaters|tv	{"rating":5.3,"users":41949,"popularity":3011,"external_reviews":185,"reviews":141,"best_rating":10}
+The View|tv	{"rating":3.0,"users":3915,"popularity":1262,"external_reviews":2,"reviews":92,"best_rating":10}
+Animaniacs|tv	{"rating":7.9,"users":14223,"popularity":2132,"external_reviews":31,"reviews":59,"best_rating":10}
+Wild Kratts|tv	{"rating":8.0,"users":337,"popularity":2252,"external_reviews":6,"reviews":2,"best_rating":10}
+CBS This Morning|tv	{"rating":6.6,"users":99,"popularity":0,"external_reviews":"","reviews":2,"best_rating":10}
+The Parkers|tv	{"rating":6.9,"users":1081,"popularity":2911,"external_reviews":1,"reviews":17,"best_rating":10}
+The Steve Harvey Show|tv	{"rating":6.6,"users":1607,"popularity":2556,"external_reviews":4,"reviews":14,"best_rating":10}
+Lockup: Raw|tv	{"rating":8.0,"users":248,"popularity":0,"external_reviews":2,"reviews":"","best_rating":10}
+Sofia the First|tv	{"rating":7.1,"users":969,"popularity":449,"external_reviews":5,"reviews":5,"best_rating":10}
+The Brady Bunch|tv	{"rating":6.7,"users":8154,"popularity":533,"external_reviews":54,"reviews":74,"best_rating":10}
+Rugrats|tv	{"rating":7.6,"users":21000,"popularity":736,"external_reviews":3,"reviews":101,"best_rating":10}
+Sabrina, the Teenage Witch|tv	{"rating":6.6,"users":22674,"popularity":425,"external_reviews":19,"reviews":94,"best_rating":10}
+Firefly|tv	{"rating":9.1,"users":171316,"popularity":185,"external_reviews":62,"reviews":664,"best_rating":10}
+Pair of Kings|tv	{"rating":5.7,"users":1990,"popularity":1511,"external_reviews":1,"reviews":8,"best_rating":10}
+Star Trek|tv	{"rating":8.0,"users":476600,"popularity":385,"external_reviews":504,"reviews":1537,"best_rating":10}
+Hostages|tv	{"rating":6.8,"users":8043,"popularity":1596,"external_reviews":13,"reviews":45,"best_rating":10}
+Sherlock|tv	{"rating":9.3,"users":429963,"popularity":36,"external_reviews":96,"reviews":367,"best_rating":10}
+RENO 911!|tv	{"rating":8.0,"users":12198,"popularity":870,"external_reviews":28,"reviews":49,"best_rating":10}
+Pit Bulls and Parolees|tv	{"rating":8.2,"users":565,"popularity":2359,"external_reviews":1,"reviews":6,"best_rating":10}
+Access Hollywood|tv	{"rating":3.6,"users":329,"popularity":0,"external_reviews":"","reviews":9,"best_rating":10}
+The Secret Life of the American Teenager|tv	{"rating":5.0,"users":16406,"popularity":268,"external_reviews":25,"reviews":163,"best_rating":10}
+Rachael Ray|tv	{"rating":4.3,"users":653,"popularity":0,"external_reviews":1,"reviews":13,"best_rating":10}
+Moesha|tv	{"rating":5.5,"users":2034,"popularity":1996,"external_reviews":1,"reviews":11,"best_rating":10}
+Gilligan's Island|tv	{"rating":7.5,"users":8093,"popularity":328,"external_reviews":18,"reviews":77,"best_rating":10}
+Ramsay's Kitchen Nightmares|tv	{"rating":7.8,"users":4043,"popularity":4805,"external_reviews":9,"reviews":6,"best_rating":10}
+Lost|tv	{"rating":8.5,"users":345993,"popularity":89,"external_reviews":124,"reviews":704,"best_rating":10}
+Bleach|tv	{"rating":8.0,"users":29310,"popularity":753,"external_reviews":13,"reviews":49,"best_rating":10}
+Betty White's Off Their Rockers|tv	{"rating":7.1,"users":1093,"popularity":0,"external_reviews":1,"reviews":16,"best_rating":10}
+Chuck|tv	{"rating":8.2,"users":103640,"popularity":212,"external_reviews":52,"reviews":308,"best_rating":10}
+Dinosaur Train|tv	{"rating":6.8,"users":288,"popularity":3407,"external_reviews":1,"reviews":2,"best_rating":10}
+I Dream of Jeannie|tv	{"rating":7.5,"users":7487,"popularity":585,"external_reviews":16,"reviews":41,"best_rating":10}
+Project Runway All Stars|tv	{"rating":6.6,"users":864,"popularity":4022,"external_reviews":"","reviews":5,"best_rating":10}
+Say Yes to the Dress: Atlanta|tv	{"rating":6.3,"users":180,"popularity":4398,"external_reviews":1,"reviews":2,"best_rating":10}
+Kung Fu Panda: Legends of Awesomeness|tv	{"rating":7.2,"users":2982,"popularity":2237,"external_reviews":9,"reviews":12,"best_rating":10}
+Happy Days|tv	{"rating":7.5,"users":10304,"popularity":356,"external_reviews":23,"reviews":70,"best_rating":10}
+This Old House|tv	{"rating":8.1,"users":288,"popularity":0,"external_reviews":"","reviews":5,"best_rating":10}
+Frontline|tv	{"rating":8.7,"users":806,"popularity":3369,"external_reviews":5,"reviews":3,"best_rating":10}
+Sister Wives|tv	{"rating":4.5,"users":1511,"popularity":1049,"external_reviews":1,"reviews":18,"best_rating":10}
+Cutthroat Kitchen|tv	{"rating":7.2,"users":837,"popularity":2436,"external_reviews":1,"reviews":16,"best_rating":10}
+Celebrity Ghost Stories|tv	{"rating":7.3,"users":557,"popularity":3685,"external_reviews":2,"reviews":2,"best_rating":10}
+The Talk|tv	{"rating":3.9,"users":1079,"popularity":2171,"external_reviews":"","reviews":19,"best_rating":10}
+Three's Company|tv	{"rating":7.6,"users":7665,"popularity":474,"external_reviews":24,"reviews":81,"best_rating":10}
+Hardball With Chris Matthews|tv	{"rating":4.6,"users":367,"popularity":0,"external_reviews":"","reviews":5,"best_rating":10}
+Teen Mom 3|tv	{"rating":4.8,"users":224,"popularity":0,"external_reviews":"","reviews":2,"best_rating":10}
+The Bachelorette|tv	{"rating":2.9,"users":3159,"popularity":2022,"external_reviews":3,"reviews":13,"best_rating":10}
+Auction Kings|tv	{"rating":6.1,"users":504,"popularity":0,"external_reviews":"","reviews":2,"best_rating":10}
+Street Outlaws|tv	{"rating":6.4,"users":405,"popularity":1316,"external_reviews":"","reviews":2,"best_rating":10}
+Teen Mom|tv	{"rating":3.4,"users":3574,"popularity":2196,"external_reviews":1,"reviews":4,"best_rating":10}
+The Jeffersons|tv	{"rating":7.5,"users":4336,"popularity":898,"external_reviews":30,"reviews":43,"best_rating":10}
+Single Ladies|tv	{"rating":6.2,"users":1724,"popularity":1751,"external_reviews":1,"reviews":7,"best_rating":10}
+Haven|tv	{"rating":7.6,"users":26772,"popularity":147,"external_reviews":24,"reviews":55,"best_rating":10}
+Jerseylicious|tv	{"rating":3.9,"users":669,"popularity":4680,"external_reviews":1,"reviews":1,"best_rating":10}
+Extra|tv	{"rating":3.6,"users":284,"popularity":3431,"external_reviews":"","reviews":3,"best_rating":10}
+The Bible|tv	{"rating":7.4,"users":7435,"popularity":1309,"external_reviews":17,"reviews":74,"best_rating":10}
+Finding Bigfoot|tv	{"rating":4.3,"users":1197,"popularity":4912,"external_reviews":2,"reviews":56,"best_rating":10}
+Shahs of Sunset|tv	{"rating":4.5,"users":879,"popularity":2629,"external_reviews":1,"reviews":4,"best_rating":10}
+The Waltons|tv	{"rating":7.6,"users":3588,"popularity":409,"external_reviews":17,"reviews":34,"best_rating":10}
+Franklin & Bash|tv	{"rating":7.7,"users":11566,"popularity":1054,"external_reviews":8,"reviews":25,"best_rating":10}
+The Real Housewives of Miami|tv	{"rating":2.8,"users":703,"popularity":0,"external_reviews":1,"reviews":3,"best_rating":10}
+Ravenswood|tv	{"rating":6.8,"users":6522,"popularity":832,"external_reviews":4,"reviews":27,"best_rating":10}
+Continuum|tv	{"rating":7.8,"users":43094,"popularity":160,"external_reviews":22,"reviews":160,"best_rating":10}
+Bad Ink|tv	{"rating":5.5,"users":240,"popularity":0,"external_reviews":"","reviews":11,"best_rating":10}
+Rick Steves' Europe|tv	{"rating":8.6,"users":157,"popularity":0,"external_reviews":1,"reviews":3,"best_rating":10}
+Reign|tv	{"rating":7.6,"users":23920,"popularity":30,"external_reviews":9,"reviews":141,"best_rating":10}
+All in the Family|tv	{"rating":8.4,"users":8812,"popularity":758,"external_reviews":42,"reviews":97,"best_rating":10}
+The Goldbergs|tv	{"rating":8.1,"users":12161,"popularity":154,"external_reviews":10,"reviews":58,"best_rating":10}
+American Horror Story: Coven|tv	{"rating":8.3,"users":173829,"popularity":2,"external_reviews":134,"reviews":267,"best_rating":10}
+Hollywood Hillbillies|tv	{"rating":4.3,"users":211,"popularity":0,"external_reviews":"","reviews":7,"best_rating":10}
+Kevin Hart: I'm a Grown Little Man|tv	{"rating":7.9,"users":1722,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+CBS News Sunday Morning|tv	{"rating":7.7,"users":308,"popularity":0,"external_reviews":"","reviews":6,"best_rating":10}
+Body of Proof|tv	{"rating":7.0,"users":11090,"popularity":917,"external_reviews":15,"reviews":43,"best_rating":10}
+Girlfriends|tv	{"rating":6.9,"users":2257,"popularity":1746,"external_reviews":8,"reviews":53,"best_rating":10}
+The Sopranos|tv	{"rating":9.2,"users":170662,"popularity":134,"external_reviews":96,"reviews":324,"best_rating":10}
+Merlin|tv	{"rating":7.9,"users":52595,"popularity":320,"external_reviews":34,"reviews":189,"best_rating":10}
+Necessary Roughness|tv	{"rating":7.0,"users":6223,"popularity":1071,"external_reviews":6,"reviews":7,"best_rating":10}
+Call of the Wildman|tv	{"rating":6.9,"users":455,"popularity":0,"external_reviews":1,"reviews":2,"best_rating":10}
+Kourtney and Kim Take Miami|tv	{"rating":3.3,"users":2645,"popularity":1094,"external_reviews":2,"reviews":2,"best_rating":10}
+Real Time With Bill Maher|tv	{"rating":7.7,"users":7430,"popularity":2349,"external_reviews":11,"reviews":32,"best_rating":10}
+Drop Dead Diva|tv	{"rating":7.4,"users":13859,"popularity":506,"external_reviews":7,"reviews":38,"best_rating":10}
+CatDog|tv	{"rating":6.6,"users":12153,"popularity":2046,"external_reviews":3,"reviews":30,"best_rating":10}
+Back at the Barnyard|tv	{"rating":5.7,"users":1541,"popularity":4978,"external_reviews":2,"reviews":14,"best_rating":10}
+Watch What Happens: Live|tv	{"rating":5.9,"users":244,"popularity":0,"external_reviews":"","reviews":2,"best_rating":10}
+Suburgatory|tv	{"rating":7.3,"users":25640,"popularity":526,"external_reviews":15,"reviews":25,"best_rating":10}
+Dads|tv	{"rating":5.5,"users":5866,"popularity":2118,"external_reviews":8,"reviews":47,"best_rating":10}
+Twisted|tv	{"rating":7.5,"users":7454,"popularity":837,"external_reviews":4,"reviews":20,"best_rating":10}
+Rookie Blue|tv	{"rating":7.7,"users":13237,"popularity":341,"external_reviews":11,"reviews":57,"best_rating":10}
+Holmes Inspection|tv	{"rating":8.2,"users":152,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Beverly Hills Pawn|tv	{"rating":5.1,"users":191,"popularity":0,"external_reviews":"","reviews":3,"best_rating":10}
+Dragons' Den|tv	{"rating":7.4,"users":785,"popularity":4721,"external_reviews":1,"reviews":9,"best_rating":10}
+Gunsmoke|tv	{"rating":8.0,"users":2976,"popularity":391,"external_reviews":46,"reviews":27,"best_rating":10}
+Divorce Court|tv	{"rating":3.8,"users":159,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+Yard Crashers|tv	{"rating":7.9,"users":67,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Longmire|tv	{"rating":8.2,"users":15713,"popularity":157,"external_reviews":26,"reviews":82,"best_rating":10}
+The Berenstain Bears|tv	{"rating":7.3,"users":681,"popularity":0,"external_reviews":5,"reviews":2,"best_rating":10}
+Unwrapped|tv	{"rating":8.0,"users":281,"popularity":0,"external_reviews":1,"reviews":5,"best_rating":10}
+The Real World|tv	{"rating":6.0,"users":20784,"popularity":1293,"external_reviews":22,"reviews":76,"best_rating":10}
+House Hunters Renovation|tv	{"rating":7.7,"users":29,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Star Wars: The Clone Wars|tv	{"rating":7.9,"users":23240,"popularity":220,"external_reviews":46,"reviews":72,"best_rating":10}
+Top Shot|tv	{"rating":7.5,"users":1224,"popularity":4634,"external_reviews":3,"reviews":9,"best_rating":10}
+Mad Money|tv	{"rating":5.8,"users":16242,"popularity":0,"external_reviews":98,"reviews":51,"best_rating":10}
+The A-Team|tv	{"rating":6.8,"users":200921,"popularity":1163,"external_reviews":307,"reviews":359,"best_rating":10}
+Campus PD|tv	{"rating":6.0,"users":66,"popularity":0,"external_reviews":"","reviews":2,"best_rating":10}
+Jail|tv	{"rating":7.0,"users":166,"popularity":0,"external_reviews":1,"reviews":2,"best_rating":10}
+Special Report With Bret Baier|tv	{"rating":6.2,"users":131,"popularity":0,"external_reviews":"","reviews":3,"best_rating":10}
+My Little Pony: Friendship Is Magic|tv	{"rating":7.8,"users":15200,"popularity":580,"external_reviews":17,"reviews":105,"best_rating":10}
+Pranked|tv	{"rating":5.6,"users":251,"popularity":0,"external_reviews":1,"reviews":"","best_rating":10}
+House of Cards|tv	{"rating":9.0,"users":251056,"popularity":57,"external_reviews":95,"reviews":260,"best_rating":10}
+Supernanny|tv	{"rating":5.1,"users":1329,"popularity":4984,"external_reviews":1,"reviews":6,"best_rating":10}
+Rehab Addict|tv	{"rating":8.2,"users":382,"popularity":3802,"external_reviews":"","reviews":3,"best_rating":10}
+The Glades|tv	{"rating":7.5,"users":9276,"popularity":738,"external_reviews":7,"reviews":47,"best_rating":10}
+Ask This Old House|tv	{"rating":8.3,"users":98,"popularity":0,"external_reviews":1,"reviews":2,"best_rating":10}
+Minute to Win It|tv	{"rating":5.0,"users":775,"popularity":0,"external_reviews":2,"reviews":1,"best_rating":10}
+Intervention|tv	{"rating":8.0,"users":1768,"popularity":2551,"external_reviews":4,"reviews":10,"best_rating":10}
+Bonnie & Clyde|tv	{"rating":7.9,"users":75239,"popularity":2365,"external_reviews":141,"reviews":335,"best_rating":10}
+Breaking Amish|tv	{"rating":5.0,"users":854,"popularity":4196,"external_reviews":3,"reviews":1,"best_rating":10}
+Brickleberry|tv	{"rating":7.2,"users":5779,"popularity":1154,"external_reviews":1,"reviews":36,"best_rating":10}
+Louie|tv	{"rating":8.7,"users":51889,"popularity":420,"external_reviews":51,"reviews":55,"best_rating":10}
+Full Throttle Saloon|tv	{"rating":5.4,"users":291,"popularity":0,"external_reviews":"","reviews":3,"best_rating":10}
+Mystery Diners|tv	{"rating":4.5,"users":526,"popularity":3433,"external_reviews":"","reviews":15,"best_rating":10}
+The Dead Files|tv	{"rating":6.6,"users":1022,"popularity":3538,"external_reviews":"","reviews":37,"best_rating":10}
+Baby Daddy|tv	{"rating":7.3,"users":11609,"popularity":317,"external_reviews":7,"reviews":17,"best_rating":10}
+A Different World|tv	{"rating":6.7,"users":3679,"popularity":684,"external_reviews":2,"reviews":47,"best_rating":10}
+Punk'd|tv	{"rating":6.1,"users":6401,"popularity":2951,"external_reviews":11,"reviews":47,"best_rating":10}
+Degrassi|tv	{"rating":7.4,"users":8854,"popularity":330,"external_reviews":4,"reviews":131,"best_rating":10}
+The Dukes of Hazzard|tv	{"rating":5.1,"users":64177,"popularity":2469,"external_reviews":144,"reviews":611,"best_rating":10}
+Vikings|tv	{"rating":8.6,"users":148548,"popularity":46,"external_reviews":46,"reviews":169,"best_rating":10}
+Melissa & Joey|tv	{"rating":7.1,"users":13281,"popularity":309,"external_reviews":7,"reviews":46,"best_rating":10}
+Mistresses|tv	{"rating":7.1,"users":8813,"popularity":332,"external_reviews":7,"reviews":30,"best_rating":10}
+What I Like About You|tv	{"rating":6.6,"users":10826,"popularity":946,"external_reviews":4,"reviews":37,"best_rating":10}
+Kourtney & Kim Take New York|tv	{"rating":3.3,"users":2645,"popularity":1094,"external_reviews":2,"reviews":2,"best_rating":10}
+How the Universe Works|tv	{"rating":9.0,"users":2970,"popularity":4656,"external_reviews":1,"reviews":7,"best_rating":10}
+Brothers & Sisters|tv	{"rating":7.3,"users":18269,"popularity":813,"external_reviews":25,"reviews":96,"best_rating":10}
+Baggage|tv	{"rating":6.8,"users":398,"popularity":0,"external_reviews":"","reviews":3,"best_rating":10}
+Family Feud|tv	{"rating":7.2,"users":1061,"popularity":2959,"external_reviews":"","reviews":28,"best_rating":10}
+Lab Rats|tv	{"rating":6.5,"users":2757,"popularity":460,"external_reviews":3,"reviews":11,"best_rating":10}
+Monsters Inside Me|tv	{"rating":7.6,"users":309,"popularity":0,"external_reviews":2,"reviews":2,"best_rating":10}
+The National|tv	{"rating":7.8,"users":30,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+America Live|tv	{"rating":6.1,"users":25,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Unsolved Mysteries|tv	{"rating":8.3,"users":2755,"popularity":2966,"external_reviews":14,"reviews":37,"best_rating":10}
+Extreme Couponing|tv	{"rating":4.6,"users":267,"popularity":0,"external_reviews":"","reviews":4,"best_rating":10}
+Restaurant Stakeout|tv	{"rating":4.8,"users":319,"popularity":0,"external_reviews":"","reviews":10,"best_rating":10}
+How It's Made: Dream Cars|tv	{"rating":7.9,"users":74,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+World's Wildest Police Videos|tv	{"rating":6.5,"users":205,"popularity":0,"external_reviews":"","reviews":25,"best_rating":10}
+Overhaulin'|tv	{"rating":6.8,"users":798,"popularity":2659,"external_reviews":2,"reviews":12,"best_rating":10}
+Inside Edition|tv	{"rating":4.0,"users":228,"popularity":0,"external_reviews":"","reviews":4,"best_rating":10}
+America's Newsroom|tv	{"rating":5.0,"users":24,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+Couples Therapy|tv	{"rating":4.8,"users":161,"popularity":2572,"external_reviews":1,"reviews":1,"best_rating":10}
+Happy Endings|tv	{"rating":7.7,"users":28536,"popularity":590,"external_reviews":23,"reviews":53,"best_rating":10}
+Dateline on ID|tv	{"rating":7.5,"users":73,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Mountain Men|tv	{"rating":7.2,"users":614,"popularity":1907,"external_reviews":2,"reviews":8,"best_rating":10}
+Family Feud|tv	{"rating":7.2,"users":1061,"popularity":2959,"external_reviews":"","reviews":28,"best_rating":10}
+Stargate Atlantis|tv	{"rating":8.1,"users":45934,"popularity":363,"external_reviews":37,"reviews":109,"best_rating":10}
+Storage Hunters|tv	{"rating":4.5,"users":1143,"popularity":3380,"external_reviews":"","reviews":13,"best_rating":10}
+Tom and Jerry Tales|tv	{"rating":7.2,"users":630,"popularity":0,"external_reviews":18,"reviews":3,"best_rating":10}
+19 Kids and Counting|tv	{"rating":3.5,"users":2092,"popularity":2027,"external_reviews":2,"reviews":20,"best_rating":10}
+Betrayal|tv	{"rating":7.1,"users":3659,"popularity":1524,"external_reviews":5,"reviews":31,"best_rating":10}
+90210|tv	{"rating":6.1,"users":34307,"popularity":213,"external_reviews":8,"reviews":87,"best_rating":10}
+Kevin Hart: Seriously Funny|tv	{"rating":7.7,"users":2356,"popularity":0,"external_reviews":"","reviews":4,"best_rating":10}
+CrazySexyCool: The TLC Story|tv	{"rating":7.8,"users":1605,"popularity":0,"external_reviews":6,"reviews":8,"best_rating":10}
+Friday Night Lights|tv	{"rating":8.7,"users":39026,"popularity":144,"external_reviews":46,"reviews":252,"best_rating":10}
+48 Hours|tv	{"rating":6.9,"users":49567,"popularity":4029,"external_reviews":76,"reviews":111,"best_rating":10}
+Extreme Homes|tv	{"rating":6.5,"users":10,"popularity":0,"external_reviews":1,"reviews":"","best_rating":10}
+RuPaul's Drag Race|tv	{"rating":8.0,"users":4145,"popularity":1287,"external_reviews":5,"reviews":9,"best_rating":10}
+The Newlywed Game|tv	{"rating":6.2,"users":273,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+The Flintstones|tv	{"rating":4.8,"users":57822,"popularity":2587,"external_reviews":34,"reviews":82,"best_rating":10}
+Whose Line Is It Anyway?|tv	{"rating":8.7,"users":26987,"popularity":920,"external_reviews":12,"reviews":114,"best_rating":10}
+X-Play|tv	{"rating":8.2,"users":784,"popularity":0,"external_reviews":"","reviews":25,"best_rating":10}
+The Haunted|tv	{"rating":6.5,"users":1206,"popularity":0,"external_reviews":3,"reviews":67,"best_rating":10}
+T.U.F.F. Puppy|tv	{"rating":5.0,"users":1041,"popularity":4704,"external_reviews":1,"reviews":17,"best_rating":10}
+Johnny Bravo|tv	{"rating":7.4,"users":21803,"popularity":748,"external_reviews":4,"reviews":38,"best_rating":10}
+Kick Buttowski: Suburban Daredevil|tv	{"rating":6.9,"users":1749,"popularity":4504,"external_reviews":1,"reviews":2,"best_rating":10}
+Khloe and Lamar|tv	{"rating":3.7,"users":1308,"popularity":2483,"external_reviews":1,"reviews":3,"best_rating":10}
+Caught on Camera|tv	{"rating":7.2,"users":11,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Unforgettable|tv	{"rating":6.7,"users":11613,"popularity":500,"external_reviews":12,"reviews":37,"best_rating":10}
+The Queen Latifah Show|tv	{"rating":5.1,"users":229,"popularity":0,"external_reviews":"","reviews":3,"best_rating":10}
+Unsealed: Alien Files|tv	{"rating":6.5,"users":334,"popularity":0,"external_reviews":"","reviews":7,"best_rating":10}
+What Would You Do?|tv	{"rating":7.7,"users":243,"popularity":0,"external_reviews":"","reviews":3,"best_rating":10}
+Barter Kings|tv	{"rating":5.1,"users":195,"popularity":0,"external_reviews":1,"reviews":"","best_rating":10}
+Walker, Texas Ranger|tv	{"rating":5.4,"users":10903,"popularity":659,"external_reviews":12,"reviews":95,"best_rating":10}
+Only in America With Larry the Cable Guy|tv	{"rating":6.2,"users":255,"popularity":0,"external_reviews":3,"reviews":2,"best_rating":10}
+The Carrie Diaries|tv	{"rating":7.0,"users":19935,"popularity":422,"external_reviews":5,"reviews":52,"best_rating":10}
+Perception|tv	{"rating":7.5,"users":14600,"popularity":718,"external_reviews":25,"reviews":26,"best_rating":10}
+Vanderpump Rules|tv	{"rating":4.9,"users":851,"popularity":1036,"external_reviews":1,"reviews":9,"best_rating":10}
+Little Einsteins|tv	{"rating":6.5,"users":546,"popularity":2454,"external_reviews":27,"reviews":6,"best_rating":10}
+Sid the Science Kid|tv	{"rating":6.0,"users":265,"popularity":0,"external_reviews":3,"reviews":1,"best_rating":10}
+Courage the Cowardly Dog|tv	{"rating":8.3,"users":21865,"popularity":1197,"external_reviews":4,"reviews":52,"best_rating":10}
+Flip This House|tv	{"rating":7.5,"users":1177,"popularity":0,"external_reviews":1,"reviews":331,"best_rating":10}
+MAD|tv	{"rating":5.6,"users":1754,"popularity":2972,"external_reviews":5,"reviews":19,"best_rating":10}
+Beverly Hills, 90210|tv	{"rating":6.2,"users":22135,"popularity":194,"external_reviews":19,"reviews":58,"best_rating":10}
+Dr. Quinn, Medicine Woman|tv	{"rating":6.6,"users":6892,"popularity":592,"external_reviews":18,"reviews":36,"best_rating":10}
+Mom|tv	{"rating":7.0,"users":12036,"popularity":498,"external_reviews":6,"reviews":53,"best_rating":10}
+Paranormal State|tv	{"rating":5.1,"users":2075,"popularity":4601,"external_reviews":15,"reviews":32,"best_rating":10}
+Transformers Prime|tv	{"rating":7.8,"users":3442,"popularity":1706,"external_reviews":13,"reviews":25,"best_rating":10}
+Farscape|tv	{"rating":8.3,"users":25157,"popularity":557,"external_reviews":52,"reviews":155,"best_rating":10}
+Nightline|tv	{"rating":6.3,"users":189,"popularity":0,"external_reviews":"","reviews":5,"best_rating":10}
+CBS Evening News With Scott Pelley|tv	{"rating":5.6,"users":34,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+The Bold and the Beautiful|tv	{"rating":3.5,"users":5194,"popularity":539,"external_reviews":1,"reviews":50,"best_rating":10}
+I Dream of NeNe: The Wedding|tv	{"rating":4.9,"users":68,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Max & Ruby|tv	{"rating":6.1,"users":738,"popularity":3214,"external_reviews":7,"reviews":33,"best_rating":10}
+'Til Death|tv	{"rating":6.6,"users":5030,"popularity":1913,"external_reviews":5,"reviews":36,"best_rating":10}
+My Strange Addiction|tv	{"rating":5.7,"users":549,"popularity":4438,"external_reviews":"","reviews":1,"best_rating":10}
+Alphas|tv	{"rating":7.3,"users":22451,"popularity":836,"external_reviews":14,"reviews":64,"best_rating":10}
+Giuliana & Bill|tv	{"rating":4.9,"users":359,"popularity":0,"external_reviews":1,"reviews":8,"best_rating":10}
+America Unearthed|tv	{"rating":5.6,"users":664,"popularity":0,"external_reviews":1,"reviews":71,"best_rating":10}
+Cook's Country From America's Test Kitchen|tv	{"rating":8.6,"users":96,"popularity":0,"external_reviews":4,"reviews":"","best_rating":10}
+Dish Nation|tv	{"rating":4.0,"users":256,"popularity":0,"external_reviews":"","reviews":9,"best_rating":10}
+Meet the Press|tv	{"rating":6.2,"users":247,"popularity":0,"external_reviews":"","reviews":10,"best_rating":10}
+The Rifleman|tv	{"rating":8.3,"users":1846,"popularity":860,"external_reviews":2,"reviews":38,"best_rating":10}
+Ugly Betty|tv	{"rating":6.5,"users":33892,"popularity":604,"external_reviews":33,"reviews":85,"best_rating":10}
+What Would You Do?|tv	{"rating":7.7,"users":243,"popularity":0,"external_reviews":"","reviews":3,"best_rating":10}
+House Crashers|tv	{"rating":7.6,"users":47,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+The Sing-Off|tv	{"rating":7.0,"users":728,"popularity":0,"external_reviews":1,"reviews":4,"best_rating":10}
+Wheeler Dealers|tv	{"rating":8.4,"users":1335,"popularity":3176,"external_reviews":"","reviews":8,"best_rating":10}
+The Little Couple|tv	{"rating":7.0,"users":645,"popularity":4183,"external_reviews":1,"reviews":5,"best_rating":10}
+Eureka|tv	{"rating":7.9,"users":37657,"popularity":558,"external_reviews":20,"reviews":134,"best_rating":10}
+Hannibal|tv	{"rating":8.6,"users":141851,"popularity":95,"external_reviews":81,"reviews":246,"best_rating":10}
+Perry Mason|tv	{"rating":8.2,"users":2887,"popularity":532,"external_reviews":34,"reviews":43,"best_rating":10}
+Judge Joe Brown|tv	{"rating":4.4,"users":292,"popularity":0,"external_reviews":"","reviews":5,"best_rating":10}
+Scare Tactics|tv	{"rating":6.4,"users":75,"popularity":0,"external_reviews":17,"reviews":2,"best_rating":10}
+Say Yes to the Dress: Bridesmaids|tv	{"rating":6.5,"users":85,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+MTV Jams|tv	{"rating":3.9,"users":8,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+Chasing Classic Cars|tv	{"rating":7.5,"users":241,"popularity":0,"external_reviews":"","reviews":6,"best_rating":10}
+The Neighbors|tv	{"rating":6.7,"users":6865,"popularity":1357,"external_reviews":28,"reviews":59,"best_rating":10}
+American Chopper|tv	{"rating":6.4,"users":2649,"popularity":4858,"external_reviews":7,"reviews":21,"best_rating":10}
+Locked Up Abroad|tv	{"rating":8.3,"users":1090,"popularity":4370,"external_reviews":3,"reviews":4,"best_rating":10}
+Stan Lee's Superhumans|tv	{"rating":7.5,"users":493,"popularity":0,"external_reviews":3,"reviews":2,"best_rating":10}
+Gangsters: America's Most Evil|tv	{"rating":7.5,"users":36,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Terra Nova|tv	{"rating":6.8,"users":66585,"popularity":413,"external_reviews":20,"reviews":225,"best_rating":10}
+Planet Earth|tv	{"rating":9.5,"users":86731,"popularity":348,"external_reviews":21,"reviews":61,"best_rating":10}
+Ben 10: Omniverse|tv	{"rating":6.0,"users":937,"popularity":2152,"external_reviews":8,"reviews":25,"best_rating":10}
+Best Ink|tv	{"rating":6.2,"users":276,"popularity":0,"external_reviews":1,"reviews":"","best_rating":10}
+Dragons: Riders of Berk|tv	{"rating":8.2,"users":5430,"popularity":1269,"external_reviews":17,"reviews":15,"best_rating":10}
+The Last Word With Lawrence O'Donnell|tv	{"rating":5.5,"users":102,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+Martha Speaks|tv	{"rating":6.7,"users":271,"popularity":0,"external_reviews":2,"reviews":3,"best_rating":10}
+Ultimate Spider-Man|tv	{"rating":7.1,"users":5979,"popularity":715,"external_reviews":4,"reviews":59,"best_rating":10}
+Bering Sea Gold|tv	{"rating":6.7,"users":692,"popularity":4234,"external_reviews":1,"reviews":7,"best_rating":10}
+The X-Files|tv	{"rating":9.6,"users":1085,"popularity":217,"external_reviews":"","reviews":"","best_rating":10}
+Barefoot Contessa|tv	{"rating":6.7,"users":395,"popularity":0,"external_reviews":2,"reviews":8,"best_rating":10}
+Las Vegas|tv	{"rating":7.5,"users":22342,"popularity":719,"external_reviews":23,"reviews":74,"best_rating":10}
+Downton Abbey|tv	{"rating":8.7,"users":97978,"popularity":44,"external_reviews":71,"reviews":120,"best_rating":10}
+The Secret Circle|tv	{"rating":7.5,"users":36877,"popularity":510,"external_reviews":8,"reviews":62,"best_rating":10}
+Unusual Suspects|tv	{"rating":7.8,"users":326,"popularity":4127,"external_reviews":1,"reviews":2,"best_rating":10}
+Million Dollar Listing|tv	{"rating":5.4,"users":659,"popularity":1997,"external_reviews":1,"reviews":3,"best_rating":10}
+The Venture Bros.|tv	{"rating":8.6,"users":17462,"popularity":838,"external_reviews":33,"reviews":43,"best_rating":10}
+Sonny With a Chance|tv	{"rating":6.1,"users":7029,"popularity":1351,"external_reviews":5,"reviews":47,"best_rating":10}
+American Justice|tv	{"rating":2.5,"users":375,"popularity":0,"external_reviews":4,"reviews":6,"best_rating":10}
+Holmes Makes It Right|tv	{"rating":8.1,"users":57,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+Ice Road Truckers|tv	{"rating":6.4,"users":2084,"popularity":1281,"external_reviews":30,"reviews":15,"best_rating":10}
+Hannah Montana|tv	{"rating":4.6,"users":27350,"popularity":487,"external_reviews":40,"reviews":214,"best_rating":10}
+The Millers|tv	{"rating":6.0,"users":4538,"popularity":1393,"external_reviews":5,"reviews":20,"best_rating":10}
+Giada at Home|tv	{"rating":7.3,"users":128,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Hit the Floor|tv	{"rating":6.9,"users":1262,"popularity":1105,"external_reviews":2,"reviews":8,"best_rating":10}
+Attack of the Show!|tv	{"rating":7.7,"users":1943,"popularity":2987,"external_reviews":"","reviews":13,"best_rating":10}
+Fairly Legal|tv	{"rating":7.4,"users":6795,"popularity":1722,"external_reviews":8,"reviews":35,"best_rating":10}
+North America|tv	{"rating":8.7,"users":472,"popularity":0,"external_reviews":6,"reviews":8,"best_rating":10}
+JAG|tv	{"rating":6.5,"users":12869,"popularity":527,"external_reviews":10,"reviews":71,"best_rating":10}
+The Americans|tv	{"rating":8.3,"users":38500,"popularity":192,"external_reviews":30,"reviews":93,"best_rating":10}
+Ancient Discoveries|tv	{"rating":7.7,"users":179,"popularity":0,"external_reviews":2,"reviews":1,"best_rating":10}
+Wicked Attraction|tv	{"rating":7.4,"users":288,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+The Adventures of Jimmy Neutron: Boy Genius|tv	{"rating":6.7,"users":6160,"popularity":2275,"external_reviews":2,"reviews":43,"best_rating":10}
+Prison Break|tv	{"rating":8.5,"users":290329,"popularity":80,"external_reviews":55,"reviews":432,"best_rating":10}
+Clifford the Big Red Dog|tv	{"rating":6.7,"users":1366,"popularity":2367,"external_reviews":7,"reviews":4,"best_rating":10}
+Prospectors|tv	{"rating":6.7,"users":105,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+BBC World News|tv	{"rating":7.3,"users":79,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+LA Ink|tv	{"rating":5.6,"users":2147,"popularity":3865,"external_reviews":13,"reviews":8,"best_rating":10}
+The 56th Annual Grammy Awards|tv	{"rating":6.2,"users":136,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+Manhunters: Fugitive Task Force|tv	{"rating":8.3,"users":89,"popularity":0,"external_reviews":2,"reviews":1,"best_rating":10}
+Kenan & Kel|tv	{"rating":7.9,"users":10846,"popularity":1894,"external_reviews":2,"reviews":39,"best_rating":10}
+Morning Joe|tv	{"rating":4.1,"users":159,"popularity":0,"external_reviews":"","reviews":9,"best_rating":10}
+Who Wants to Be a Millionaire|tv	{"rating":6.1,"users":1036,"popularity":0,"external_reviews":2,"reviews":11,"best_rating":10}
+MSNBC Live|tv	{"rating":3.9,"users":45,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+The Client List|tv	{"rating":6.7,"users":7113,"popularity":623,"external_reviews":18,"reviews":19,"best_rating":10}
+Wicked Tuna|tv	{"rating":6.6,"users":354,"popularity":4379,"external_reviews":1,"reviews":2,"best_rating":10}
+Piers Morgan Tonight|tv	{"rating":3.3,"users":427,"popularity":0,"external_reviews":"","reviews":5,"best_rating":10}
+Intelligence|tv	{"rating":7.0,"users":14773,"popularity":775,"external_reviews":6,"reviews":79,"best_rating":10}
+Touched by an Angel|tv	{"rating":5.9,"users":4471,"popularity":952,"external_reviews":15,"reviews":83,"best_rating":10}
+Batman|tv	{"rating":7.6,"users":250742,"popularity":512,"external_reviews":177,"reviews":794,"best_rating":10}
+Happening Now|tv	{"rating":4.8,"users":12,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+In the Heat of the Night|tv	{"rating":7.4,"users":2086,"popularity":885,"external_reviews":"","reviews":24,"best_rating":10}
+Whitney|tv	{"rating":5.5,"users":11163,"popularity":964,"external_reviews":7,"reviews":96,"best_rating":10}
+8 Simple Rules|tv	{"rating":7.1,"users":19697,"popularity":582,"external_reviews":7,"reviews":115,"best_rating":10}
+Up All Night|tv	{"rating":6.5,"users":8447,"popularity":2205,"external_reviews":11,"reviews":18,"best_rating":10}
+After the First 48|tv	{"rating":7.8,"users":105,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Daniel Tiger's Neighborhood|tv	{"rating":7.3,"users":285,"popularity":2019,"external_reviews":1,"reviews":6,"best_rating":10}
+Angel|tv	{"rating":8.0,"users":48330,"popularity":331,"external_reviews":55,"reviews":192,"best_rating":10}
+Quantum Leap|tv	{"rating":8.1,"users":19082,"popularity":655,"external_reviews":41,"reviews":89,"best_rating":10}
+PAW Patrol|tv	{"rating":7.1,"users":326,"popularity":959,"external_reviews":2,"reviews":4,"best_rating":10}
+Harry's Law|tv	{"rating":7.3,"users":5088,"popularity":1950,"external_reviews":6,"reviews":63,"best_rating":10}
+Katie|tv	{"rating":4.9,"users":7763,"popularity":0,"external_reviews":71,"reviews":156,"best_rating":10}
+Shameless USA|tv	{"rating":8.7,"users":81215,"popularity":96,"external_reviews":29,"reviews":125,"best_rating":10}
+Touch|tv	{"rating":7.4,"users":36673,"popularity":1074,"external_reviews":37,"reviews":109,"best_rating":10}
+MacGyver|tv	{"rating":7.7,"users":25009,"popularity":700,"external_reviews":38,"reviews":76,"best_rating":10}
+My Ghost Story: Caught on Camera|tv	{"rating":6.7,"users":206,"popularity":0,"external_reviews":"","reviews":2,"best_rating":10}
+Oprah's Next Chapter|tv	{"rating":5.3,"users":163,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+Nightmare Next Door|tv	{"rating":7.2,"users":326,"popularity":0,"external_reviews":"","reviews":9,"best_rating":10}
+Who's the Boss?|tv	{"rating":6.5,"users":6219,"popularity":951,"external_reviews":4,"reviews":27,"best_rating":10}
+Mickey Mouse|tv	{"rating":8.3,"users":382,"popularity":2643,"external_reviews":1,"reviews":12,"best_rating":10}
+Army Wives|tv	{"rating":7.2,"users":5260,"popularity":741,"external_reviews":25,"reviews":50,"best_rating":10}
+Tabatha's Salon Takeover|tv	{"rating":6.9,"users":769,"popularity":0,"external_reviews":1,"reviews":3,"best_rating":10}
+Judge Alex|tv	{"rating":5.7,"users":218,"popularity":0,"external_reviews":"","reviews":4,"best_rating":10}
+Erin Burnett OutFront|tv	{"rating":6.5,"users":30,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+WordGirl|tv	{"rating":6.2,"users":484,"popularity":3766,"external_reviews":3,"reviews":2,"best_rating":10}
+The Newsroom|tv	{"rating":8.6,"users":72695,"popularity":256,"external_reviews":58,"reviews":223,"best_rating":10}
+Lie to Me|tv	{"rating":8.0,"users":82838,"popularity":349,"external_reviews":30,"reviews":118,"best_rating":10}
+The Kelly File|tv	{"rating":5.8,"users":151,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+On the Case With Paula Zahn|tv	{"rating":7.3,"users":237,"popularity":0,"external_reviews":"","reviews":3,"best_rating":10}
+Secrets of the Dead|tv	{"rating":7.9,"users":228,"popularity":0,"external_reviews":5,"reviews":"","best_rating":10}
+Dog and Beth: On the Hunt|tv	{"rating":5.5,"users":177,"popularity":0,"external_reviews":1,"reviews":1,"best_rating":10}
+Deal or No Deal|tv	{"rating":5.0,"users":2724,"popularity":2702,"external_reviews":2,"reviews":48,"best_rating":10}
+Extreme Weight Loss|tv	{"rating":5.9,"users":662,"popularity":4838,"external_reviews":1,"reviews":2,"best_rating":10}
+Jane and the Dragon|tv	{"rating":7.7,"users":478,"popularity":0,"external_reviews":2,"reviews":19,"best_rating":10}
+The Challenge: Rivals II|tv	{"rating":7.3,"users":1015,"popularity":1777,"external_reviews":"","reviews":1,"best_rating":10}
+Who Do You Think You Are?|tv	{"rating":8.2,"users":846,"popularity":3643,"external_reviews":6,"reviews":6,"best_rating":10}
+Airplane Repo|tv	{"rating":5.3,"users":231,"popularity":0,"external_reviews":"","reviews":9,"best_rating":10}
+24|tv	{"rating":8.5,"users":137426,"popularity":219,"external_reviews":120,"reviews":557,"best_rating":10}
+The Dick Van Dyke Show|tv	{"rating":8.5,"users":4951,"popularity":869,"external_reviews":37,"reviews":41,"best_rating":10}
+BBQ Pitmasters|tv	{"rating":6.2,"users":141,"popularity":0,"external_reviews":1,"reviews":1,"best_rating":10}
+Sister, Sister|tv	{"rating":6.1,"users":7298,"popularity":1101,"external_reviews":2,"reviews":39,"best_rating":10}
+I Survived|tv	{"rating":8.3,"users":88,"popularity":0,"external_reviews":1,"reviews":"","best_rating":10}
+Hollywood Game Night|tv	{"rating":7.7,"users":1088,"popularity":3266,"external_reviews":1,"reviews":5,"best_rating":10}
+Diff'rent Strokes|tv	{"rating":6.7,"users":6056,"popularity":906,"external_reviews":15,"reviews":29,"best_rating":10}
+Bizarre Foods America|tv	{"rating":8.1,"users":1386,"popularity":0,"external_reviews":2,"reviews":7,"best_rating":10}
+Buckwild|tv	{"rating":3.8,"users":769,"popularity":0,"external_reviews":1,"reviews":6,"best_rating":10}
+Ultimate Survival Alaska|tv	{"rating":7.9,"users":360,"popularity":0,"external_reviews":1,"reviews":7,"best_rating":10}
+Disappeared|tv	{"rating":7.9,"users":391,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+Food Network Star|tv	{"rating":6.3,"users":825,"popularity":4091,"external_reviews":"","reviews":"","best_rating":10}
+Smash|tv	{"rating":7.6,"users":14290,"popularity":752,"external_reviews":48,"reviews":48,"best_rating":10}
+The 700 Club|tv	{"rating":1.8,"users":625,"popularity":0,"external_reviews":"","reviews":26,"best_rating":10}
+Bath Crashers|tv	{"rating":7.5,"users":50,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+Coast Guard Alaska|tv	{"rating":8.3,"users":32,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Extreme Cheapskates|tv	{"rating":4.8,"users":255,"popularity":0,"external_reviews":1,"reviews":4,"best_rating":10}
+The Pioneer Woman|tv	{"rating":6.3,"users":173,"popularity":3784,"external_reviews":"","reviews":6,"best_rating":10}
+The Real Housewives of New York City|tv	{"rating":3.7,"users":1932,"popularity":2508,"external_reviews":3,"reviews":8,"best_rating":10}
+7th Heaven|tv	{"rating":5.0,"users":20382,"popularity":370,"external_reviews":9,"reviews":268,"best_rating":10}
+Globe Trekker|tv	{"rating":8.6,"users":652,"popularity":0,"external_reviews":2,"reviews":11,"best_rating":10}
+Invader Zim|tv	{"rating":8.4,"users":13933,"popularity":2162,"external_reviews":17,"reviews":153,"best_rating":10}
+Criss Angel BeLIEve|tv	{"rating":5.5,"users":155,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+American Horror Story: Asylum|tv	{"rating":8.3,"users":173829,"popularity":2,"external_reviews":134,"reviews":267,"best_rating":10}
+Chrissy & Mr. Jones|tv	{"rating":6.6,"users":25,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Life Below Zero|tv	{"rating":8.1,"users":458,"popularity":0,"external_reviews":"","reviews":6,"best_rating":10}
+The Celebrity Apprentice|tv	{"rating":5.5,"users":5718,"popularity":1629,"external_reviews":10,"reviews":42,"best_rating":10}
+Scooby-Doo! Mystery Incorporated|tv	{"rating":7.9,"users":3911,"popularity":1110,"external_reviews":8,"reviews":39,"best_rating":10}
+The Michael J. Fox Show|tv	{"rating":6.7,"users":4485,"popularity":397,"external_reviews":7,"reviews":33,"best_rating":10}
+Iyanla, Fix My Life|tv	{"rating":7.2,"users":49,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Hogan's Heroes|tv	{"rating":7.9,"users":5330,"popularity":668,"external_reviews":24,"reviews":66,"best_rating":10}
+Batman: The Animated Series|tv	{"rating":9.0,"users":46001,"popularity":415,"external_reviews":30,"reviews":101,"best_rating":10}
+Southland|tv	{"rating":8.4,"users":19470,"popularity":905,"external_reviews":17,"reviews":59,"best_rating":10}
+Guy's Grocery Games|tv	{"rating":6.0,"users":215,"popularity":4294,"external_reviews":1,"reviews":"","best_rating":10}
+Fact or Faked: Paranormal Files|tv	{"rating":6.1,"users":1377,"popularity":4402,"external_reviews":1,"reviews":24,"best_rating":10}
+Renovation Realities|tv	{"rating":7.3,"users":35,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+In Living Color|tv	{"rating":8.1,"users":6761,"popularity":1044,"external_reviews":18,"reviews":32,"best_rating":10}
+Hotel Impossible|tv	{"rating":8.0,"users":552,"popularity":3232,"external_reviews":"","reviews":6,"best_rating":10}
+My Cat From Hell|tv	{"rating":7.8,"users":788,"popularity":4784,"external_reviews":1,"reviews":5,"best_rating":10}
+Dogs 101|tv	{"rating":8.0,"users":210,"popularity":0,"external_reviews":1,"reviews":"","best_rating":10}
+Pingüinos de Madagascar|tv	{"rating":6.7,"users":51958,"popularity":932,"external_reviews":149,"reviews":112,"best_rating":10}
+Drunk History|tv	{"rating":7.8,"users":3858,"popularity":344,"external_reviews":9,"reviews":10,"best_rating":10}
+World's Deadliest|tv	{"rating":7.4,"users":25,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+West Coast Customs|tv	{"rating":5.7,"users":44,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+How the Earth Was Made|tv	{"rating":8.0,"users":415,"popularity":0,"external_reviews":2,"reviews":1,"best_rating":10}
+The Wonder Years|tv	{"rating":8.3,"users":26674,"popularity":368,"external_reviews":16,"reviews":100,"best_rating":10}
+Danny Phantom|tv	{"rating":7.1,"users":7220,"popularity":1559,"external_reviews":4,"reviews":57,"best_rating":10}
+Silent Library|tv	{"rating":6.0,"users":275,"popularity":0,"external_reviews":1,"reviews":"","best_rating":10}
+My First Place|tv	{"rating":5.2,"users":20,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Cake Boss: Next Great Baker|tv	{"rating":6.2,"users":326,"popularity":0,"external_reviews":1,"reviews":3,"best_rating":10}
+Man v. Food Nation|tv	{"rating":7.5,"users":5094,"popularity":3430,"external_reviews":4,"reviews":19,"best_rating":10}
+Hollywood Exes|tv	{"rating":5.2,"users":179,"popularity":0,"external_reviews":2,"reviews":1,"best_rating":10}
+Buying Alaska|tv	{"rating":6.8,"users":112,"popularity":0,"external_reviews":1,"reviews":7,"best_rating":10}
+Frozen Planet|tv	{"rating":9.1,"users":7540,"popularity":1893,"external_reviews":20,"reviews":9,"best_rating":10}
+Sanjay and Craig|tv	{"rating":5.0,"users":1130,"popularity":2031,"external_reviews":1,"reviews":36,"best_rating":10}
+Are You Smarter Than a 5th Grader?|tv	{"rating":4.9,"users":1874,"popularity":0,"external_reviews":3,"reviews":39,"best_rating":10}
+Planet Sheen|tv	{"rating":3.6,"users":661,"popularity":0,"external_reviews":1,"reviews":8,"best_rating":10}
+Sanctuary|tv	{"rating":7.4,"users":14125,"popularity":827,"external_reviews":20,"reviews":58,"best_rating":10}
+The First 48: Missing Persons|tv	{"rating":7.8,"users":66,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+Kitchen Crashers|tv	{"rating":6.8,"users":26,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Star Trek: Voyager|tv	{"rating":7.7,"users":35531,"popularity":336,"external_reviews":51,"reviews":298,"best_rating":10}
+Nip/Tuck|tv	{"rating":7.7,"users":46013,"popularity":578,"external_reviews":30,"reviews":144,"best_rating":10}
+Planet Earth|tv	{"rating":9.5,"users":86731,"popularity":348,"external_reviews":21,"reviews":61,"best_rating":10}
+Jeff Dunham: Spark of Insanity|tv	{"rating":8.2,"users":3163,"popularity":0,"external_reviews":4,"reviews":8,"best_rating":10}
+The Oprah Winfrey Show|tv	{"rating":5.2,"users":3608,"popularity":2586,"external_reviews":2,"reviews":20,"best_rating":10}
+Ray Donovan|tv	{"rating":8.3,"users":37887,"popularity":113,"external_reviews":27,"reviews":77,"best_rating":10}
+Jihad|tv	{"rating":6.6,"users":47,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+House of Anubis|tv	{"rating":7.4,"users":3083,"popularity":1058,"external_reviews":2,"reviews":19,"best_rating":10}
+Steven and Chris|tv	{"rating":6.6,"users":51,"popularity":0,"external_reviews":"","reviews":2,"best_rating":10}
+The Insider|tv	{"rating":7.9,"users":127291,"popularity":2166,"external_reviews":205,"reviews":517,"best_rating":10}
+Family Ties|tv	{"rating":7.2,"users":10867,"popularity":258,"external_reviews":26,"reviews":55,"best_rating":10}
+Naruto|tv	{"rating":7.9,"users":36728,"popularity":871,"external_reviews":13,"reviews":102,"best_rating":10}
+Ice Loves Coco|tv	{"rating":4.5,"users":547,"popularity":0,"external_reviews":"","reviews":2,"best_rating":10}
+Alfred Hitchcock Presents|tv	{"rating":8.6,"users":7462,"popularity":1352,"external_reviews":15,"reviews":26,"best_rating":10}
+Behind the Music|tv	{"rating":7.5,"users":691,"popularity":0,"external_reviews":2,"reviews":16,"best_rating":10}
+Mobsters|tv	{"rating":5.8,"users":6489,"popularity":0,"external_reviews":18,"reviews":47,"best_rating":10}
+Yo Gabba Gabba!|tv	{"rating":7.1,"users":977,"popularity":1472,"external_reviews":12,"reviews":25,"best_rating":10}
+Heartland|tv	{"rating":8.2,"users":3833,"popularity":372,"external_reviews":5,"reviews":20,"best_rating":10}
+World War II in Color|tv	{"rating":8.8,"users":492,"popularity":0,"external_reviews":"","reviews":6,"best_rating":10}
+The Taste|tv	{"rating":6.0,"users":508,"popularity":0,"external_reviews":3,"reviews":6,"best_rating":10}
+The Ed Show|tv	{"rating":5.3,"users":69,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Brad Meltzer's Decoded|tv	{"rating":6.2,"users":578,"popularity":0,"external_reviews":3,"reviews":2,"best_rating":10}
+Eastbound & Down|tv	{"rating":8.3,"users":39660,"popularity":556,"external_reviews":52,"reviews":32,"best_rating":10}
+Whodunnit?|tv	{"rating":6.9,"users":1212,"popularity":0,"external_reviews":2,"reviews":9,"best_rating":10}
+Super Fun Night|tv	{"rating":6.3,"users":4078,"popularity":2409,"external_reviews":7,"reviews":22,"best_rating":10}
+American Chopper: Senior vs. Junior|tv	{"rating":6.5,"users":296,"popularity":0,"external_reviews":1,"reviews":3,"best_rating":10}
+Still Standing|tv	{"rating":7.6,"users":5811,"popularity":1655,"external_reviews":1,"reviews":53,"best_rating":10}
+MotorWeek|tv	{"rating":7.8,"users":43,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+I Shouldn't Be Alive|tv	{"rating":8.2,"users":1279,"popularity":0,"external_reviews":2,"reviews":7,"best_rating":10}
+Flipping Vegas|tv	{"rating":4.2,"users":315,"popularity":4513,"external_reviews":1,"reviews":44,"best_rating":10}
+Talking Dead|tv	{"rating":7.5,"users":1975,"popularity":896,"external_reviews":"","reviews":4,"best_rating":10}
+Special Agent Oso|tv	{"rating":5.1,"users":271,"popularity":4709,"external_reviews":1,"reviews":5,"best_rating":10}
+Stargate Universe|tv	{"rating":7.7,"users":36583,"popularity":633,"external_reviews":27,"reviews":486,"best_rating":10}
+Welcome to Sweetie Pie's|tv	{"rating":5.6,"users":103,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+The Big Valley|tv	{"rating":7.8,"users":1473,"popularity":1121,"external_reviews":3,"reviews":34,"best_rating":10}
+Praise the Lord|tv	{"rating":4.4,"users":88,"popularity":0,"external_reviews":"","reviews":5,"best_rating":10}
+Everyday Italian|tv	{"rating":7.9,"users":242,"popularity":0,"external_reviews":"","reviews":3,"best_rating":10}
+Gabriel Iglesias: Aloha Fluffy|tv	{"rating":8.1,"users":738,"popularity":0,"external_reviews":1,"reviews":"","best_rating":10}
+Lou Dobbs Tonight|tv	{"rating":4.9,"users":124,"popularity":0,"external_reviews":1,"reviews":3,"best_rating":10}
+Leave It to Beaver|tv	{"rating":7.6,"users":4102,"popularity":1135,"external_reviews":11,"reviews":61,"best_rating":10}
+Big Cat Diary|tv	{"rating":8.8,"users":501,"popularity":0,"external_reviews":"","reviews":7,"best_rating":10}
+The Challenge: Battle of the Exes|tv	{"rating":7.3,"users":1015,"popularity":1777,"external_reviews":"","reviews":1,"best_rating":10}
+Survivorman Ten Days|tv	{"rating":8.8,"users":180,"popularity":0,"external_reviews":"","reviews":4,"best_rating":10}
+Huckabee|tv	{"rating":4.6,"users":129,"popularity":0,"external_reviews":"","reviews":2,"best_rating":10}
+Daniel Tosh: Happy Thoughts|tv	{"rating":7.5,"users":1457,"popularity":0,"external_reviews":2,"reviews":2,"best_rating":10}
+Ben 10|tv	{"rating":7.0,"users":5183,"popularity":1675,"external_reviews":4,"reviews":20,"best_rating":10}
+No Ordinary Family|tv	{"rating":6.9,"users":14580,"popularity":1216,"external_reviews":11,"reviews":50,"best_rating":10}
+Ain't That America|tv	{"rating":5.8,"users":22,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+Murder, She Wrote|tv	{"rating":6.8,"users":11714,"popularity":342,"external_reviews":26,"reviews":51,"best_rating":10}
+World's Dumbest ...|tv	{"rating":7.0,"users":100,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Weather Center Live|tv	{"rating":6.2,"users":22,"popularity":0,"external_reviews":"","reviews":3,"best_rating":10}
+Love & Hip Hop|tv	{"rating":8.1,"users":9,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Anderson Cooper 360|tv	{"rating":6.1,"users":258,"popularity":0,"external_reviews":"","reviews":5,"best_rating":10}
+Jimmy Kimmel Live|tv	{"rating":6.9,"users":7171,"popularity":1036,"external_reviews":2,"reviews":27,"best_rating":10}
+Iron Chef America|tv	{"rating":7.2,"users":1195,"popularity":3788,"external_reviews":1,"reviews":10,"best_rating":10}
+Untold Stories of the E.R.|tv	{"rating":8.3,"users":337,"popularity":4685,"external_reviews":1,"reviews":3,"best_rating":10}
+Sanford & Son|tv	{"rating":8.0,"users":4636,"popularity":833,"external_reviews":17,"reviews":40,"best_rating":10}
+Survivor: Caramoan -- Fans vs. Favorites|tv	{"rating":6.9,"users":16538,"popularity":514,"external_reviews":25,"reviews":148,"best_rating":10}
+Joyce Meyer: Enjoying Everyday Life|tv	{"rating":7.2,"users":33,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+T.I. and Tiny: The Family Hustle|tv	{"rating":6.8,"users":262,"popularity":0,"external_reviews":2,"reviews":"","best_rating":10}
+2013 American Music Awards|tv	{"rating":6.9,"users":59,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Bad Girls Club: Mexico|tv	{"rating":7.8,"users":19,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Masterpiece Mystery!|tv	{"rating":8.9,"users":448,"popularity":3712,"external_reviews":"","reviews":1,"best_rating":10}
+Scooby-Doo, Where Are You!|tv	{"rating":7.9,"users":18664,"popularity":927,"external_reviews":27,"reviews":54,"best_rating":10}
+The Suite Life of Zack & Cody|tv	{"rating":6.2,"users":22357,"popularity":494,"external_reviews":16,"reviews":167,"best_rating":10}
+NBA GameTime|tv	{"rating":4.7,"users":282,"popularity":0,"external_reviews":3,"reviews":3,"best_rating":10}
+State of the Union 2014|tv	{"rating":4.3,"users":48130,"popularity":3575,"external_reviews":76,"reviews":211,"best_rating":10}
+Dancing With the Stars: All-Stars|tv	{"rating":4.7,"users":7679,"popularity":379,"external_reviews":3,"reviews":34,"best_rating":10}
+Storage Wars Texas|tv	{"rating":5.0,"users":801,"popularity":0,"external_reviews":1,"reviews":2,"best_rating":10}
+ABC World News With Diane Sawyer|tv	{"rating":5.5,"users":137,"popularity":0,"external_reviews":"","reviews":5,"best_rating":10}
+What's New Scooby-Doo?|tv	{"rating":7.1,"users":3984,"popularity":2236,"external_reviews":12,"reviews":20,"best_rating":10}
+Music Mix|tv	{"rating":7.7,"users":12615,"popularity":0,"external_reviews":30,"reviews":125,"best_rating":10}
+My Fair Wedding With David Tutera|tv	{"rating":6.5,"users":194,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}
+The Comedy Central Roast|tv	{"rating":7.5,"users":1492,"popularity":0,"external_reviews":4,"reviews":2,"best_rating":10}
+CTV News|tv	{"rating":4.6,"users":50,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+American History TV|tv	{"rating":8.6,"users":719319,"popularity":446,"external_reviews":157,"reviews":1404,"best_rating":10}
+AIFL|tv	{"rating":6.2,"users":407,"popularity":441,"external_reviews":1,"reviews":15,"best_rating":10}
+Tanked: Unfiltered|tv	{"rating":8.7,"users":7,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Cavuto|tv	{"rating":5.3,"users":22,"popularity":0,"external_reviews":"","reviews":2,"best_rating":10}
+The FOX Report With Shepard Smith|tv	{"rating":4.5,"users":106,"popularity":0,"external_reviews":"","reviews":3,"best_rating":10}
+Octonauts|tv	{"rating":7.7,"users":344,"popularity":2863,"external_reviews":1,"reviews":3,"best_rating":10}
+The Haunted Hathaways|tv	{"rating":5.3,"users":871,"popularity":1651,"external_reviews":2,"reviews":13,"best_rating":10}
+ABC World News Now|tv	{"rating":6.7,"users":45,"popularity":0,"external_reviews":"","reviews":2,"best_rating":10}
+Mégastructures|tv	{"rating":7.5,"users":415,"popularity":0,"external_reviews":1,"reviews":"","best_rating":10}
+Untamed and Uncut|tv	{"rating":7.0,"users":86,"popularity":0,"external_reviews":2,"reviews":1,"best_rating":10}
+Top Shot All-Stars|tv	{"rating":8.3,"users":53,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Who the (Bleep) Did I Marry?|tv	{"rating":6.4,"users":233,"popularity":0,"external_reviews":1,"reviews":1,"best_rating":10}
+Beyond Belief: Fact or Fiction?|tv	{"rating":8.0,"users":2762,"popularity":3036,"external_reviews":1,"reviews":30,"best_rating":10}
+Animal Cops Houston|tv	{"rating":7.6,"users":224,"popularity":0,"external_reviews":"","reviews":4,"best_rating":10}
+Million Dollar Listing New York|tv	{"rating":7.3,"users":654,"popularity":2798,"external_reviews":"","reviews":7,"best_rating":10}
+Markets Now|tv	{"rating":7.6,"users":7,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Preachers of L.A.|tv	{"rating":5.0,"users":63,"popularity":0,"external_reviews":1,"reviews":"","best_rating":10}
+¿Quién da más? Texas|tv	{"rating":5.0,"users":801,"popularity":0,"external_reviews":1,"reviews":2,"best_rating":10}
+Chicago PD|tv	{"rating":8.1,"users":10874,"popularity":103,"external_reviews":10,"reviews":26,"best_rating":10}
+Dateline on OWN|tv	{"rating":7.5,"users":73,"popularity":0,"external_reviews":"","reviews":"","best_rating":10}
+Disney On Demand|tv	{"rating":8.2,"users":29,"popularity":0,"external_reviews":"","reviews":5,"best_rating":10}
+The Haunting Of ...|tv	{"rating":6.7,"users":276,"popularity":3273,"external_reviews":"","reviews":"","best_rating":10}
+Fanboy and Chum Chum|tv	{"rating":3.3,"users":1706,"popularity":4270,"external_reviews":3,"reviews":36,"best_rating":10}
+Fullmetal Alchemist Brotherhood|tv	{"rating":9.1,"users":38516,"popularity":512,"external_reviews":19,"reviews":56,"best_rating":10}
+Gene Simmons Family Jewels|tv	{"rating":5.8,"users":1798,"popularity":0,"external_reviews":27,"reviews":19,"best_rating":10}
+The E! True Hollywood Story|tv	{"rating":6.4,"users":610,"popularity":0,"external_reviews":"","reviews":1,"best_rating":10}

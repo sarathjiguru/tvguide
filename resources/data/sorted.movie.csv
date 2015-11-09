@@ -1,0 +1,994 @@
+Titanic|movie,6.19569167174
+Shrek|movie,5.77472148752
+The Rock|movie,5.75633005924
+The Walking Dead|movie,5.60420980172
+Toy Story|movie,5.44345881655
+Paul|movie,5.20128052044
+The Lion King|movie,5.18672711104
+The Godfather|movie,4.92895494924
+Selena|movie,4.85575097108
+The Shawshank Redemption|movie,4.83991717902
+Inception|movie,4.83970184198
+Finding Nemo|movie,4.83197653591
+Fight Club|movie,4.82577125362
+The Hangover|movie,4.74954093056
+Pulp Fiction|movie,4.72686347639
+The Dark Knight|movie,4.71244506305
+Forrest Gump|movie,4.70482983071
+Iron Man|movie,4.69819675196
+Gladiator|movie,4.63474596058
+Die Hard With a Vengeance|movie,4.59944329561
+The Matrix|movie,4.591304282
+Monsters\, Inc.|movie,4.56197594388
+Twilight|movie,4.55162081413
+WALL-E|movie,4.47837106243
+The Notebook|movie,4.47225704545
+The Dark Knight Rises|movie,4.44601313856
+Despicable Me|movie,4.44398679046
+GoodFellas|movie,4.43120930373
+Tangled|movie,4.43109429399
+The Godfather\, Part II|movie,4.39625682437
+The Lord of the Rings: The Return of the King|movie,4.38390869219
+Up|movie,4.38281844993
+Spider-Man|movie,4.37743137913
+Rambo|movie,4.36920107787
+Rocky|movie,4.35592870228
+Saving Private Ryan|movie,4.33732984815
+The Lord of the Rings: The Fellowship of the Ring|movie,4.33576688938
+The Silence of the Lambs|movie,4.33291273957
+The Green Mile|movie,4.32441027972
+Braveheart|movie,4.30067175801
+The Karate Kid|movie,4.28670148172
+The Lord of the Rings: The Two Towers|movie,4.27882167898
+One Flew Over the Cuckoo's Nest|movie,4.27773843545
+300|movie,4.27030087545
+Back to the Future|movie,4.2690149354
+Jurassic Park|movie,4.26383196267
+The Departed|movie,4.25275295609
+Ice Age|movie,4.25104887778
+Batman Begins|movie,4.2476434566
+The Usual Suspects|movie,4.23762214266
+Ratatouille|movie,4.23528503042
+Raiders of the Lost Ark|movie,4.20095437025
+Kevin Hart: Laugh at My Pain|movie,4.18688968855
+Eternal Sunshine of the Spotless Mind|movie,4.18068793966
+The Incredibles|movie,4.18064407614
+Reservoir Dogs|movie,4.17986667109
+Inglourious Basterds|movie,4.17943315978
+The Shining|movie,4.16098094118
+Home Alone|movie,4.16084532254
+The Prestige|movie,4.16073450044
+V for Vendetta|movie,4.15710480564
+Marvel's the Avengers|movie,4.15550249334
+Batman|movie,4.1514444404
+Terminator 2: Judgment Day|movie,4.15066191734
+Die Hard|movie,4.1481528787
+X-Men|movie,4.13007919295
+Sherlock Holmes|movie,4.11580263093
+Full Metal Jacket|movie,4.10261455562
+The Terminator|movie,4.09916660192
+Scarface|movie,4.09267759161
+It's a Wonderful Life|movie,4.07164609588
+Edward Scissorhands|movie,4.07014302402
+Toy Story 3|movie,4.06674821012
+Good Will Hunting|movie,4.06559653555
+The Big Lebowski|movie,4.06034484733
+Shutter Island|movie,4.04583857701
+The Sixth Sense|movie,4.04497779236
+Gran Torino|movie,4.04189530393
+Taken|movie,4.04065520759
+Scary Movie|movie,4.03798285864
+Daredevil|movie,4.03026467352
+Star Trek|movie,4.02454234928
+Indiana Jones and the Last Crusade|movie,4.02380516682
+Slumdog Millionaire|movie,4.01624940823
+Casino|movie,4.01256030449
+Heat|movie,4.00676859104
+Fargo|movie,3.99945371142
+Sin City|movie,3.99542084826
+No Country for Old Men|movie,3.9916540151
+The Game|movie,3.98619501203
+The Nightmare Before Christmas|movie,3.97883659109
+The Blind Side|movie,3.97334654441
+The Truman Show|movie,3.97237708236
+Ray|movie,3.97145967678
+Superbad|movie,3.9668699377
+Pirates of the Caribbean: The Curse of the Black Pearl|movie,3.96611087868
+How to Train Your Dragon|movie,3.96288504632
+Thor|movie,3.95950950067
+The Wizard of Oz|movie,3.95833837185
+Kill Bill: Vol. 1|movie,3.95718708739
+Hannibal|movie,3.9560859884
+A Walk to Remember|movie,3.95554198645
+The Princess Bride|movie,3.94302789859
+District 9|movie,3.93384691794
+Harry Potter and the Deathly Hallows: Part 2|movie,3.92557605622
+Unforgiven|movie,3.92373344853
+Casino Royale|movie,3.91677577814
+Catch Me if You Can|movie,3.9165770753
+Once Upon a Time|movie,3.91648758995
+The Bourne Ultimatum|movie,3.91429839431
+Shaun of the Dead|movie,3.9123266209
+Groundhog Day|movie,3.91178879774
+The One|movie,3.90449312295
+Blood Diamond|movie,3.8955244345
+Jaws|movie,3.89100639153
+The Pursuit of Happyness|movie,3.88549345265
+Bolt|movie,3.88181815019
+Avatar|movie,3.88121777783
+The Exorcist|movie,3.88019174762
+The Little Mermaid|movie,3.8767525129
+Kill Bill: Vol. 2|movie,3.87302937457
+(500) Days of Summer|movie,3.86902698982
+Dirty Dancing|movie,3.86842202307
+Platoon|movie,3.86767207181
+Rain Man|movie,3.86287069978
+Stand by Me|movie,3.85646530777
+Zombieland|movie,3.85532480839
+Life of Pi|movie,3.8520659264
+The Hobbit: An Unexpected Journey|movie,3.84991938461
+I Am Legend|movie,3.84930868379
+The Help|movie,3.84748634126
+Hot Fuzz|movie,3.83585559696
+The Curious Case of Benjamin Button|movie,3.83542680463
+Men in Black|movie,3.83461711366
+The Social Network|movie,3.83436813407
+Mystic River|movie,3.82920500187
+The Breakfast Club|movie,3.8200829481
+The Incredible Hulk|movie,3.81873484736
+Wreck-It Ralph|movie,3.81832655738
+Megamind|movie,3.81647007765
+Little Miss Sunshine|movie,3.8145884603
+I\, Robot|movie,3.80923592598
+Paranormal Activity|movie,3.80390606992
+Ocean's Eleven|movie,3.80234209221
+American Gangster|movie,3.80091474637
+The Bourne Identity|movie,3.79529905111
+Toy Story 2|movie,3.78738269947
+Crash|movie,3.78465823326
+Predator|movie,3.78347011685
+The Hunger Games|movie,3.78291862941
+E.T. the Extra-Terrestrial|movie,3.78108421051
+Skyfall|movie,3.77880280971
+X-Men: First Class|movie,3.77836182482
+The Bourne Supremacy|movie,3.76253280901
+Ferris Bueller's Day Off|movie,3.7604463108
+Serenity|movie,3.75651646942
+Ted|movie,3.75427767057
+Black Hawk Down|movie,3.75375217427
+Cast Away|movie,3.74944553553
+The Last Samurai|movie,3.74850461132
+The Fighter|movie,3.74377738861
+The Untouchables|movie,3.74015565044
+Harry Potter and the Prisoner of Azkaban|movie,3.73953873143
+Back to the Future Part II|movie,3.73467466774
+Ip Man|movie,3.73124553905
+Mulan|movie,3.72859984456
+Training Day|movie,3.7283446515
+Star Wars: Episode III -- Revenge of the Sith|movie,3.72660067306
+Step Up|movie,3.72426069989
+The Goonies|movie,3.71987623343
+The Sound of Music|movie,3.71974901129
+Troy|movie,3.71909659519
+Kick-Ass|movie,3.71562311436
+American Pie|movie,3.7035805149
+The Fifth Element|movie,3.70318904296
+Crouching Tiger\, Hidden Dragon|movie,3.6933709823
+Love Actually|movie,3.68952518769
+Scott Pilgrim vs. the World|movie,3.68777776061
+Man on Fire|movie,3.6800187972
+Watchmen|movie,3.67852154435
+Point Break|movie,3.67646669445
+Seven Pounds|movie,3.67455205273
+Cinderella|movie,3.67314326163
+Coraline|movie,3.66899030055
+Harry Potter and the Deathly Hallows: Part 1|movie,3.66893243875
+Donnie Brasco|movie,3.66454073407
+Office Space|movie,3.66167942295
+The Hurt Locker|movie,3.66027155646
+Rise of the Planet of the Apes|movie,3.66010848323
+Step Brothers|movie,3.65458948175
+Walk the Line|movie,3.65245371706
+28 Days Later|movie,3.65149673685
+As Good as It Gets|movie,3.65077291147
+Halloween|movie,3.64896886601
+Harry Potter and the Goblet of Fire|movie,3.64841543624
+Dumb & Dumber|movie,3.64689047653
+O Brother\, Where Art Thou?|movie,3.64557502785
+King Kong|movie,3.64520186777
+The Fugitive|movie,3.64490845826
+Looper|movie,3.64154819214
+Hanna|movie,3.63847623868
+Interview With the Vampire|movie,3.63795077652
+Harry Potter and the Sorcerer's Stone|movie,3.63377924437
+The Town|movie,3.63307092621
+Remember the Titans|movie,3.6315625848
+Grease|movie,3.63010554037
+Indiana Jones and the Temple of Doom|movie,3.62378638803
+True Grit|movie,3.62289853533
+Moneyball|movie,3.62195612718
+Juno|movie,3.620156271
+Harry Potter and the Half-Blood Prince|movie,3.61424693509
+Pride & Prejudice|movie,3.61404585954
+Pitch Perfect|movie,3.61360663089
+The Blues Brothers|movie,3.61360204366
+Source Code|movie,3.61206212652
+A Christmas Story|movie,3.60976604826
+Kung Fu Panda|movie,3.60928313926
+2012|movie,3.60858502222
+Gangs of New York|movie,3.60838886219
+The Simpsons Movie|movie,3.60684256657
+Crazy\, Stupid\, Love.|movie,3.59928593445
+Beetlejuice|movie,3.59911873389
+Inside Man|movie,3.59760326792
+Pirates of the Caribbean: Dead Man's Chest|movie,3.59057269414
+Harry Potter and the Order of the Phoenix|movie,3.59049660078
+Iron Man 3|movie,3.58780993149
+Sherlock Holmes: A Game of Shadows|movie,3.58344287824
+The Expendables|movie,3.5831404472
+Bad Boys|movie,3.58301222609
+Airplane!|movie,3.57983103892
+South Park: The Movie|movie,3.5736745136
+Young Frankenstein|movie,3.57155696949
+Sex and the City|movie,3.56690101131
+Despicable Me 2|movie,3.56461767601
+End of Watch|movie,3.56258799162
+The Devil's Advocate|movie,3.55995268645
+Rango|movie,3.55986573002
+Mission: Impossible -- Ghost Protocol|movie,3.55692509193
+Harry Potter and the Chamber of Secrets|movie,3.55681567431
+Apollo 13|movie,3.55673417674
+The Aviator|movie,3.55667658539
+Shrek 2|movie,3.54884684419
+Big|movie,3.54726991628
+Lethal Weapon|movie,3.54702335101
+Pineapple Express|movie,3.54246346207
+Transformers|movie,3.53590342449
+Blow|movie,3.53146373723
+Mission: Impossible|movie,3.52953661829
+A Few Good Men|movie,3.52625723523
+Goldfinger|movie,3.52609390186
+Spider-Man 2|movie,3.52430704416
+Underworld|movie,3.52093644084
+Misery|movie,3.50995075506
+Face/Off|movie,3.50967131392
+Law Abiding Citizen|movie,3.50913095612
+Mean Girls|movie,3.50814023373
+Real Steel|movie,3.50673969767
+Back to the Future Part III|movie,3.50406831456
+Boyz N the Hood|movie,3.50317776525
+The 40-Year-Old Virgin|movie,3.49379158399
+Wall Street|movie,3.49351264843
+The Matrix Reloaded|movie,3.49302369248
+P.S. I Love You|movie,3.49002644026
+Dawn of the Dead|movie,3.48918253765
+Pirates of the Caribbean: At World's End|movie,3.487658216
+Rio|movie,3.48565023003
+The Crow|movie,3.48564422117
+Cars|movie,3.48246301078
+Who Framed Roger Rabbit|movie,3.48128199688
+21 Jump Street|movie,3.4733872994
+Fast Five|movie,3.46755319498
+Flight|movie,3.46685463236
+The Bucket List|movie,3.46542983357
+Rush Hour|movie,3.46490928877
+Shooter|movie,3.45941284691
+Brave|movie,3.45932158882
+The Amazing Spider-Man|movie,3.45872001421
+A Bug's Life|movie,3.45731816023
+The Hunt for Red October|movie,3.45634895015
+Dazed and Confused|movie,3.45312229657
+Live Free or Die Hard|movie,3.45084206169
+The Passion of the Christ|movie,3.44597080295
+Wedding Crashers|movie,3.4407651485
+Knocked Up|movie,3.43765124204
+Prometheus|movie,3.43020826061
+A Bronx Tale|movie,3.4299916324
+Pretty Woman|movie,3.42992776423
+Speed|movie,3.42802799907
+Charlie and the Chocolate Factory|movie,3.42594723397
+Cloudy With a Chance of Meatballs|movie,3.42308108634
+Rise of the Guardians|movie,3.42209479734
+Blazing Saddles|movie,3.42061845954
+Forgetting Sarah Marshall|movie,3.41997123956
+The Mummy|movie,3.41895132882
+Anchorman: The Legend of Ron Burgundy|movie,3.41262813418
+Unbreakable|movie,3.41132223358
+Master and Commander: The Far Side of the World|movie,3.40870288198
+Jerry Maguire|movie,3.40147887168
+Stargate|movie,3.40139907896
+Iron Man 2|movie,3.40134949597
+Cloverfield|movie,3.40064753271
+Super 8|movie,3.40041763409
+Enemy of the State|movie,3.39957555348
+Ghostbusters|movie,3.39867533194
+Resident Evil|movie,3.39779883598
+Happy Feet|movie,3.3949487495
+Starship Troopers|movie,3.39070421935
+The Emperor's New Groove|movie,3.38912036827
+Independence Day|movie,3.38840189768
+Oblivion|movie,3.38804209065
+Easy A|movie,3.38769251752
+Red|movie,3.38452824991
+Tombstone|movie,3.3839661235
+Scooby-Doo|movie,3.3825190726
+The Lincoln Lawyer|movie,3.38246672878
+Tropic Thunder|movie,3.38217740449
+Kung Fu Panda 2|movie,3.37501285368
+Ace Ventura: Pet Detective|movie,3.37495564799
+The Italian Job|movie,3.37187268439
+There's Something About Mary|movie,3.37088142259
+Wanted|movie,3.36983480191
+The Expendables 2|movie,3.36967857851
+Die Hard 2|movie,3.36898044245
+In Time|movie,3.3677103571
+Enter the Dragon|movie,3.36571179019
+Red Dragon|movie,3.36567207478
+True Lies|movie,3.36007192916
+GoldenEye|movie,3.36004759338
+8 Mile|movie,3.35501116087
+The Cabin in the Woods|movie,3.3544817629
+National Lampoon's Christmas Vacation|movie,3.35306078751
+Legends of the Fall|movie,3.35017789996
+Old School|movie,3.34924609668
+Prince of Persia: The Sands of Time|movie,3.34557658264
+Meet the Parents|movie,3.34515164696
+The Devil Wears Prada|movie,3.34308697187
+Invictus|movie,3.33976823496
+The Patriot|movie,3.33747042985
+50 First Dates|movie,3.33609713708
+Top Gun|movie,3.33495004771
+Batman Returns|movie,3.33335119264
+Public Enemies|movie,3.33218063391
+The Adjustment Bureau|movie,3.33088285158
+Ronin|movie,3.32966145294
+Star Trek: First Contact|movie,3.32948766359
+Happy Gilmore|movie,3.32833805839
+Hellboy II: The Golden Army|movie,3.3262887642
+Erin Brockovich|movie,3.32555951161
+The Transporter|movie,3.32386231436
+The School of Rock|movie,3.32312141349
+Napoleon Dynamite|movie,3.32265052066
+Bruce Almighty|movie,3.3224664064
+Warm Bodies|movie,3.31450079259
+National Lampoon's Animal House|movie,3.31301265879
+The Proposal|movie,3.312555617
+Pitch Black|movie,3.31176664531
+The Book of Eli|movie,3.31117942466
+Déjà Vu|movie,3.30805520921
+Yes Man|movie,3.30651764501
+Blade|movie,3.30628724973
+Captain America: The First Avenger|movie,3.30583659067
+Jumanji|movie,3.30555334959
+Valkyrie|movie,3.30445399031
+Harold & Kumar Go to White Castle|movie,3.30413239976
+Jack Reacher|movie,3.30396982605
+The Princess and the Frog|movie,3.30381433398
+Gremlins|movie,3.30336931698
+I Love You\, Man|movie,3.3025098728
+Trading Places|movie,3.29870948893
+Beverly Hills Cop|movie,3.29692985486
+Pirates of the Caribbean: On Stranger Tides|movie,3.29540763767
+Dredd|movie,3.29416153022
+Planes\, Trains and Automobiles|movie,3.29162068563
+The Chronicles of Narnia: The Lion\, the Witch and the Wardrobe|movie,3.28719282019
+Mr. & Mrs. Smith|movie,3.28199617145
+Galaxy Quest|movie,3.27983231303
+Marley & Me|movie,3.27957157652
+Mission: Impossible III|movie,3.27784723475
+X-Men: The Last Stand|movie,3.27723341023
+Men in Black 3|movie,3.27598843446
+Mrs. Doubtfire|movie,3.27535747679
+The Mask|movie,3.27484071424
+Madagascar|movie,3.27434724309
+Friends With Benefits|movie,3.2731312413
+The Holiday|movie,3.27213305826
+National Treasure|movie,3.27202759218
+Ocean's Thirteen|movie,3.27065382913
+Hellboy|movie,3.26925996017
+Crank|movie,3.26891629032
+Robin Hood|movie,3.26652302812
+Definitely\, Maybe|movie,3.26591402464
+Austin Powers: International Man of Mystery|movie,3.2645247006
+Role Models|movie,3.26125632409
+Bridesmaids|movie,3.26121333974
+Ghost|movie,3.26116917144
+Spaceballs|movie,3.26084873108
+Terminator Salvation|movie,3.25859784315
+Raising Arizona|movie,3.25571295962
+The Color Purple|movie,3.2551828605
+Hotel Transylvania|movie,3.25394914416
+Jarhead|movie,3.25279531659
+A Time to Kill|movie,3.25072531527
+The A-Team|movie,3.25065280412
+Enchanted|movie,3.24895951749
+My Sister's Keeper|movie,3.24668760574
+Star Wars: Episode II -- Attack of the Clones|movie,3.24431517851
+The Negotiator|movie,3.24214988398
+The Matrix Revolutions|movie,3.24177714962
+Home Alone 2: Lost in New York|movie,3.24133818923
+Underworld: Evolution|movie,3.24006868232
+Unknown|movie,3.23999395738
+The Warriors|movie,3.2379084984
+Tron: Legacy|movie,3.23365367103
+Pocahontas|movie,3.23243546421
+My Cousin Vinny|movie,3.23210969416
+Con Air|movie,3.23035148655
+Godzilla|movie,3.22990812618
+The Sandlot|movie,3.22859664264
+Fast & Furious|movie,3.22826476896
+The Fast and the Furious|movie,3.22826476896
+Disturbia|movie,3.22608820377
+X-Men Origins: Wolverine|movie,3.22466283514
+Ice Age: Dawn of the Dinosaurs|movie,3.22397434991
+Death at a Funeral|movie,3.21732306885
+Due Date|movie,3.2170651729
+Ice Age: The Meltdown|movie,3.21657951254
+Liar Liar|movie,3.21471130729
+Quantum of Solace|movie,3.21273005242
+Lilo & Stitch|movie,3.21150592953
+Caddyshack|movie,3.21063372026
+Malcolm X|movie,3.20400268868
+The Time Traveler's Wife|movie,3.20352319155
+17 Again|movie,3.20035722918
+Signs|movie,3.19455333443
+Grown Ups|movie,3.19376716474
+Outlander|movie,3.19225304175
+Cruel Intentions|movie,3.19128037091
+The Other Guys|movie,3.18816409849
+Big Trouble in Little China|movie,3.18590834179
+Willy Wonka and the Chocolate Factory|movie,3.18093453853
+21|movie,3.18065813638
+Hitch|movie,3.17773051788
+9|movie,3.17358208742
+Coming to America|movie,3.1722611869
+We Were Soldiers|movie,3.17212620681
+Coach Carter|movie,3.17151714132
+Monsters vs. Aliens|movie,3.17040533206
+Bad Santa|movie,3.16951429723
+Armageddon|movie,3.16950306529
+The Bourne Legacy|movie,3.16689647217
+Star Wars: Episode I -- The Phantom Menace|movie,3.16399084707
+Elf|movie,3.16231214781
+Robin Hood: Prince of Thieves|movie,3.16187469991
+Jay and Silent Bob Strike Back|movie,3.16165443918
+Project X|movie,3.15965088534
+A Knight's Tale|movie,3.15543353217
+Wayne's World|movie,3.15425347062
+War of the Worlds|movie,3.14957562785
+Safe House|movie,3.14843220668
+The Lost Boys|movie,3.14800488425
+Angels & Demons|movie,3.14778805192
+Men of Honor|movie,3.14712497644
+Hook|movie,3.14677749113
+Dear John|movie,3.14524474178
+Pay It Forward|movie,3.14136210882
+John Carter|movie,3.14130444555
+The Hangover Part II|movie,3.14052208742
+Invincible|movie,3.14032319596
+Escape From New York|movie,3.1366765723
+Lemony Snicket's A Series of Unfortunate Events|movie,3.13659191143
+Alice in Wonderland|movie,3.13633563544
+Zoolander|movie,3.13185504304
+Unstoppable|movie,3.12933812398
+The Day After Tomorrow|movie,3.12808128809
+The Outlaw Josey Wales|movie,3.12786491956
+The Chronicles of Riddick|movie,3.12779217182
+Dodgeball: A True Underdog Story|movie,3.12711067989
+Transformers: Dark of the Moon|movie,3.12647751702
+The Lovely Bones|movie,3.1258945044
+Hairspray|movie,3.1225371882
+The Da Vinci Code|movie,3.11803538476
+Push|movie,3.11605860535
+Just Go With It|movie,3.11582920974
+Night at the Museum|movie,3.11513495337
+Rush Hour 2|movie,3.11147501786
+National Lampoon's Vacation|movie,3.10910359485
+Machete|movie,3.10825681258
+Blackfish|movie,3.1082541415
+Shrek Forever After|movie,3.10822889401
+Death Race|movie,3.10780560583
+John Q|movie,3.10592910548
+Sixteen Candles|movie,3.10442085265
+Super Troopers|movie,3.10211637287
+The Lost World: Jurassic Park|movie,3.09947332483
+Clueless|movie,3.09481734081
+Sleepless in Seattle|movie,3.0939189798
+Friday|movie,3.0927815066
+Blade II|movie,3.09244979921
+Austin Powers: The Spy Who Shagged Me|movie,3.08881017442
+Zack and Miri Make a Porno|movie,3.08807664865
+Terminator 3: Rise of the Machines|movie,3.08794687478
+Four Brothers|movie,3.08606090101
+The Lake House|movie,3.08368178412
+Hancock|movie,3.08041933963
+Sleepy Hollow|movie,3.07975114685
+The Ugly Truth|movie,3.07441597729
+In the Line of Fire|movie,3.07391935873
+Eagle Eye|movie,3.07285314822
+Underworld: Rise of the Lycans|movie,3.072300719
+The Ninth Gate|movie,3.07132203012
+Gone in Sixty Seconds|movie,3.06996700738
+The Guardian|movie,3.06951146328
+Madagascar: Escape 2 Africa|movie,3.06737620768
+The Mask of Zorro|movie,3.06694178105
+Transporter 3|movie,3.06279717506
+Ocean's Twelve|movie,3.06254071221
+Men in Black II|movie,3.06217971894
+Bad Boys II|movie,3.06100946057
+Fried Green Tomatoes|movie,3.05972410872
+A League of Their Own|movie,3.05315824991
+The Mummy Returns|movie,3.05233625456
+Me\, Myself & Irene|movie,3.05072001775
+Get Smart|movie,3.05016909257
+Oz the Great and Powerful|movie,3.04960265316
+Salt|movie,3.04924585994
+Olympus Has Fallen|movie,3.04782764383
+Open Range|movie,3.04616061996
+Hitman|movie,3.04405384014
+Analyze This|movie,3.04386604962
+Click|movie,3.04250986322
+The Smurfs|movie,3.03933827047
+National Treasure: Book of Secrets|movie,3.0386146628
+The Chronicles of Narnia: Prince Caspian|movie,3.03822202412
+Freedom Writers|movie,3.0377563364
+Maverick|movie,3.03492489158
+The Addams Family|movie,3.03251674307
+Dark Shadows|movie,3.03046791427
+Grandma's Boy|movie,3.03043621014
+You've Got Mail|movie,3.03001945038
+Hot Tub Time Machine|movie,3.02885612902
+Any Given Sunday|movie,3.02571065771
+The Polar Express|movie,3.02554908469
+WarGames|movie,3.02413114918
+Van Helsing|movie,3.0238292704
+Julie & Julia|movie,3.02358388531
+ParaNorman|movie,3.02271236279
+Snow White and the Huntsman|movie,3.01708136082
+Mamma Mia!|movie,3.01699910634
+The Mechanic|movie,3.01263611426
+Swordfish|movie,3.01254617439
+Lethal Weapon 4|movie,3.01240652252
+Menace II Society|movie,3.00772876704
+Meet the Fockers|movie,3.00685133649
+Demolition Man|movie,3.00230724334
+Spider-Man 3|movie,3.00133413993
+Talladega Nights: The Ballad of Ricky Bobby|movie,2.99933695276
+Ever After: A Cinderella Story|movie,2.99891299484
+Big Daddy|movie,2.99811205718
+Tomorrow Never Dies|movie,2.99810360312
+Life as We Know It|movie,2.99777298739
+Total Recall|movie,2.99607432402
+Clue|movie,2.99590432261
+Indiana Jones and the Kingdom of the Crystal Skull|movie,2.99191001468
+Predators|movie,2.98956651427
+The Punisher|movie,2.98777916129
+The Recruit|movie,2.98206674264
+What Women Want|movie,2.97965518354
+How to Lose a Guy in 10 Days|movie,2.97934613065
+Matilda|movie,2.97766590032
+Ghostbusters II|movie,2.97667596407
+The Longest Yard|movie,2.97548305942
+Jackass: Number Two|movie,2.97400108622
+He's Just Not That Into You|movie,2.96791969516
+The World Is Not Enough|movie,2.96784520604
+Rudy|movie,2.96618360259
+Something's Gotta Give|movie,2.96441053269
+Get Him to the Greek|movie,2.96406211842
+This Means War|movie,2.96403917572
+The Taking of Pelham 123|movie,2.96094161956
+Robin Hood: Men in Tights|movie,2.96075130302
+Superman Returns|movie,2.9606103166
+The Change-Up|movie,2.95814435343
+The Whole Nine Yards|movie,2.95769867234
+Billy Madison|movie,2.95750563403
+Air Force One|movie,2.9573494496
+She's the Man|movie,2.9546946965
+Seventeen Again|movie,2.95359852738
+The Fast and the Furious: Tokyo Drift|movie,2.94810065566
+Waiting ...|movie,2.94628211589
+The Perfect Storm|movie,2.94336215152
+The Family Man|movie,2.94106947564
+Killer Elite|movie,2.94080178855
+Jumper|movie,2.94075436355
+Meet the Robinsons|movie,2.93981360208
+Dr. Seuss' the Lorax|movie,2.93912446981
+Tommy Boy|movie,2.93774072642
+Once Upon a Time in Mexico|movie,2.93663326588
+Pearl Harbor|movie,2.93608957118
+No Strings Attached|movie,2.93552202728
+Daybreakers|movie,2.93477846033
+Ace Ventura: When Nature Calls|movie,2.93456005289
+Police Academy|movie,2.93413894887
+Holes|movie,2.93059139048
+Safe Haven|movie,2.93020631579
+Underworld: Awakening|movie,2.92786928912
+The Rundown|movie,2.92761161305
+Idiocracy|movie,2.92718615921
+Knight and Day|movie,2.92622534025
+Surrogates|movie,2.92609079954
+The Transporter 2|movie,2.92498895419
+Accepted|movie,2.92334776056
+The Man in the Iron Mask|movie,2.92143889414
+Scrooged|movie,2.91782060613
+Resident Evil: Extinction|movie,2.91768607201
+Knowing|movie,2.91601879344
+Twister|movie,2.91176304084
+Get Shorty|movie,2.91048770725
+Hansel & Gretel: Witch Hunters|movie,2.91021309214
+Disney's A Christmas Carol|movie,2.90805176523
+The SpongeBob SquarePants Movie|movie,2.90766033373
+What Happens in Vegas|movie,2.90740944972
+Blades of Glory|movie,2.90559736842
+Jackass: The Movie|movie,2.90419391745
+Major League|movie,2.89993960098
+Battleship|movie,2.89733878704
+Austin Powers in Goldmember|movie,2.89724319855
+Uncle Buck|movie,2.89694052567
+Transformers: Revenge of the Fallen|movie,2.89366941937
+She's Out of My League|movie,2.88751781581
+Shrek the Third|movie,2.88590334171
+Clash of the Titans|movie,2.88589571705
+Date Night|movie,2.88504455648
+Constantine|movie,2.88303428634
+Legally Blonde|movie,2.88094442367
+Resident Evil: Apocalypse|movie,2.8781437495
+Rush Hour 3|movie,2.87455257525
+Monster House|movie,2.86552219675
+Sex Drive|movie,2.8650204745
+Mission: Impossible 2|movie,2.8631443951
+Igor|movie,2.86240617683
+Space Jam|movie,2.86138434211
+Die Another Day|movie,2.86007068913
+Ghost Rider|movie,2.85976586818
+Jack the Giant Slayer|movie,2.85957834075
+Immortals|movie,2.85349696849
+The Last Song|movie,2.85337470462
+Here Comes the Boom|movie,2.85252243965
+We Are Marshall|movie,2.85218839961
+Safe|movie,2.84932258718
+Faster|movie,2.84782126168
+Bee Movie|movie,2.843033752
+27 Dresses|movie,2.84300199384
+My Best Friend's Wedding|movie,2.84297749641
+The Jerk|movie,2.84258936776
+Colombiana|movie,2.84175954566
+Honey\, I Shrunk the Kids|movie,2.84140560305
+Planet of the Apes|movie,2.84099595856
+My Girl|movie,2.84090693256
+U.S. Marshals|movie,2.83834422847
+National Lampoon's Van Wilder|movie,2.83739005827
+It's Complicated|movie,2.83673966657
+The Chronicles of Narnia: The Voyage of the Dawn Treader|movie,2.83611318265
+The Sorcerer's Apprentice|movie,2.83527781596
+Robots|movie,2.83114281148
+Miss Congeniality|movie,2.83008302249
+Hocus Pocus|movie,2.8237086823
+The Last House on the Left|movie,2.82307868046
+Cars 2|movie,2.82252977634
+Beverly Hills Cop II|movie,2.82092792321
+Hercules|movie,2.81672662596
+Pretty in Pink|movie,2.81302264532
+White Men Can't Jump|movie,2.81276645453
+Reign of Fire|movie,2.81043341232
+Repo Men|movie,2.80466288012
+Predator 2|movie,2.80369726121
+This Is 40|movie,2.80333148147
+Jurassic Park III|movie,2.80199423787
+Stripes|movie,2.80120951515
+Wall Street: Money Never Sleeps|movie,2.80029029579
+Valentine's Day|movie,2.79951260608
+Starsky & Hutch|movie,2.79895416992
+The Waterboy|movie,2.79058679461
+13 Going on 30|movie,2.78863156358
+The Princess Diaries|movie,2.78760059217
+Weird Science|movie,2.78584987726
+Fun With Dick and Jane|movie,2.78083089073
+Fun With Dick & Jane|movie,2.78083089073
+Star Trek III: The Search for Spock|movie,2.77417897017
+Parker|movie,2.77328069284
+Resident Evil: Afterlife|movie,2.7728077687
+Percy Jackson & the Olympians: The Lightning Thief|movie,2.77237736008
+XXX|movie,2.77010152796
+S.W.A.T.|movie,2.76801235007
+Act of Valor|movie,2.76346644737
+Addams Family Values|movie,2.76125954198
+Wrath of the Titans|movie,2.75887623577
+The Cable Guy|movie,2.75652059652
+Think Like a Man|movie,2.75556371549
+Battle: Los Angeles|movie,2.75521882719
+Footloose|movie,2.75418581874
+Open Season|movie,2.75066952221
+Freaky Friday|movie,2.75066680808
+The Pelican Brief|movie,2.74972587683
+30 Minutes or Less|movie,2.74658590631
+The Bodyguard|movie,2.74608954847
+2 Fast 2 Furious|movie,2.74175834391
+Steel Magnolias|movie,2.74065297979
+Half Baked|movie,2.73960348002
+The Green Hornet|movie,2.7359949641
+Shanghai Knights|movie,2.73579542804
+Just Friends|movie,2.73445898823
+Eraser|movie,2.73445201643
+G.I. Joe: The Rise of Cobra|movie,2.73342323448
+Kindergarten Cop|movie,2.73200463909
+Green Lantern|movie,2.73190825871
+Under Siege|movie,2.73157265758
+Catfish|movie,2.73054672326
+Beavis and Butt-head Do America|movie,2.73015122708
+Bad Teacher|movie,2.72961924109
+Lara Croft: Tomb Raider|movie,2.7294820449
+Blade: Trinity|movie,2.72668077522
+Burlesque|movie,2.72659486375
+Space Cowboys|movie,2.72291052583
+Night at the Museum: Battle of the Smithsonian|movie,2.71991757278
+Gremlins 2: The New Batch|movie,2.71295431183
+Star Trek: Nemesis|movie,2.71248175262
+Sweet Home Alabama|movie,2.70834546615
+Star Trek: Insurrection|movie,2.70478970932
+Fantastic Four: Rise of the Silver Surfer|movie,2.7024535401
+The Switch|movie,2.70163180687
+The League of Extraordinary Gentlemen|movie,2.70073747638
+Shallow Hal|movie,2.70009683888
+Alien vs. Predator|movie,2.69876477817
+Blue Streak|movie,2.69825110063
+Along Came Polly|movie,2.69135904684
+Wild Hogs|movie,2.68802364342
+Step Up 2 the Streets|movie,2.6855257423
+The Replacements|movie,2.68520986991
+Hall Pass|movie,2.68322676352
+Along Came a Spider|movie,2.68264365706
+Sister Act|movie,2.68013037912
+Three Amigos!|movie,2.67816447378
+Tyler Perry's Madea's Big Happy Family|movie,2.67652701834
+Bedtime Stories|movie,2.67529169925
+Radio|movie,2.67377708019
+The Amityville Horror|movie,2.67101391984
+Mr. Deeds|movie,2.66805585227
+Freddy vs. Jason|movie,2.66366198382
+Sahara|movie,2.66107963036
+Beerfest|movie,2.66079940296
+The Twilight Saga: Breaking Dawn Part 1|movie,2.65616839729
+Sky High|movie,2.65562594578
+Smokey and the Bandit|movie,2.65059154311
+Gridiron Gang|movie,2.64999338531
+Deep Blue Sea|movie,2.64492263221
+You Don't Mess With the Zohan|movie,2.64397232347
+The Break-Up|movie,2.64040723311
+Bring It On|movie,2.63715493905
+The Craft|movie,2.63373058219
+Overboard|movie,2.62623304372
+Dinner for Schmucks|movie,2.62584775048
+Love & Basketball|movie,2.62578474857
+Road House|movie,2.61576487052
+Romeo Must Die|movie,2.61544932664
+A Cinderella Story|movie,2.61232761054
+Walking Tall|movie,2.61069387532
+The Watch|movie,2.60956086825
+Identity Thief|movie,2.60581078903
+How High|movie,2.60546023145
+Practical Magic|movie,2.59648072022
+The Legend of Zorro|movie,2.59417863711
+Executive Decision|movie,2.59076975907
+White Christmas|movie,2.59048239966
+Batman Forever|movie,2.59018051545
+A Night at the Roxbury|movie,2.59013325128
+Red Dawn|movie,2.5859075916
+The Day the Earth Stood Still|movie,2.58064929849
+Cheaper by the Dozen|movie,2.57879513373
+Takers|movie,2.57713202502
+Heartbreak Ridge|movie,2.57703955666
+21 and Over|movie,2.57477085367
+Dude\, Where's My Car?|movie,2.57465032214
+B.A.P.S|movie,2.57437182945
+Eat Pray Love|movie,2.57097933652
+The Twilight Saga: Breaking Dawn Part 2|movie,2.57061938688
+The Heartbreak Kid|movie,2.56558260592
+Little Fockers|movie,2.55978532968
+John Tucker Must Die|movie,2.558602124
+Coyote Ugly|movie,2.55843563191
+The Bounty Hunter|movie,2.55657839434
+Nacho Libre|movie,2.55568335673
+She's All That|movie,2.55051184567
+The Game Plan|movie,2.54921803859
+Semi-Pro|movie,2.54901145402
+The Nutty Professor|movie,2.54240223251
+Into the Blue|movie,2.54224597042
+The Scorpion King|movie,2.54208851706
+Look Who's Talking|movie,2.53619648244
+Planet 51|movie,2.53539673347
+Tin Cup|movie,2.53486500859
+Confessions of a Shopaholic|movie,2.53277081837
+The Little Rascals|movie,2.53243039078
+Anger Management|movie,2.53167172393
+Beastly|movie,2.52858311609
+That's My Boy|movie,2.5264346201
+Lara Croft Tomb Raider: The Cradle of Life|movie,2.52533196583
+Poseidon|movie,2.52398186832
+Ghosts of Girlfriends Past|movie,2.52199266631
+Cop Out|movie,2.52005805813
+Notorious|movie,2.5149801209
+Bride Wars|movie,2.51368872599
+Good Luck Chuck|movie,2.51324106849
+Evan Almighty|movie,2.50950476157
+National Lampoon's European Vacation|movie,2.50692372834
+Extract|movie,2.50674616515
+Limitless|movie,2.50450935867
+Couples Retreat|movie,2.50337189203
+Something Borrowed|movie,2.50294275529
+Lakeview Terrace|movie,2.5027161872
+The Secret Life of Bees|movie,2.5017452525
+The Karate Kid Part II|movie,2.50142117136
+Made of Honor|movie,2.50038648661
+A Man Apart|movie,2.4909554467
+Resident Evil: Retribution|movie,2.49095051563
+Drive Angry|movie,2.49079305558
+You\, Me and Dupree|movie,2.48689100108
+The Wedding Date|movie,2.48604288258
+Scary Movie 4|movie,2.48428057039
+Rock Star|movie,2.48236459872
+What to Expect When You're Expecting|movie,2.48043194208
+White Chicks|movie,2.47867904214
+Joe Dirt|movie,2.47151249535
+The Mummy: Tomb of the Dragon Emperor|movie,2.46764383201
+The House Bunny|movie,2.46743976339
+Sleeping With the Enemy|movie,2.46649416828
+The Hot Chick|movie,2.46498522571
+What a Girl Wants|movie,2.4627472612
+La Bamba|movie,2.44961866569
+Failure to Launch|movie,2.44856701423
+Fool's Gold|movie,2.44709744353
+Cirque du Freak: The Vampire's Assistant|movie,2.44691687072
+The Princess Diaries 2: Royal Engagement|movie,2.44521484635
+The Pacifier|movie,2.44437226539
+The Core|movie,2.44192584487
+You Again|movie,2.44149043377
+The Happening|movie,2.43242405302
+Scary Movie 2|movie,2.42912961072
+Without a Paddle|movie,2.42863504126
+Paul Blart: Mall Cop|movie,2.42745055033
+Killers|movie,2.42548336604
+Little Nicky|movie,2.42129918618
+The First Wives Club|movie,2.41851903766
+Baby Mama|movie,2.41275331232
+Jingle All the Way|movie,2.4109772998
+Race to Witch Mountain|movie,2.40796178815
+When in Rome|movie,2.40459980991
+Four Christmases|movie,2.3979189907
+Guess Who|movie,2.39258562357
+Uptown Girls|movie,2.3923782379
+Conan the Barbarian|movie,2.39031348971
+Lean on Me|movie,2.39013634173
+Juice|movie,2.38515445831
+Daddy Day Care|movie,2.3850618875
+Stick It|movie,2.3827636403
+Vegas Vacation|movie,2.38151994047
+The Twilight Saga: Eclipse|movie,2.37600693597
+Black Sheep|movie,2.37457006728
+Legion|movie,2.37204491475
+RV|movie,2.36224128957
+The Benchwarmers|movie,2.35633263473
+Fools Rush In|movie,2.35404765034
+Cadillac Records|movie,2.35089154243
+Barbershop|movie,2.34825736391
+The Ringer|movie,2.34779694508
+The Dukes of Hazzard|movie,2.34281074427
+Undercover Brother|movie,2.33641158619
+Next Friday|movie,2.33562271562
+Alvin and the Chipmunks|movie,2.33356546816
+The Parent Trap|movie,2.33268388483
+Last Holiday|movie,2.33174485215
+Friday After Next|movie,2.33126015681
+Rumor Has It ...|movie,2.32949758034
+National Security|movie,2.32723173831
+Land of the Lost|movie,2.32398016934
+The Wedding Planner|movie,2.32060953204
+Bewitched|movie,2.31980977858
+Employee of the Month|movie,2.31519701062
+Zookeeper|movie,2.3123641505
+Monster-in-Law|movie,2.31148219267
+Major Payne|movie,2.30773824708
+Because I Said So|movie,2.305877316
+Money Train|movie,2.29796648032
+Drumline|movie,2.2971832869
+The Dilemma|movie,2.29316582374
+Fireproof|movie,2.28944864678
+Fred Claus|movie,2.28815527277
+Queen of the Damned|movie,2.28522604864
+Maid in Manhattan|movie,2.28313238443
+Wild Wild West|movie,2.28176711015
+A Haunted House|movie,2.28157182001
+Enough|movie,2.27990463977
+The Santa Clause 2|movie,2.27842280126
+Big Momma's House|movie,2.26971972693
+The Back-up Plan|movie,2.26801452348
+Year One|movie,2.26378366638
+Jackass 3.5|movie,2.26211569509
+Bringing Down the House|movie,2.26012665486
+Blue Crush|movie,2.25827715636
+Coneheads|movie,2.25029529923
+The Twilight Saga: New Moon|movie,2.2473268596
+Balls of Fury|movie,2.24339949409
+Jack Frost|movie,2.24126759649
+Sister Act 2: Back in the Habit|movie,2.2397734736
+Escape From Planet Earth|movie,2.2385435262
+The Last Airbender|movie,2.23364243371
+Hope Floats|movie,2.22808231158
+Honey|movie,2.22046315228
+Miss Congeniality 2: Armed and Fabulous|movie,2.21879213112
+Stealth|movie,2.20757378633
+Another Cinderella Story|movie,2.20639458203
+Stomp the Yard|movie,2.18243103555
+Get Rich or Die Tryin'|movie,2.15723427032
+Anaconda|movie,2.14102585285
+Harlem Nights|movie,2.13892071117
+Scooby-Doo 2: Monsters Unleashed|movie,2.11771935961
+Eve's Bayou|movie,2.11756641299
+The Karate Kid Part III|movie,2.11722694808
+The Best Man|movie,2.10647236998
+Bring It On: All or Nothing|movie,2.10154136181
+All About Steve|movie,2.09374316127
+Legally Blonde 2: Red\, White & Blonde|movie,2.08156827445
+Obsessed|movie,2.08030735247
+Tooth Fairy|movie,2.0779870777
+I Think I Love My Wife|movie,2.07652599118
+Why Did I Get Married?|movie,2.0742997145
+Fantastic Four|movie,2.06369617756
+House Party|movie,2.06366252472
+Mean Girls 2|movie,2.05384814849
+Black Knight|movie,2.0532792531
+ATL|movie,2.05234747975
+Did You Hear About the Morgans?|movie,2.05180740627
+Ghost Rider: Spirit of Vengeance|movie,2.0499172167
+Beauty Shop|movie,2.04525391942
+Broken Arrow|movie,2.03966089372
+Malibu's Most Wanted|movie,2.03784651432
+Diary of a Mad Black Woman|movie,2.03715774716
+Just Wright|movie,2.03577657731
+Big Momma's House 2|movie,2.03285310171
+Poetic Justice|movie,2.0323884521
+Jumping the Broom|movie,2.02387603706
+All About the Benjamins|movie,2.02085938725
+Waist Deep|movie,2.01436428454
+Alvin and the Chipmunks: The Squeakquel|movie,2.00488759649
+XXX: State of the Union|movie,2.00219219549
+Barbershop 2: Back in Business|movie,2.00137033436
+Welcome Home Roscoe Jenkins|movie,1.99686968896
+Madea's Family Reunion|movie,1.99253386713
+Waiting to Exhale|movie,1.97868729639
+For Colored Girls|movie,1.97827989409
+The Santa Clause 3: The Escape Clause|movie,1.97496653314
+Flowers in the Attic|movie,1.96486785852
+Are We There Yet?|movie,1.96360277654
+Teen Beach Movie|movie,1.95619865342
+Lottery Ticket|movie,1.95334450353
+Being Mary Jane|movie,1.94632339957
+The Five Heartbeats|movie,1.94316205683
+Love Don't Cost a Thing|movie,1.94173460843
+Norbit|movie,1.93422341054
+Daddy's Little Girls|movie,1.93415659683
+Mickey's Once Upon a Christmas|movie,1.93069069554
+Deliver Us From Eva|movie,1.92375851667
+Minority Report|movie,1.92239489718
+Soul Plane|movie,1.91936451993
+Tyler Perry's Good Deeds|movie,1.91183539942
+Life|movie,1.90071082174
+Grease 2|movie,1.89486572046
+Class Act|movie,1.89323747923
+Tyler Perry's Madea's Witness Protection|movie,1.88066967197
+A Thin Line Between Love and Hate|movie,1.8621613749
+Batman & Robin|movie,1.85796171879
+Meet the Browns|movie,1.84130811169
+Tyler Perry's Why Did I Get Married Too?|movie,1.83273862839
+The Professional|movie,1.82644796013
+Tyler Perry's Madea Goes to Jail|movie,1.8246423678
+Are We Done Yet?|movie,1.82440041583
+Luv|movie,1.81095558861
+Tyler Perry's I Can Do Bad All By Myself|movie,1.81081803804
+Johnson Family Vacation|movie,1.81081311092
+The Gabby Douglas Story|movie,1.80406410212
+35 & Ticking|movie,1.79152455481
+You Got Served|movie,1.76049801913
+I Now Pronounce You Chuck and Larry|movie,1.75855869761
+Son-in-Law|movie,1.7525996673
+Catwoman|movie,1.68245038982

@@ -1,0 +1,999 @@
+Iron Man|movie	{"fans":19585974,"is_verified":true,"name":"Iron Man","id":"7057882289"}
+Iron Man 2|movie	{"fans":13208,"is_verified":false,"name":"Iron Man (2008 film)","id":"103767339662025"}
+Transformers: Revenge of the Fallen|movie	{"fans":812,"is_verified":false,"name":"Transformers: Revenge of the Fallen \u2013 The Score","id":"109701102389347"}
+Batman Begins|movie	{"fans":3997231,"is_verified":true,"name":"Batman Begins","id":"246344278767961"}
+Marvel's the Avengers|movie	{"fans":4087257,"is_verified":false,"name":"Marvel: Avengers Alliance","id":"236808833057863"}
+Happy Gilmore|movie	{"fans":2645364,"is_verified":true,"name":"Happy Gilmore","id":"116104815135798"}
+Men in Black|movie	{"fans":8489931,"is_verified":true,"name":"Men In Black","id":"168169803229342"}
+Thor|movie	{"fans":12928303,"is_verified":true,"name":"Thor","id":"113589202010624"}
+The Shawshank Redemption|movie	{"fans":5621730,"is_verified":true,"name":"The Shawshank Redemption","id":"103636093053996"}
+The Dark Knight|movie	{"fans":6101455,"is_verified":true,"name":"The Dark Knight Rises","id":"225034700870481"}
+Forrest Gump|movie	{"fans":8597596,"is_verified":true,"name":"Forrest Gump","id":"11471355815"}
+The Hunger Games|movie	{"fans":4924520,"is_verified":true,"name":"Hunger Games Page","id":"140504009302351"}
+Transformers|movie	{"fans":1975765,"is_verified":true,"name":"TRANSFORMERS","id":"146805978722938"}
+Titanic|movie	{"fans":56360553,"is_verified":true,"name":"Titanic","id":"216410885045047"}
+The Proposal|movie	{"fans":3565225,"is_verified":true,"name":"The Proposal","id":"368938496503181"}
+Avatar|movie	{"fans":89680,"is_verified":true,"name":"Avatar","id":"19675910255"}
+Mrs. Doubtfire|movie	{"fans":1630213,"is_verified":true,"name":"Mrs. Doubtfire","id":"103152216486010"}
+Scarface|movie	{"fans":1694630,"is_verified":false,"name":"Tony Montana (SCARFACE)","id":"34883224097"}
+Step Brothers|movie	{"fans":9675573,"is_verified":true,"name":"Step Brothers","id":"12500648763"}
+National Lampoon's Christmas Vacation|movie	{"fans":341451,"is_verified":false,"name":"National Lampoon's Christmas Vacation","id":"104068476295893"}
+Despicable Me|movie	{"fans":17454952,"is_verified":true,"name":"Despicable Me","id":"111121877591"}
+Transformers: Dark of the Moon|movie	{"fans":2194609,"is_verified":false,"name":"Transformers: Dark of the Moon","id":"162971073727950"}
+The Matrix|movie	{"fans":7107022,"is_verified":true,"name":"The Matrix","id":"195843020454275"}
+Ghostbusters|movie	{"fans":2394201,"is_verified":true,"name":"Ghostbusters","id":"152306518156691"}
+Shooter|movie	{"fans":1236038,"is_verified":true,"name":"Shooter","id":"100641416695065"}
+The Hangover|movie	{"fans":22211109,"is_verified":true,"name":"The Hangover","id":"74089565764"}
+Grown Ups|movie	{"fans":8672796,"is_verified":true,"name":"Grown Ups","id":"166665812477"}
+Pirates of the Caribbean: The Curse of the Black Pearl|movie	{"fans":6237,"is_verified":false,"name":"Pirates of the Caribbean: The Curse of the Black Pearl (soundtrack)","id":"109338922418036"}
+X-Men Origins: Wolverine|movie	{"fans":41719,"is_verified":false,"name":"X-Men Origins: Wolverine - Australia","id":"84229850241"}
+Pirates of the Caribbean: Dead Man's Chest|movie	{"fans":1055905,"is_verified":false,"name":"Pirates of the Caribbean: Dead Man's Chest","id":"109392685745478"}
+Independence Day|movie	{"fans":1195980,"is_verified":true,"name":"Independence Day","id":"179208862199906"}
+The Bourne Identity|movie	{"fans":2021,"is_verified":false,"name":"The Bourne Identity (1988 film)","id":"103127123061307"}
+Star Trek|movie	{"fans":3496182,"is_verified":true,"name":"Star Trek","id":"122908054392375"}
+Liar Liar|movie	{"fans":354148,"is_verified":true,"name":"Liar Liar","id":"398926363478297"}
+50 First Dates|movie	{"fans":2403778,"is_verified":true,"name":"50 First Dates","id":"455608874622039"}
+Pirates of the Caribbean: At World's End|movie	{"fans":1094249,"is_verified":false,"name":"Pirates of the Caribbean 3","id":"115081758505771"}
+Knocked Up|movie	{"fans":2231659,"is_verified":true,"name":"Knocked Up","id":"149656291736308"}
+X-Men: First Class|movie	{"fans":197,"is_verified":false,"name":"X-Men: First Class (comics)","id":"171511939629492"}
+White Chicks|movie	{"fans":45963,"is_verified":true,"name":"White Chicks Official","id":"507784552678364"}
+The Green Mile|movie	{"fans":3975637,"is_verified":true,"name":"The Green Mile","id":"212526758758843"}
+The Fast and the Furious|movie	{"fans":916676,"is_verified":false,"name":"Furious 7","id":"564487850241283"}
+Ferris Bueller's Day Off|movie	{"fans":1271823,"is_verified":true,"name":"Ferris Bueller's Day Off","id":"213775601976655"}
+Forgetting Sarah Marshall|movie	{"fans":979052,"is_verified":true,"name":"Forgetting Sarah Marshall","id":"13691980085"}
+Taken|movie	{"fans":5087159,"is_verified":true,"name":"Taken","id":"209288649109233"}
+Home Alone|movie	{"fans":14879230,"is_verified":true,"name":"Home Alone","id":"177145422371839"}
+The Lord of the Rings: The Two Towers|movie	{"fans":120,"is_verified":false,"name":"The Lord of the Rings: The Two Towers (soundtrack)","id":"1384688948455815"}
+Just Go With It|movie	{"fans":3067138,"is_verified":true,"name":"Just Go With It","id":"167793929905624"}
+The Blind Side|movie	{"fans":8798572,"is_verified":true,"name":"The Blind Side","id":"104880924318"}
+Indiana Jones and the Last Crusade|movie	{"fans":229008,"is_verified":false,"name":"Indiana Jones and the Last Crusade","id":"108161872538898"}
+The 40-Year-Old Virgin|movie	{"fans":1300977,"is_verified":true,"name":"The 40-Year-Old Virgin","id":"152049011493179"}
+Pretty Woman|movie	{"fans":4487677,"is_verified":false,"name":"Pretty Woman","id":"108444775844463"}
+The Mummy|movie	{"fans":1626266,"is_verified":true,"name":"The Mummy","id":"186305351390050"}
+Bad Boys|movie	{"fans":10012198,"is_verified":true,"name":"Bad Boys","id":"108487049226177"}
+Fast & Furious|movie	{"fans":916676,"is_verified":false,"name":"Furious 7","id":"564487850241283"}
+Harry Potter and the Sorcerer's Stone|movie	{"fans":311627,"is_verified":false,"name":"Harry Potter and the Sorcerers Stone","id":"115246251822654"}
+The Princess Bride|movie	{"fans":2543397,"is_verified":true,"name":"The Princess Bride","id":"9238887431"}
+The Mummy Returns|movie	{"fans":1238054,"is_verified":true,"name":"The Mummy Returns","id":"174434069322197"}
+Legally Blonde|movie	{"fans":898277,"is_verified":true,"name":"Legally Blonde","id":"345329698812935"}
+X-Men: The Last Stand|movie	{"fans":633,"is_verified":false,"name":"X-Men: The Last Stand (soundtrack)","id":"127331733975601"}
+The Bourne Ultimatum|movie	{"fans":14761,"is_verified":false,"name":"The Bourne Ultimatum","id":"109248589093974"}
+8 Mile|movie	{"fans":2489372,"is_verified":true,"name":"8 Mile","id":"162564747125805"}
+The Incredible Hulk|movie	{"fans":11925835,"is_verified":true,"name":"The Incredible Hulk","id":"21700332856"}
+Bad Boys II|movie	{"fans":633425,"is_verified":false,"name":"Bad Boys II","id":"107570882605485"}
+Indiana Jones and the Kingdom of the Crystal Skull|movie	{"fans":102302,"is_verified":false,"name":"Indiana Jones and the Kingdom of the Crystal Skull","id":"112143128797723"}
+National Treasure|movie	{"fans":248,"is_verified":false,"name":"National Trail Treasures","id":"469684199875180"}
+Harry Potter and the Half-Blood Prince|movie	{"fans":957266,"is_verified":false,"name":"Harry Potter and the Half-Blood Prince","id":"112082258808139"}
+The Incredibles|movie	{"fans":7370177,"is_verified":true,"name":"The Incredibles","id":"17765071054"}
+Elf|movie	{"fans":198446,"is_verified":true,"name":"Elf","id":"435849533138165"}
+Home Alone 2: Lost in New York|movie	{"fans":4572290,"is_verified":true,"name":"Home Alone 2: Lost In New York","id":"471775009527795"}
+The Longest Yard|movie	{"fans":1164053,"is_verified":false,"name":"The Longest Yard","id":"113695008641225"}
+Couples Retreat|movie	{"fans":352968,"is_verified":true,"name":"Couples Retreat","id":"109161584803"}
+Man on Fire|movie	{"fans":987791,"is_verified":true,"name":"Man On Fire","id":"341692299215071"}
+Bruce Almighty|movie	{"fans":2803595,"is_verified":true,"name":"Bruce Almighty","id":"165765266808357"}
+Dodgeball: A True Underdog Story|movie	{"fans":53790,"is_verified":false,"name":"Dodgeball: A True Underdog Story","id":"109369835748264"}
+Ice Age|movie	{"fans":14585335,"is_verified":true,"name":"Ice Age Movies","id":"129577537128630"}
+The A-Team|movie	{"fans":1253745,"is_verified":false,"name":"A-Team Movie","id":"172855809560"}
+Miss Congeniality|movie	{"fans":395687,"is_verified":true,"name":"Miss Congeniality","id":"229986050475716"}
+Gone in Sixty Seconds|movie	{"fans":443,"is_verified":false,"name":"Gone in Sixty Seconds","id":"109994735697391"}
+Remember the Titans|movie	{"fans":1609792,"is_verified":false,"name":"Remember the Titans","id":"107961802560387"}
+Die Hard|movie	{"fans":2700781,"is_verified":true,"name":"Die Hard","id":"169949339748979"}
+GoodFellas|movie	{"fans":4342010,"is_verified":true,"name":"Goodfellas","id":"193801173989136"}
+The Departed|movie	{"fans":2061763,"is_verified":true,"name":"The Departed","id":"124703400953760"}
+Walking Tall|movie	{"fans":11965,"is_verified":false,"name":"Walking Tall (2004 film)","id":"112383515439930"}
+X-Men|movie	{"fans":12901090,"is_verified":true,"name":"X-Men Movies","id":"170700836293714"}
+Zombieland|movie	{"fans":3703387,"is_verified":true,"name":"Zombieland","id":"92989572403"}
+Indiana Jones and the Temple of Doom|movie	{"fans":1869,"is_verified":false,"name":"Temple of Doom","id":"109985782357508"}
+Hancock|movie	{"fans":160,"is_verified":false,"name":"Hancock, Massachusetts","id":"105643046136888"}
+Up|movie	{"fans":7950408,"is_verified":true,"name":"Upworthy","id":"354522044588660"}
+The Fugitive|movie	{"fans":195557,"is_verified":true,"name":"The Fugitive","id":"180043722113662"}
+Harry Potter and the Order of the Phoenix|movie	{"fans":18095,"is_verified":false,"name":"Harry Potter and the Order of the Phoenix (soundtrack)","id":"112534658759203"}
+Casino Royale|movie	{"fans":1338288,"is_verified":true,"name":"Casino Royale","id":"151523671552341"}
+How to Lose a Guy in 10 Days|movie	{"fans":1392571,"is_verified":true,"name":"How to Lose A Guy in 10 Days","id":"203849156322901"}
+Red|movie	{"fans":819878,"is_verified":true,"name":"reddit","id":"7177913734"}
+Sherlock Holmes|movie	{"fans":10203823,"is_verified":true,"name":"Sherlock Holmes","id":"84213402434"}
+Juno|movie	{"fans":127856,"is_verified":true,"name":"Juno-Reactor","id":"10164931583"}
+The Italian Job|movie	{"fans":852103,"is_verified":true,"name":"The Italian Job","id":"164258633639004"}
+Four Brothers|movie	{"fans":2341,"is_verified":false,"name":"The Brothers Four","id":"127664147253200"}
+Real Steel|movie	{"fans":3393133,"is_verified":true,"name":"Real Steel","id":"327836155819"}
+Kick-Ass|movie	{"fans":33310,"is_verified":false,"name":"KickassTorrents","id":"347596731988972"}
+There's Something About Mary|movie	{"fans":300467,"is_verified":true,"name":"There's Something About Mary","id":"156063337853685"}
+Billy Madison|movie	{"fans":1861147,"is_verified":true,"name":"Billy Madison","id":"106609569416773"}
+2 Fast 2 Furious|movie	{"fans":28989,"is_verified":false,"name":"2 Fast 2 Furious (soundtrack)","id":"108561235832202"}
+Monsters\, Inc.|movie	{"fans":14636443,"is_verified":true,"name":"Monsters, Inc.","id":"11215611028"}
+Superbad|movie	{"fans":7028517,"is_verified":true,"name":"Superbad","id":"108589339206174"}
+The Nightmare Before Christmas|movie	{"fans":5768208,"is_verified":true,"name":"The Nightmare Before Christmas","id":"173587329354820"}
+The Day After Tomorrow|movie	{"fans":1129692,"is_verified":false,"name":"The Day After Tomorrow","id":"103973582971230"}
+2012|movie	{"fans":19055214,"is_verified":true,"name":"2012","id":"55200621163"}
+Coming to America|movie	{"fans":1543667,"is_verified":true,"name":"Coming to America","id":"229922243691637"}
+Meet the Parents|movie	{"fans":582330,"is_verified":true,"name":"Meet the Parents","id":"156701411050317"}
+Training Day|movie	{"fans":1558280,"is_verified":true,"name":"Training Day","id":"280159375357853"}
+I Now Pronounce You Chuck and Larry|movie	{"fans":191801,"is_verified":false,"name":"I Now Pronounce You Chuck and Larry","id":"109787215714362"}
+A Few Good Men|movie	{"fans":361492,"is_verified":false,"name":"A Few Good Men","id":"102808639755615"}
+Salt|movie	{"fans":143422,"is_verified":false,"name":"Salt Lake City, Utah","id":"106057819434480"}
+Fast Five|movie	{"fans":12331,"is_verified":false,"name":"Fast Five (score)","id":"113510748736453"}
+G.I. Joe: The Rise of Cobra|movie	{"fans":8627,"is_verified":false,"name":"G.I. Joe: The Rise of Cobra (video game)","id":"111934378822088"}
+The Breakfast Club|movie	{"fans":2444826,"is_verified":true,"name":"The Breakfast Club","id":"197433656950877"}
+The Other Guys|movie	{"fans":2366467,"is_verified":true,"name":"The Other Guys","id":"368278541524"}
+Harry Potter and the Goblet of Fire|movie	{"fans":0,"is_verified":false,"name":"In My Comfy Bed Watching Harry Potter and the Goblet of Fire","id":"186522931494366"}
+Green Lantern|movie	{"fans":1332350,"is_verified":true,"name":"Green Lantern","id":"8358503595"}
+Batman|movie	{"fans":12995202,"is_verified":true,"name":"Batman","id":"6939574006"}
+Harry Potter and the Deathly Hallows: Part 1|movie	{"fans":10108,"is_verified":false,"name":"Harry Potter and the Deathly Hallows \u2013 Part 1","id":"118967468193292"}
+Mean Girls|movie	{"fans":4730001,"is_verified":true,"name":"Mean Girls","id":"159366990751922"}
+The Walking Dead|movie	{"fans":33171577,"is_verified":true,"name":"The Walking Dead","id":"110475388978628"}
+Shrek|movie	{"fans":45578589,"is_verified":true,"name":"Shrek","id":"355374000182"}
+Kung Fu Panda|movie	{"fans":6146,"is_verified":false,"name":"Kung Fu Panda 3","id":"537225693012317"}
+Ghost Rider|movie	{"fans":8835455,"is_verified":true,"name":"Ghost Rider","id":"190107757674768"}
+The Goonies|movie	{"fans":3090460,"is_verified":true,"name":"The Goonies","id":"161545050527155"}
+Twister|movie	{"fans":3664,"is_verified":false,"name":"TWISTERZ","id":"440407359372999"}
+Talladega Nights: The Ballad of Ricky Bobby|movie	{"fans":739561,"is_verified":false,"name":"Talladega Nights: The Ballad of Ricky Bobby","id":"112896718725157"}
+Raiders of the Lost Ark|movie	{"fans":340695,"is_verified":false,"name":"Raiders of the Lost Ark","id":"109070849111241"}
+Pulp Fiction|movie	{"fans":7870865,"is_verified":true,"name":"Pulp Fiction","id":"112842988801190"}
+I Am Legend|movie	{"fans":8148337,"is_verified":true,"name":"I Am Legend","id":"163042800417248"}
+Men in Black II|movie	{"fans":3364423,"is_verified":true,"name":"Men In Black II","id":"186476191384558"}
+Gladiator|movie	{"fans":10723778,"is_verified":true,"name":"Gladiator","id":"229197930430239"}
+Live Free or Die Hard|movie	{"fans":5810,"is_verified":false,"name":"Live Free or Die Hard","id":"112137182136481"}
+Friday After Next|movie	{"fans":3292391,"is_verified":false,"name":"Friday After Next","id":"109550132405266"}
+Twilight|movie	{"fans":46926172,"is_verified":true,"name":"The Twilight Saga","id":"8526405673"}
+Mr. Deeds|movie	{"fans":324465,"is_verified":false,"name":"Mr. Deeds","id":"109596449066830"}
+13 Going on 30|movie	{"fans":3204,"is_verified":false,"name":"13 Going on 30 (soundtrack)","id":"112185425460612"}
+Jurassic Park|movie	{"fans":7606291,"is_verified":true,"name":"Jurassic Park","id":"170889472955944"}
+Captain America: The First Avenger|movie	{"fans":92824,"is_verified":false,"name":"Captain America: The Winter Soldier","id":"137102239789905"}
+Easy A|movie	{"fans":408659,"is_verified":true,"name":"Easy Argentina","id":"201606163231224"}
+V for Vendetta|movie	{"fans":3376019,"is_verified":true,"name":"V For Vendetta","id":"191457994228848"}
+The Fast and the Furious: Tokyo Drift|movie	{"fans":3068561,"is_verified":false,"name":"The Fast and the Furious: Tokyo Drift","id":"103119883061561"}
+Tangled|movie	{"fans":17170193,"is_verified":true,"name":"Tangled","id":"343565352984"}
+Grease|movie	{"fans":7318374,"is_verified":true,"name":"Grease","id":"10050726267"}
+Bridesmaids|movie	{"fans":1414967,"is_verified":true,"name":"Bridesmaids","id":"137722132922551"}
+What Happens in Vegas|movie	{"fans":1982759,"is_verified":true,"name":"What Happens In Vegas","id":"36193850318"}
+A Christmas Story|movie	{"fans":1558342,"is_verified":true,"name":"A Christmas Story","id":"165182046898336"}
+Ace Ventura: Pet Detective|movie	{"fans":3112443,"is_verified":true,"name":"Ace Ventura: Pet Detective","id":"164971330224244"}
+The Karate Kid|movie	{"fans":24443225,"is_verified":true,"name":"The Karate Kid","id":"184695207750"}
+The Bourne Supremacy|movie	{"fans":882197,"is_verified":false,"name":"The Bourne Supremacy","id":"105427566156282"}
+The Fifth Element|movie	{"fans":548285,"is_verified":true,"name":"The Fifth Element","id":"137622709636043"}
+Ratatouille|movie	{"fans":8673292,"is_verified":true,"name":"Ratatouille","id":"17377140236"}
+300|movie	{"fans":10971645,"is_verified":true,"name":"300","id":"94289470471"}
+Rio|movie	{"fans":5982444,"is_verified":true,"name":"Rio Ferdinand","id":"219643781416878"}
+Inglourious Basterds|movie	{"fans":2612203,"is_verified":true,"name":"Inglourious Basterds","id":"56727800941"}
+Dirty Dancing|movie	{"fans":16735049,"is_verified":true,"name":"Dirty Dancing","id":"41150568556"}
+Paul Blart: Mall Cop|movie	{"fans":1160245,"is_verified":true,"name":"Paul Blart:  Mall Cop","id":"26461496691"}
+Sixteen Candles|movie	{"fans":1139960,"is_verified":true,"name":"Sixteen Candles","id":"196832403660413"}
+The Lord of the Rings: The Fellowship of the Ring|movie	{"fans":121,"is_verified":false,"name":"The Lord of the Rings: The Fellowship of the Ring (soundtrack)","id":"1427718080777996"}
+Wedding Crashers|movie	{"fans":2531226,"is_verified":true,"name":"Wedding Crashers","id":"225105910930642"}
+Hocus Pocus|movie	{"fans":89943,"is_verified":false,"name":"Hocus Pocus","id":"756949351037738"}
+Spider-Man 3|movie	{"fans":51536,"is_verified":false,"name":"Spider-Man 3","id":"112980192049725"}
+A League of Their Own|movie	{"fans":115,"is_verified":false,"name":"A League of Their Own - A Celebration","id":"463509173802786"}
+Quantum of Solace|movie	{"fans":42961,"is_verified":false,"name":"Quantum of Solace","id":"105541206144985"}
+WALL-E|movie	{"fans":8859039,"is_verified":true,"name":"WALL\u2022E","id":"29349922628"}
+The Polar Express|movie	{"fans":994164,"is_verified":true,"name":"The Polar Express","id":"261301900582411"}
+Starship Troopers|movie	{"fans":216851,"is_verified":true,"name":"Starship Troopers","id":"152356114819632"}
+The Pacifier|movie	{"fans":244997,"is_verified":false,"name":"The Pacifier","id":"103092029730629"}
+National Treasure: Book of Secrets|movie	{"fans":5290,"is_verified":false,"name":"National Treasure: Book of Secrets","id":"108319509192875"}
+Mulan|movie	{"fans":6716803,"is_verified":true,"name":"Mulan","id":"143022919069931"}
+The Godfather|movie	{"fans":9365715,"is_verified":true,"name":"The Godfather","id":"35481394342"}
+Sweet Home Alabama|movie	{"fans":1592,"is_verified":false,"name":"Sweet Home Alabama","id":"322529841185458"}
+The Lord of the Rings: The Return of the King|movie	{"fans":17759,"is_verified":false,"name":"The Lord of the Rings: The Return of the King (video game)","id":"109307642420771"}
+O Brother\, Where Art Thou?|movie	{"fans":1503,"is_verified":false,"name":"O Brother, Where Art Thou? (soundtrack)","id":"109949245697572"}
+Pineapple Express|movie	{"fans":5307302,"is_verified":true,"name":"Pineapple Express","id":"9801357767"}
+The Princess Diaries|movie	{"fans":537418,"is_verified":true,"name":"The Princess Diaries","id":"176201589155683"}
+The League of Extraordinary Gentlemen|movie	{"fans":11868,"is_verified":false,"name":"The League of Extraordinary Gentlemen","id":"109536429072049"}
+Olympus Has Fallen|movie	{"fans":0,"is_verified":false,"name":"In Bed Watchin Olympus Has Fallen","id":"241340262675707"}
+Scary Movie|movie	{"fans":15314861,"is_verified":true,"name":"Scary Movie","id":"233224836695428"}
+Underworld|movie	{"fans":5603099,"is_verified":true,"name":"Underworld","id":"250626018296895"}
+Rush Hour 2|movie	{"fans":1299120,"is_verified":false,"name":"Rush Hour 2","id":"108196412535485"}
+Harry Potter and the Chamber of Secrets|movie	{"fans":15853,"is_verified":false,"name":"Harry Potter and the Chamber of Secrets (soundtrack)","id":"109485332411520"}
+True Lies|movie	{"fans":259793,"is_verified":true,"name":"True Lies","id":"117873298345659"}
+Underworld: Evolution|movie	{"fans":2460229,"is_verified":true,"name":"Underworld: Evolution","id":"139392059485210"}
+Ghostbusters II|movie	{"fans":44864,"is_verified":false,"name":"Ghostbusters II","id":"108267199197886"}
+I\, Robot|movie	{"fans":410732,"is_verified":true,"name":"iRobot","id":"117289618923"}
+Austin Powers in Goldmember|movie	{"fans":142633,"is_verified":true,"name":"Austin Powers In Goldmember","id":"389365514524596"}
+Toy Story 3|movie	{"fans":4769,"is_verified":false,"name":"Toy Story 4","id":"167004143325046"}
+The Ugly Truth|movie	{"fans":1383887,"is_verified":true,"name":"The Ugly Truth","id":"41872475652"}
+Colombiana|movie	{"fans":1143428,"is_verified":true,"name":"Colombiana","id":"116405458442412"}
+Shallow Hal|movie	{"fans":116417,"is_verified":false,"name":"Shallow Hal","id":"112610982086488"}
+Star Wars: Episode III -- Revenge of the Sith|movie	{"fans":10297,"is_verified":false,"name":"Revenge Of The Sith","id":"115273518484995"}
+Braveheart|movie	{"fans":4625163,"is_verified":true,"name":"Braveheart","id":"217008138317240"}
+The Dark Knight Rises|movie	{"fans":6101453,"is_verified":true,"name":"The Dark Knight Rises","id":"225034700870481"}
+A Knight's Tale|movie	{"fans":232947,"is_verified":false,"name":"A Knight's Tale","id":"109534282399866"}
+Harry Potter and the Prisoner of Azkaban|movie	{"fans":15831,"is_verified":false,"name":"The Prisoner of Azkaban","id":"110790588946230"}
+Toy Story 2|movie	{"fans":4769,"is_verified":false,"name":"Toy Story 4","id":"167004143325046"}
+Con Air|movie	{"fans":546774,"is_verified":false,"name":"Con Air","id":"105610132806838"}
+The Bucket List|movie	{"fans":901885,"is_verified":true,"name":"The Bucket List","id":"16156095231"}
+Cast Away|movie	{"fans":1185626,"is_verified":true,"name":"Cast Away","id":"309512609075283"}
+Skyfall|movie	{"fans":17458,"is_verified":false,"name":"Skyfall Bar","id":"128139260715466"}
+Beverly Hills Cop|movie	{"fans":345840,"is_verified":true,"name":"Beverly Hills Cop","id":"21629471849"}
+The Twilight Saga: New Moon|movie	{"fans":288316,"is_verified":false,"name":"The Twilight Saga: New Moon (soundtrack)","id":"104078486294746"}
+The House Bunny|movie	{"fans":841792,"is_verified":true,"name":"The House Bunny","id":"20614431342"}
+The Hangover Part II|movie	{"fans":55440,"is_verified":false,"name":"The Hangover Part III","id":"233255930136285"}
+The Transporter|movie	{"fans":2542772,"is_verified":true,"name":"The Transporter","id":"792619774128590"}
+The Mask|movie	{"fans":1084,"is_verified":false,"name":"The Masked Arab","id":"302586159910667"}
+Ocean's Eleven|movie	{"fans":1244376,"is_verified":true,"name":"Ocean's Eleven (2001)","id":"174141142637496"}
+The Notebook|movie	{"fans":15788579,"is_verified":true,"name":"The Notebook","id":"204558349574109"}
+Gran Torino|movie	{"fans":1468988,"is_verified":true,"name":"Gran Torino","id":"188019764575956"}
+Toy Story|movie	{"fans":32759303,"is_verified":true,"name":"Toy Story","id":"10498014129"}
+National Security|movie	{"fans":213614,"is_verified":false,"name":"National Cyber Security Alliance","id":"38764369217"}
+Mr. & Mrs. Smith|movie	{"fans":3578978,"is_verified":true,"name":"Mr.& Mrs. Smith","id":"349912261719434"}
+Sherlock Holmes: A Game of Shadows|movie	{"fans":112,"is_verified":false,"name":"Sherlock Holmes: A Game of Shadows (soundtrack)","id":"332419196848673"}
+The Rock|movie	{"fans":52460307,"is_verified":true,"name":"Dwayne The Rock Johnson","id":"406433779383"}
+Cars|movie	{"fans":1849813,"is_verified":true,"name":"Carson Lueders","id":"248796178466162"}
+Cloudy With a Chance of Meatballs|movie	{"fans":5063323,"is_verified":true,"name":"Cloudy With A Chance Of Meatballs","id":"117709365844"}
+Batman Returns|movie	{"fans":1162626,"is_verified":true,"name":"Batman Returns","id":"377563602306976"}
+Hitch|movie	{"fans":28508,"is_verified":false,"name":"Hitchswitch","id":"142246425824918"}
+Pirates of the Caribbean: On Stranger Tides|movie	{"fans":1587424,"is_verified":false,"name":"Pirates of the Caribbean: On Stranger Tides","id":"135585689798863"}
+Friends With Benefits|movie	{"fans":3037126,"is_verified":true,"name":"Friends with Benefits","id":"166569436686716"}
+Back to the Future|movie	{"fans":2836685,"is_verified":false,"name":"Back To the Future","id":"23919966078"}
+Super Troopers|movie	{"fans":1332827,"is_verified":true,"name":"Super Troopers","id":"266584316768442"}
+Groundhog Day|movie	{"fans":329063,"is_verified":false,"name":"Groundhog Day Movie","id":"640379259416486"}
+The Princess and the Frog|movie	{"fans":4088543,"is_verified":true,"name":"The Princess and the Frog","id":"99911703708"}
+Clash of the Titans|movie	{"fans":2741480,"is_verified":true,"name":"Clash of the Titans","id":"107322412447"}
+The Twilight Saga: Eclipse|movie	{"fans":544826,"is_verified":false,"name":"The Twilight Saga: Eclipse","id":"131001083606881"}
+Signs|movie	{"fans":47488,"is_verified":false,"name":"Signs","id":"111936722156738"}
+Fantastic Four|movie	{"fans":1603379,"is_verified":true,"name":"Fantastic Four","id":"457917570932245"}
+XXX|movie	{"fans":1589850,"is_verified":false,"name":"XX\/XY","id":"415745705171751"}
+Trading Places|movie	{"fans":112142,"is_verified":false,"name":"Trading Places","id":"899936116734822"}
+Catch Me if You Can|movie	{"fans":1153593,"is_verified":true,"name":"Catch Me If You Can","id":"189231947796149"}
+Dumb & Dumber|movie	{"fans":4070452,"is_verified":true,"name":"Dumb and Dumber","id":"453062304712571"}
+I Love You\, Man|movie	{"fans":558452,"is_verified":false,"name":"I Love You, Man","id":"106299705436"}
+Night at the Museum: Battle of the Smithsonian|movie	{"fans":443,"is_verified":false,"name":"Night at the Museum: Battle of the Smithsonian (video game)","id":"109349315757227"}
+The Book of Eli|movie	{"fans":1419770,"is_verified":true,"name":"The Book of Eli","id":"119762558360"}
+Finding Nemo|movie	{"fans":19410609,"is_verified":true,"name":"Finding Nemo","id":"15294801701"}
+How to Train Your Dragon|movie	{"fans":143198,"is_verified":false,"name":"How to Train Your Dragon 2","id":"439873769434796"}
+The Rundown|movie	{"fans":6595,"is_verified":false,"name":"The Mobile RunDown","id":"516321118395434"}
+Little Fockers|movie	{"fans":1656120,"is_verified":true,"name":"Little Fockers","id":"105475199487409"}
+Alice in Wonderland|movie	{"fans":535771,"is_verified":true,"name":"Alice in Wonderland by Lewis Carroll","id":"305048979646606"}
+Demolition Man|movie	{"fans":134784,"is_verified":true,"name":"Demolition Man","id":"464095140275072"}
+Underworld: Rise of the Lycans|movie	{"fans":1982580,"is_verified":true,"name":"Underworld Rise of the Lycans","id":"34624193579"}
+Spider-Man 2|movie	{"fans":193327,"is_verified":false,"name":"Spider-Man 2","id":"108512212503098"}
+Battle: Los Angeles|movie	{"fans":873262,"is_verified":true,"name":"Battle: Los Angeles","id":"140501999314987"}
+Ace Ventura: When Nature Calls|movie	{"fans":156452,"is_verified":false,"name":"Ace Ventura: When Nature Calls","id":"109443989074732"}
+Top Gun|movie	{"fans":2099741,"is_verified":true,"name":"Top Gun","id":"204430826236406"}
+Joe Dirt|movie	{"fans":537563,"is_verified":true,"name":"Joe Dirt","id":"718055938281314"}
+Yes Man|movie	{"fans":1627804,"is_verified":true,"name":"Yes Man","id":"31264174629"}
+The Break-Up|movie	{"fans":306,"is_verified":false,"name":"The Breakup Playlist","id":"503196329832326"}
+Clueless|movie	{"fans":655029,"is_verified":true,"name":"Clueless","id":"148388665233393"}
+Maid in Manhattan|movie	{"fans":265700,"is_verified":false,"name":"Maid in Manhattan Movie","id":"1476847139245353"}
+District 9|movie	{"fans":1250588,"is_verified":true,"name":"District 9","id":"76221618220"}
+A Walk to Remember|movie	{"fans":13032618,"is_verified":true,"name":"A Walk To Remember","id":"152542051476998"}
+Eagle Eye|movie	{"fans":638742,"is_verified":false,"name":"Eagle Eye","id":"16243649132"}
+21 Jump Street|movie	{"fans":59336,"is_verified":false,"name":"21 Jump Street","id":"112248292124692"}
+Gremlins|movie	{"fans":847698,"is_verified":true,"name":"Gremlins","id":"303203683048323"}
+Spaceballs|movie	{"fans":874995,"is_verified":true,"name":"Spaceballs","id":"193269404133260"}
+Star Wars: Episode II -- Attack of the Clones|movie	{"fans":3668,"is_verified":false,"name":"Star Wars Episode II: Attack of the Clones (novel)","id":"111980828817887"}
+Inception|movie	{"fans":11509466,"is_verified":true,"name":"Inception","id":"91290503700"}
+What a Girl Wants|movie	{"fans":147047,"is_verified":false,"name":"What a Girl Wants","id":"104033006299674"}
+American Gangster|movie	{"fans":1869686,"is_verified":true,"name":"American Gangster","id":"104525012958754"}
+Pitch Black|movie	{"fans":5461,"is_verified":false,"name":"Pitch Black","id":"14580875441"}
+Wanted|movie	{"fans":3818527,"is_verified":true,"name":"Wanted","id":"10371116567"}
+The Expendables 2|movie	{"fans":4484849,"is_verified":true,"name":"The Expendables 2","id":"126064364200766"}
+Half Baked|movie	{"fans":38233,"is_verified":false,"name":"HalfBakedHarvest","id":"441083062622061"}
+Anchorman: The Legend of Ron Burgundy|movie	{"fans":9265,"is_verified":false,"name":"Ron Burgundy","id":"107795529254097"}
+Dr. Seuss' the Lorax|movie	{"fans":2470537,"is_verified":true,"name":"Dr. Seuss' The Lorax","id":"101870999859894"}
+The Karate Kid|movie	{"fans":24443223,"is_verified":true,"name":"The Karate Kid","id":"184695207750"}
+S.W.A.T.|movie	{"fans":354755,"is_verified":true,"name":"S.W.A.T.","id":"175775275794317"}
+The Bounty Hunter|movie	{"fans":1044357,"is_verified":true,"name":"The Bounty Hunter","id":"218607073865"}
+Who Framed Roger Rabbit|movie	{"fans":170183,"is_verified":true,"name":"Who Framed Roger Rabbit","id":"404066089674017"}
+Due Date|movie	{"fans":1589617,"is_verified":true,"name":"Due Date","id":"140786973315"}
+She's Out of My League|movie	{"fans":328764,"is_verified":false,"name":"She's Out Of My League","id":"96027972011"}
+Boyz N the Hood|movie	{"fans":2957991,"is_verified":true,"name":"Boyz N the Hood","id":"102512999841433"}
+Rango|movie	{"fans":4214261,"is_verified":true,"name":"Rango","id":"118293904874562"}
+Hercules|movie	{"fans":1004228,"is_verified":true,"name":"Hercules Movie","id":"526508574066315"}
+Shrek Forever After|movie	{"fans":3963057,"is_verified":true,"name":"Shrek Forever After","id":"163954208828"}
+Burlesque|movie	{"fans":9315,"is_verified":false,"name":"Burlesquewa","id":"338561346177737"}
+He's Just Not That Into You|movie	{"fans":829819,"is_verified":true,"name":"He's Just Not That Into You","id":"43953689757"}
+Percy Jackson & the Olympians: The Lightning Thief|movie	{"fans":781220,"is_verified":false,"name":"Percy Jackson & the Olympians: The Lightning Thief","id":"108008295889062"}
+End of Watch|movie	{"fans":329280,"is_verified":false,"name":"End of Watch","id":"211580232278303"}
+Jerry Maguire|movie	{"fans":239721,"is_verified":false,"name":"Jerry Maguire","id":"109551435737449"}
+27 Dresses|movie	{"fans":1142360,"is_verified":false,"name":"27 Dresses","id":"108153525872394"}
+Interview With the Vampire|movie	{"fans":1503212,"is_verified":true,"name":"Interview with the Vampire","id":"196535970420918"}
+Madea's Family Reunion|movie	{"fans":1530016,"is_verified":false,"name":"Madea's Family Reunion","id":"108081782549746"}
+Ocean's Thirteen|movie	{"fans":166,"is_verified":false,"name":"Ocean Thirteen","id":"368318576554447"}
+Sex and the City|movie	{"fans":13581948,"is_verified":true,"name":"Sex and the City","id":"329320336203"}
+Resident Evil|movie	{"fans":5969379,"is_verified":true,"name":"Resident Evil","id":"185275861493309"}
+Ice Age: Dawn of the Dinosaurs|movie	{"fans":141,"is_verified":false,"name":"Ice Age: Dawn of the Dinosaurs (video game)","id":"636752583019782"}
+Charlie and the Chocolate Factory|movie	{"fans":5020409,"is_verified":true,"name":"Charlie and the Chocolate Factory","id":"339441176067945"}
+The Patriot|movie	{"fans":324144,"is_verified":true,"name":"The Patriot","id":"190456500973802"}
+17 Again|movie	{"fans":5773438,"is_verified":true,"name":"17 Again","id":"79203305680"}
+Willy Wonka and the Chocolate Factory|movie	{"fans":2057527,"is_verified":true,"name":"Willy Wonka & the Chocolate Factory","id":"164458766286"}
+The Godfather\, Part II|movie	{"fans":2421,"is_verified":false,"name":"The Godfather Part III (soundtrack)","id":"106350552728810"}
+The Simpsons Movie|movie	{"fans":2527533,"is_verified":false,"name":"The Simpsons Movie","id":"106076356089324"}
+Get Him to the Greek|movie	{"fans":134068,"is_verified":false,"name":"Get Him to the Greek","id":"118309321539537"}
+Jumanji|movie	{"fans":1783917,"is_verified":true,"name":"Jumanji","id":"181803078521906"}
+Godzilla|movie	{"fans":2715442,"is_verified":true,"name":"Godzilla","id":"443771755653234"}
+Meet the Fockers|movie	{"fans":706675,"is_verified":true,"name":"Meet the Fockers","id":"173822445997453"}
+Blood Diamond|movie	{"fans":1284496,"is_verified":true,"name":"Blood Diamond","id":"175668832485810"}
+The Expendables|movie	{"fans":11254216,"is_verified":true,"name":"The Expendables","id":"10150112274840444"}
+Evan Almighty|movie	{"fans":92473,"is_verified":true,"name":"Evan Almighty","id":"250808328360453"}
+National Lampoon's Vacation|movie	{"fans":0,"is_verified":false,"name":"Home Watching \" National  Lampoons Vacation\"","id":"178702478810625"}
+Predator|movie	{"fans":1976550,"is_verified":true,"name":"Predator","id":"155151048009995"}
+Robin Hood: Men in Tights|movie	{"fans":208334,"is_verified":false,"name":"Robin Hood: Men in Tights","id":"1535854369965798"}
+Rush Hour 3|movie	{"fans":1030201,"is_verified":false,"name":"Rush Hour 3 DVD","id":"9536367670"}
+Bad Teacher|movie	{"fans":1228258,"is_verified":true,"name":"Bad Teacher","id":"183104071725397"}
+No Strings Attached|movie	{"fans":980334,"is_verified":true,"name":"No Strings Attached","id":"173433689340252"}
+28 Days Later|movie	{"fans":934054,"is_verified":true,"name":"28 Days Later","id":"260309744010291"}
+Tommy Boy|movie	{"fans":2570,"is_verified":false,"name":"Tommy Boys","id":"540329095978018"}
+Die Hard With a Vengeance|movie	{"fans":30248,"is_verified":false,"name":"Die Hard with a Vengeance","id":"112308292114071"}
+Resident Evil: Afterlife|movie	{"fans":1040264,"is_verified":true,"name":"Resident Evil Afterlife","id":"119923518045787"}
+Star Wars: Episode I -- The Phantom Menace|movie	{"fans":241,"is_verified":false,"name":"Star Wars Episode I: The Phantom Menace (video game)","id":"104023729633281"}
+The Santa Clause 2|movie	{"fans":42466,"is_verified":false,"name":"Santa Clause 2","id":"112143835478492"}
+Kill Bill: Vol. 1|movie	{"fans":2887,"is_verified":false,"name":"Kill Bill Vol. 1 Original Soundtrack","id":"109310722428798"}
+Fantastic Four: Rise of the Silver Surfer|movie	{"fans":745877,"is_verified":false,"name":"Fantastic Four: Rise of the Silver Surfer","id":"112730578738139"}
+Harry Potter and the Deathly Hallows: Part 2|movie	{"fans":41142,"is_verified":false,"name":"Harry Potter and the Deathly Hallows - Part 2","id":"243390579019809"}
+Rise of the Planet of the Apes|movie	{"fans":67641,"is_verified":false,"name":"Rise of the Planet of the Apes - India","id":"206060782747407"}
+Terminator 2: Judgment Day|movie	{"fans":54,"is_verified":false,"name":"Terminator 2: Judgment Day (pinball)","id":"657057964307143"}
+American Pie|movie	{"fans":8234664,"is_verified":true,"name":"American Pie","id":"12604171859"}
+Big Daddy|movie	{"fans":607507,"is_verified":true,"name":"Big Daddy Weave","id":"18323151349"}
+Get Smart|movie	{"fans":564519,"is_verified":true,"name":"Get Smart Film","id":"168954859976463"}
+Blade II|movie	{"fans":86,"is_verified":false,"name":"Blade II (video game)","id":"209497442550927"}
+Blazing Saddles|movie	{"fans":863396,"is_verified":true,"name":"Blazing Saddles","id":"132934340166697"}
+Full Metal Jacket|movie	{"fans":2255802,"is_verified":true,"name":"Full Metal Jacket","id":"265575393524310"}
+Malibu's Most Wanted|movie	{"fans":92302,"is_verified":false,"name":"Malibu's Most Wanted","id":"113532391990637"}
+The Santa Clause 3: The Escape Clause|movie	{"fans":35595,"is_verified":false,"name":"Santa Clause 3","id":"111877555497701"}
+Zoolander|movie	{"fans":1012050,"is_verified":true,"name":"Zoolander 2","id":"220473314638942"}
+Hot Tub Time Machine|movie	{"fans":950743,"is_verified":true,"name":"Hot Tub Time Machine","id":"132833750752"}
+Madagascar: Escape 2 Africa|movie	{"fans":193,"is_verified":false,"name":"Madagascar: Escape 2 Africa (video game)","id":"343696245697026"}
+Jackass: The Movie|movie	{"fans":1700549,"is_verified":true,"name":"Jackass","id":"152860521412759"}
+Dinner for Schmucks|movie	{"fans":15136,"is_verified":true,"name":"Dinner For Schmucks","id":"130747010294468"}
+Knight and Day|movie	{"fans":248651,"is_verified":false,"name":"Knight and Day","id":"200833578018"}
+Megamind|movie	{"fans":10545144,"is_verified":true,"name":"Megamind","id":"114097065267211"}
+Hot Fuzz|movie	{"fans":1400255,"is_verified":true,"name":"Hot Fuzz","id":"290756150982190"}
+The Chronicles of Narnia: Prince Caspian|movie	{"fans":14425,"is_verified":false,"name":"The Chronicles of Narnia: Prince Caspian (soundtrack)","id":"108386672519196"}
+The Perfect Storm|movie	{"fans":145956,"is_verified":false,"name":"The Perfect Storm","id":"109786475707834"}
+Angels & Demons|movie	{"fans":49661,"is_verified":false,"name":"Angels & Demons (film)","id":"109609712398689"}
+Sister Act|movie	{"fans":342277,"is_verified":false,"name":"Sister Act","id":"108661329158615"}
+The Transporter 2|movie	{"fans":47391,"is_verified":false,"name":"The Transporter 2","id":"108626479168747"}
+The Devil Wears Prada|movie	{"fans":2396254,"is_verified":true,"name":"The Devil Wears Prada","id":"194921263923581"}
+Night at the Museum|movie	{"fans":1959256,"is_verified":true,"name":"Night At The Museum","id":"160715394083688"}
+Office Space|movie	{"fans":939887,"is_verified":true,"name":"Office Space","id":"217942358272034"}
+Ted|movie	{"fans":8371718,"is_verified":true,"name":"TED","id":"29092950651"}
+The Game Plan|movie	{"fans":267,"is_verified":false,"name":"Game Planet","id":"1575572986007934"}
+The Parent Trap|movie	{"fans":358893,"is_verified":false,"name":"The Parent Trap","id":"103994339637733"}
+Wild Hogs|movie	{"fans":255089,"is_verified":false,"name":"Wild Hogs","id":"108773079146995"}
+Enchanted|movie	{"fans":299170,"is_verified":false,"name":"Enchanted Kingdom","id":"152635924764682"}
+Ice Age: The Meltdown|movie	{"fans":44149,"is_verified":false,"name":"Ice Age: The Meltdown","id":"107490972614311"}
+The Nutty Professor|movie	{"fans":329435,"is_verified":true,"name":"The Nutty Professor","id":"217114348366613"}
+Black Hawk Down|movie	{"fans":2309452,"is_verified":true,"name":"Black Hawk Down","id":"106287739449458"}
+Death Race|movie	{"fans":2972727,"is_verified":true,"name":"Death Race","id":"14051860899"}
+The Back-up Plan|movie	{"fans":0,"is_verified":false,"name":"@Bronson Watchingg The Backup Plann~","id":"140322442682106"}
+The Amazing Spider-Man|movie	{"fans":525782,"is_verified":false,"name":"The Amazing Spider-Man Game","id":"154937027939333"}
+The Wedding Planner|movie	{"fans":9103,"is_verified":false,"name":"Wedding planner","id":"108004922554685"}
+A Time to Kill|movie	{"fans":187153,"is_verified":true,"name":"A Time to Kill","id":"709490675731306"}
+Mission: Impossible III|movie	{"fans":201365,"is_verified":false,"name":"Mission: Impossible III","id":"108020865885116"}
+John Tucker Must Die|movie	{"fans":335936,"is_verified":false,"name":"John Tucker Must Die","id":"104073546294863"}
+Role Models|movie	{"fans":752812,"is_verified":true,"name":"Role Models","id":"19705119619"}
+Back to the Future Part III|movie	{"fans":529,"is_verified":false,"name":"Back to the Future Part III","id":"121632307911747"}
+Big Momma's House|movie	{"fans":44233,"is_verified":false,"name":"Big Momma's House 3","id":"155910924430120"}
+Superman Returns|movie	{"fans":1223236,"is_verified":true,"name":"Superman Returns","id":"170895649678414"}
+Zack and Miri Make a Porno|movie	{"fans":14,"is_verified":false,"name":"Zack and Miri make a porno","id":"132977533426933"}
+Unstoppable|movie	{"fans":114110,"is_verified":false,"name":"Yuva Unstoppable","id":"75499717698"}
+Tyler Perry's Madea's Witness Protection|movie	{"fans":1,"is_verified":false,"name":"Tyler Perry's Madea's Witness Protection","id":"219649674824803"}
+Saving Private Ryan|movie	{"fans":2889143,"is_verified":true,"name":"Saving Private Ryan","id":"131804703563360"}
+Fight Club|movie	{"fans":10152776,"is_verified":true,"name":"Fight Club","id":"39644305296"}
+Kill Bill: Vol. 2|movie	{"fans":918,"is_verified":false,"name":"Kill Bill Vol. 2 Original Soundtrack","id":"104125839624269"}
+The Guardian|movie	{"fans":3096651,"is_verified":true,"name":"Guardians of the Galaxy","id":"263903657057997"}
+Public Enemies|movie	{"fans":744509,"is_verified":true,"name":"Public Enemies","id":"45204739788"}
+Employee of the Month|movie	{"fans":91281,"is_verified":false,"name":"Employee of the Month","id":"104112486292732"}
+Jumper|movie	{"fans":767421,"is_verified":false,"name":"Jumper","id":"104039529631916"}
+Terminator Salvation|movie	{"fans":1390476,"is_verified":true,"name":"Terminator Salvation","id":"77398597061"}
+Bedtime Stories|movie	{"fans":136816,"is_verified":false,"name":"Bedtime Stories","id":"109552422403551"}
+Land of the Lost|movie	{"fans":15385,"is_verified":false,"name":"Land of the Lost","id":"106013532762627"}
+Men in Black 3|movie	{"fans":367,"is_verified":false,"name":"Men in Black 3D","id":"127763680624385"}
+Die Another Day|movie	{"fans":141345,"is_verified":false,"name":"Die Another Day","id":"112036465480431"}
+Old School|movie	{"fans":47724,"is_verified":false,"name":"Old School Runescape","id":"155350461301460"}
+Terminator 3: Rise of the Machines|movie	{"fans":425212,"is_verified":true,"name":"Terminator 3: Rise of the Machines","id":"458993734171141"}
+Pretty in Pink|movie	{"fans":898249,"is_verified":true,"name":"Pretty in Pink","id":"165380540193178"}
+Gangs of New York|movie	{"fans":813951,"is_verified":true,"name":"Gangs of New York","id":"195176197193448"}
+The Town|movie	{"fans":710790,"is_verified":true,"name":"The Town","id":"92320479952"}
+Lilo & Stitch|movie	{"fans":79968,"is_verified":false,"name":"Lilo & Stitch: The Series","id":"112941245382946"}
+Valentine's Day|movie	{"fans":4063324,"is_verified":true,"name":"Valentine's Day","id":"135476183646"}
+Anger Management|movie	{"fans":378829,"is_verified":true,"name":"Anger Management","id":"322223467813913"}
+The Switch|movie	{"fans":300017,"is_verified":true,"name":"The Switch","id":"125936240763393"}
+Freaky Friday|movie	{"fans":253683,"is_verified":false,"name":"Freaky Friday","id":"108377669186218"}
+The Help|movie	{"fans":432,"is_verified":false,"name":"The Help Center","id":"217312725058364"}
+Hellboy|movie	{"fans":1148837,"is_verified":true,"name":"Hellboy","id":"775448535839645"}
+You've Got Mail|movie	{"fans":671738,"is_verified":true,"name":"You've Got Mail","id":"407617302597394"}
+King Kong|movie	{"fans":3714489,"is_verified":true,"name":"King Kong","id":"317391334952902"}
+The Wizard of Oz|movie	{"fans":2970059,"is_verified":true,"name":"The Wizard of Oz","id":"224027890572"}
+Blades of Glory|movie	{"fans":427617,"is_verified":true,"name":"Blades of Glory","id":"186766681373954"}
+Flight|movie	{"fans":246564,"is_verified":true,"name":"Flight Facilities","id":"281240446656"}
+Overboard|movie	{"fans":3460,"is_verified":false,"name":"Overboard","id":"7408498228"}
+Diary of a Mad Black Woman|movie	{"fans":223566,"is_verified":false,"name":"Diary of a Mad Black Woman","id":"107806149242710"}
+Sin City|movie	{"fans":1080421,"is_verified":true,"name":"Sin City","id":"131453246935509"}
+Pitch Perfect|movie	{"fans":5751850,"is_verified":true,"name":"Pitch Perfect","id":"220023461397598"}
+Back to the Future Part II|movie	{"fans":388445,"is_verified":false,"name":"Back to the Future Part II","id":"461319217409156"}
+Vegas Vacation|movie	{"fans":33018,"is_verified":false,"name":"Vegas Vacation","id":"108201522533801"}
+Bride Wars|movie	{"fans":1831485,"is_verified":true,"name":"Bride Wars","id":"35312278675"}
+A Bug's Life|movie	{"fans":2075452,"is_verified":true,"name":"A Bug's Life","id":"125502530827816"}
+Jurassic Park III|movie	{"fans":120,"is_verified":false,"name":"Jurassic Park III: Park Builder","id":"112826968730704"}
+Date Night|movie	{"fans":566,"is_verified":false,"name":"Date Nights","id":"869022816517523"}
+Hairspray|movie	{"fans":2462115,"is_verified":true,"name":"Hairspray","id":"6029108787"}
+Rush Hour|movie	{"fans":5838357,"is_verified":true,"name":"Rush Hour","id":"200567473298408"}
+Are We There Yet?|movie	{"fans":94,"is_verified":false,"name":"ARE WE THERE YET","id":"1065953976749641"}
+Step Up|movie	{"fans":19810341,"is_verified":true,"name":"Step Up Movie","id":"93563619387"}
+The Last Samurai|movie	{"fans":1870456,"is_verified":true,"name":"The Last Samurai","id":"175613445822691"}
+Resident Evil: Extinction|movie	{"fans":4107,"is_verified":false,"name":"Resident Evil Extinction","id":"109960715693331"}
+The Hurt Locker|movie	{"fans":768240,"is_verified":true,"name":"The Hurt Locker","id":"97028886635"}
+Serenity|movie	{"fans":52012,"is_verified":true,"name":"Serenity","id":"170355109669537"}
+Reign of Fire|movie	{"fans":44348,"is_verified":false,"name":"Reign of Fire","id":"103830799655942"}
+Moneyball|movie	{"fans":396692,"is_verified":true,"name":"MoneyBall","id":"181894861866102"}
+Mamma Mia!|movie	{"fans":2508889,"is_verified":true,"name":"Mamma Mia!","id":"25926347664"}
+Stargate|movie	{"fans":5541,"is_verified":false,"name":"Stargate Studios","id":"285137218043"}
+Enough|movie	{"fans":17304,"is_verified":false,"name":"Enough Is Enough America","id":"492148747625687"}
+Tron: Legacy|movie	{"fans":6783,"is_verified":false,"name":"Tron: Legacy","id":"187404421288981"}
+Shaun of the Dead|movie	{"fans":1674339,"is_verified":true,"name":"Shaun of the Dead","id":"172068972837173"}
+Ocean's Twelve|movie	{"fans":52467,"is_verified":false,"name":"Ocean's Twelve","id":"105930896105175"}
+Monster-in-Law|movie	{"fans":25556,"is_verified":false,"name":"Monster In-Laws on A&E","id":"286248748131699"}
+The Waterboy|movie	{"fans":51658,"is_verified":false,"name":"The Waterboys","id":"104142622987359"}
+Love & Basketball|movie	{"fans":6586363,"is_verified":true,"name":"Love & Basketball","id":"416823578359567"}
+The Dukes of Hazzard|movie	{"fans":865092,"is_verified":true,"name":"The Dukes of Hazzard","id":"226817600775184"}
+Beetlejuice|movie	{"fans":2989205,"is_verified":true,"name":"Beetlejuice","id":"349530678432432"}
+Sleepless in Seattle|movie	{"fans":437085,"is_verified":true,"name":"Sleepless in Seattle","id":"143355589168568"}
+Van Helsing|movie	{"fans":4466112,"is_verified":true,"name":"Van Helsing","id":"128006210604362"}
+The Devil's Advocate|movie	{"fans":411763,"is_verified":true,"name":"The Devil's Advocate","id":"306289796105371"}
+The Color Purple|movie	{"fans":1490023,"is_verified":true,"name":"The Color Purple","id":"239841446111914"}
+The Addams Family|movie	{"fans":595928,"is_verified":true,"name":"The Addams Family","id":"157541204379042"}
+The Truman Show|movie	{"fans":577431,"is_verified":true,"name":"The Truman Show","id":"174822862576234"}
+Hook|movie	{"fans":524168,"is_verified":false,"name":"Hookah","id":"113972368616516"}
+GoldenEye|movie	{"fans":77357,"is_verified":false,"name":"GoldenEye","id":"108156585878505"}
+Mission: Impossible -- Ghost Protocol|movie	{"fans":158135,"is_verified":false,"name":"Mission Impossible 4","id":"149818398394762"}
+Monsters vs. Aliens|movie	{"fans":4555885,"is_verified":true,"name":"Monsters vs. Aliens","id":"34920037265"}
+Fred Claus|movie	{"fans":29072,"is_verified":true,"name":"Fred Claus","id":"36872536392"}
+Dredd|movie	{"fans":484857,"is_verified":true,"name":"Dredd","id":"419941648029689"}
+Marley & Me|movie	{"fans":2266096,"is_verified":true,"name":"Marley & Me","id":"248868931791018"}
+Catwoman|movie	{"fans":161707,"is_verified":false,"name":"Catwoman","id":"107623375927221"}
+Spider-Man|movie	{"fans":19261826,"is_verified":true,"name":"Spider-Man","id":"101198429956076"}
+Shrek 2|movie	{"fans":2641388,"is_verified":false,"name":"Shrek 2","id":"113771411967031"}
+The Terminator|movie	{"fans":3765561,"is_verified":true,"name":"The Terminator","id":"181221288646788"}
+The School of Rock|movie	{"fans":9486,"is_verified":true,"name":"School of Rock the Musical","id":"413006095513069"}
+The Holiday|movie	{"fans":1531740,"is_verified":true,"name":"HolidayIQ","id":"114916098537132"}
+Drumline|movie	{"fans":588886,"is_verified":false,"name":"Drumline","id":"103769246328405"}
+Harold & Kumar Go to White Castle|movie	{"fans":1850,"is_verified":false,"name":"Harold and Kumar Go to the White Castle","id":"114955111850083"}
+ATL|movie	{"fans":724161,"is_verified":true,"name":"Atl\u00e9tico de Kolkata","id":"1475188052710235"}
+Waiting to Exhale|movie	{"fans":435346,"is_verified":true,"name":"Waiting to Exhale","id":"396484510442257"}
+The Curious Case of Benjamin Button|movie	{"fans":1590084,"is_verified":true,"name":"The Curious Case of Benjamin Button","id":"379299188798866"}
+Four Christmases|movie	{"fans":32990,"is_verified":true,"name":"Four Christmases","id":"433308433389474"}
+Tropic Thunder|movie	{"fans":885028,"is_verified":true,"name":"Tropic Thunder","id":"8883765274"}
+The Chronicles of Narnia: The Lion\, the Witch and the Wardrobe|movie	{"fans":591,"is_verified":false,"name":"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (video game)","id":"106156199416260"}
+Baby Mama|movie	{"fans":12450,"is_verified":false,"name":"Mama.Baby.Love","id":"204397429656"}
+U.S. Marshals|movie	{"fans":66344,"is_verified":true,"name":"U.S. Marshals","id":"367241993308398"}
+The Bodyguard|movie	{"fans":566896,"is_verified":true,"name":"The Bodyguard","id":"196609883774227"}
+Wild Wild West|movie	{"fans":55625,"is_verified":false,"name":"Wild Wild West","id":"104132099624692"}
+Shrek the Third|movie	{"fans":829,"is_verified":false,"name":"Shrek the Third (video game)","id":"108388029189763"}
+Bolt|movie	{"fans":16840792,"is_verified":true,"name":"Usain Bolt","id":"20242388857"}
+The Social Network|movie	{"fans":1491279,"is_verified":true,"name":"The Social Network Movie","id":"160640653979986"}
+Along Came Polly|movie	{"fans":35329,"is_verified":true,"name":"Along Came Polly","id":"219162838204586"}
+Grandma's Boy|movie	{"fans":1358537,"is_verified":true,"name":"Grandma's Boy","id":"384965561535481"}
+The Taking of Pelham 123|movie	{"fans":70285,"is_verified":false,"name":"The Taking of Pelham 123","id":"112355468778242"}
+Death at a Funeral|movie	{"fans":22416,"is_verified":false,"name":"Death at a Funeral","id":"113165192030440"}
+Miss Congeniality 2: Armed and Fabulous|movie	{"fans":5674,"is_verified":false,"name":"Miss Congeniality 2: Armed and Fabulous","id":"105571932808831"}
+Sister Act 2: Back in the Habit|movie	{"fans":8181,"is_verified":false,"name":"Sister Act 2: Back in the Habit","id":"115533498456693"}
+Kung Fu Panda 2|movie	{"fans":285380,"is_verified":false,"name":"Kung Fu Panda 2: The Kaboom of Doom","id":"109601729065518"}
+Something Borrowed|movie	{"fans":310899,"is_verified":true,"name":"Something Borrowed","id":"107746602603116"}
+Stripes|movie	{"fans":176191,"is_verified":false,"name":"Stripes","id":"112770133161"}
+Major League|movie	{"fans":12320,"is_verified":false,"name":"Major League Hacking","id":"591858720864810"}
+Without a Paddle|movie	{"fans":154869,"is_verified":false,"name":"Without a Paddle","id":"112982835382174"}
+Beauty Shop|movie	{"fans":156264,"is_verified":false,"name":"Beauty.Fashion.Shopping.","id":"131743396898830"}
+Predators|movie	{"fans":86600,"is_verified":false,"name":"Predators","id":"107478602615456"}
+Deep Blue Sea|movie	{"fans":268296,"is_verified":true,"name":"Deep Blue Sea","id":"348627421853983"}
+Scary Movie 2|movie	{"fans":849,"is_verified":false,"name":"Scary Movie VI","id":"132999036887777"}
+The SpongeBob SquarePants Movie|movie	{"fans":144059,"is_verified":false,"name":"SpongeBob Square Pants","id":"110891065602202"}
+Napoleon Dynamite|movie	{"fans":3205718,"is_verified":true,"name":"Napoleon Dynamite","id":"320488617976339"}
+Disney's A Christmas Carol|movie	{"fans":75242,"is_verified":true,"name":"Disney's A Christmas Carol","id":"171006319154"}
+Last Holiday|movie	{"fans":95145,"is_verified":false,"name":"Last Holiday","id":"409915745698300"}
+Why Did I Get Married?|movie	{"fans":1707250,"is_verified":false,"name":"Why Did I Get Married?","id":"108310965857796"}
+Steel Magnolias|movie	{"fans":812,"is_verified":false,"name":"The Steel Magnolias","id":"105513384746"}
+Casino|movie	{"fans":2595719,"is_verified":true,"name":"CasinoStar","id":"321911661253144"}
+Something's Gotta Give|movie	{"fans":178698,"is_verified":false,"name":"Something's Gotta Give","id":"108474662509882"}
+Being Mary Jane|movie	{"fans":1448154,"is_verified":true,"name":"Being Mary Jane","id":"387383781281557"}
+She's All That|movie	{"fans":145736,"is_verified":true,"name":"She's All That","id":"296021350424256"}
+Hall Pass|movie	{"fans":452,"is_verified":false,"name":"Hall Pass Band Seattle","id":"257845511228"}
+Addams Family Values|movie	{"fans":0,"is_verified":false,"name":"Watching Addams Family Values","id":"265142006906988"}
+Mission: Impossible|movie	{"fans":3376776,"is_verified":true,"name":"Mission: Impossible","id":"172924872766408"}
+The Twilight Saga: Breaking Dawn Part 1|movie	{"fans":59422,"is_verified":false,"name":"The Twilight Saga: Breaking Dawn \u2013 Part 1","id":"257451540970149"}
+Troy|movie	{"fans":5958187,"is_verified":true,"name":"Troy","id":"114198018660591"}
+Three Amigos!|movie	{"fans":38076,"is_verified":false,"name":"Three Amigos","id":"112321488779869"}
+Point Break|movie	{"fans":276081,"is_verified":true,"name":"Point Break Movie","id":"786014251422202"}
+Freedom Writers|movie	{"fans":447057,"is_verified":false,"name":"Freedom Writers","id":"104007322969867"}
+The Green Hornet|movie	{"fans":9049,"is_verified":false,"name":"The Green Hornet (TV series)","id":"109406392418805"}
+Bring It On|movie	{"fans":1059689,"is_verified":true,"name":"Bring It On","id":"136727474679"}
+Scott Pilgrim vs. the World|movie	{"fans":3217776,"is_verified":true,"name":"Scott Pilgrim vs. the World","id":"49491894003"}
+The Sorcerer's Apprentice|movie	{"fans":857981,"is_verified":true,"name":"The Sorcerer's Apprentice","id":"344460080577"}
+The Bourne Legacy|movie	{"fans":100544,"is_verified":false,"name":"The Bourne Legacy","id":"106288549407097"}
+Just Friends|movie	{"fans":1451,"is_verified":false,"name":"Just  Friends","id":"147576355398063"}
+The Da Vinci Code|movie	{"fans":1564,"is_verified":false,"name":"DaVinci Coders","id":"240193729409520"}
+Selena|movie	{"fans":58129826,"is_verified":true,"name":"Selena Gomez","id":"7961985974"}
+Underworld: Awakening|movie	{"fans":588407,"is_verified":true,"name":"Underworld: Awakening","id":"117411261686475"}
+The Karate Kid Part II|movie	{"fans":7671,"is_verified":false,"name":"The Karate Kid, Part III","id":"109175459100193"}
+Juice|movie	{"fans":329269,"is_verified":true,"name":"Juice Plus+","id":"102277195098"}
+Hannibal|movie	{"fans":1843924,"is_verified":true,"name":"Hannibal","id":"383662898323153"}
+Cars 2|movie	{"fans":242,"is_verified":false,"name":"Cars 2","id":"363352363845664"}
+The Lost Boys|movie	{"fans":3038,"is_verified":false,"name":"The Lost Boys","id":"108892552466954"}
+Brave|movie	{"fans":1125645,"is_verified":true,"name":"Brave Frontier","id":"267081993416948"}
+Soul Plane|movie	{"fans":397845,"is_verified":false,"name":"Soul Plane","id":"108054732549213"}
+The Mask of Zorro|movie	{"fans":204708,"is_verified":false,"name":"The Mask of Zorro","id":"113216042025316"}
+Starsky & Hutch|movie	{"fans":77461,"is_verified":true,"name":"Starsky & Hutch","id":"672854569395956"}
+The Day the Earth Stood Still|movie	{"fans":111434,"is_verified":false,"name":"The Day the Earth Stood Still Movie","id":"1479089752362898"}
+The Lion King|movie	{"fans":24503596,"is_verified":true,"name":"The Lion King","id":"12393266550"}
+Resident Evil: Apocalypse|movie	{"fans":1837,"is_verified":false,"name":"Resident Evil Apocalypse","id":"111745312176614"}
+We Are Marshall|movie	{"fans":167962,"is_verified":true,"name":"We Are Marshall","id":"508245155933947"}
+The Little Mermaid|movie	{"fans":9182329,"is_verified":true,"name":"The Little Mermaid","id":"11158012854"}
+Swordfish|movie	{"fans":18278,"is_verified":true,"name":"Swordfish","id":"428022863896176"}
+RV|movie	{"fans":77317,"is_verified":false,"name":"RVR PRO","id":"415340615209319"}
+Notorious|movie	{"fans":34237,"is_verified":true,"name":"\"Notorious\" Nick Newell","id":"287901655374"}
+The Craft|movie	{"fans":3972,"is_verified":false,"name":"The Crafty Squire","id":"249486528416676"}
+Shanghai Knights|movie	{"fans":51570,"is_verified":false,"name":"Shanghai Knights","id":"113261595351100"}
+Tyler Perry's Madea's Big Happy Family|movie	{"fans":2,"is_verified":false,"name":"Tyler Perry's Madea's Big Happy Family","id":"181516305232576"}
+Dazed and Confused|movie	{"fans":764391,"is_verified":true,"name":"Dazed and Confused Magazine","id":"23596074088"}
+Ghosts of Girlfriends Past|movie	{"fans":234726,"is_verified":true,"name":"Ghosts of Girlfriends Past","id":"50312388020"}
+Legion|movie	{"fans":19313,"is_verified":false,"name":"Legion of Heroes","id":"417075038432207"}
+Repo Men|movie	{"fans":134957,"is_verified":true,"name":"Repo Men","id":"134737447386"}
+Beverly Hills Cop II|movie	{"fans":35027,"is_verified":false,"name":"Beverly Hills Cop III","id":"107717775924653"}
+Die Hard 2|movie	{"fans":0,"is_verified":false,"name":"In Bed Watching Die Hard 2","id":"235421173178532"}
+Apollo 13|movie	{"fans":343645,"is_verified":true,"name":"Apollo 13","id":"205363692842479"}
+The Shining|movie	{"fans":1859725,"is_verified":true,"name":"The Shining","id":"135347089926692"}
+The Mummy: Tomb of the Dragon Emperor|movie	{"fans":982495,"is_verified":true,"name":"The Mummy: Tomb of the Dragon Emperor","id":"16928216348"}
+Planet 51|movie	{"fans":685293,"is_verified":true,"name":"Planet 51","id":"66820459331"}
+The Matrix Reloaded|movie	{"fans":352520,"is_verified":false,"name":"The Matrix Reloaded","id":"112350182113799"}
+Safe House|movie	{"fans":1354,"is_verified":false,"name":"SafeHouse Records","id":"235527119852303"}
+The Lincoln Lawyer|movie	{"fans":246115,"is_verified":true,"name":"The Lincoln Lawyer","id":"128923480498595"}
+Mean Girls 2|movie	{"fans":4730000,"is_verified":true,"name":"Mean Girls","id":"159366990751922"}
+The Blues Brothers|movie	{"fans":1086920,"is_verified":true,"name":"The Blues Brothers","id":"218355508178586"}
+Caddyshack|movie	{"fans":810103,"is_verified":true,"name":"Caddyshack","id":"345901572112413"}
+Tyler Perry's I Can Do Bad All By Myself|movie	{"fans":110029,"is_verified":false,"name":"Tyler Perry's I Can Do Bad All By Myself","id":"106010346106642"}
+True Grit|movie	{"fans":173990,"is_verified":true,"name":"True Grit","id":"158278904199044"}
+Iron Man 3|movie	{"fans":894826,"is_verified":false,"name":"Iron Man 3","id":"376157862431205"}
+Love Actually|movie	{"fans":515061,"is_verified":true,"name":"Love Actually","id":"374057912654410"}
+Dawn of the Dead|movie	{"fans":1136402,"is_verified":true,"name":"Dawn of the Dead","id":"156139071105791"}
+A Cinderella Story|movie	{"fans":2072332,"is_verified":true,"name":"A Cinderella Story","id":"171621416217757"}
+No Country for Old Men|movie	{"fans":1214098,"is_verified":true,"name":"No Country For Old Men","id":"171450412909941"}
+The Dilemma|movie	{"fans":120725,"is_verified":true,"name":"The Dilemma","id":"113959818654136"}
+Broken Arrow|movie	{"fans":17873,"is_verified":false,"name":"Broken Arrow, Oklahoma","id":"104058686296634"}
+The Big Lebowski|movie	{"fans":2048595,"is_verified":true,"name":"The Big Lebowski","id":"161604803891265"}
+Step Up 2 the Streets|movie	{"fans":5350,"is_verified":false,"name":"Step Up 2: The Streets (soundtrack)","id":"112386612107261"}
+Failure to Launch|movie	{"fans":97020,"is_verified":false,"name":"Failure to Launch","id":"109720105713018"}
+In Time|movie	{"fans":3797617,"is_verified":true,"name":"TIMES NOW","id":"218735715310"}
+National Lampoon's European Vacation|movie	{"fans":18741,"is_verified":false,"name":"National Lampoon's European Vacation","id":"109457509080314"}
+Cinderella|movie	{"fans":14024087,"is_verified":true,"name":"Cinderella","id":"152363076192"}
+Rudy|movie	{"fans":1050649,"is_verified":true,"name":"Rudy Mancuso","id":"611897808821525"}
+The Sixth Sense|movie	{"fans":989803,"is_verified":false,"name":"The Sixth Sense","id":"111766602173227"}
+Made of Honor|movie	{"fans":218650,"is_verified":true,"name":"Made of Honor Movie","id":"117060205034845"}
+Total Recall|movie	{"fans":599421,"is_verified":true,"name":"Total Recall","id":"241485452542747"}
+Inside Man|movie	{"fans":0,"is_verified":false,"name":"On Sofa Watching Inside Man","id":"127694260660532"}
+Obsessed|movie	{"fans":601286,"is_verified":true,"name":"Obsessed","id":"112578555530"}
+The Gabby Douglas Story|movie	{"fans":225,"is_verified":false,"name":"The Gabby Douglas Story","id":"768314273227266"}
+Batman & Robin|movie	{"fans":502834,"is_verified":true,"name":"Batman and Robin","id":"246657068828928"}
+The Whole Nine Yards|movie	{"fans":38586,"is_verified":false,"name":"The Whole Nine Yards","id":"109551262404288"}
+She's the Man|movie	{"fans":1308245,"is_verified":true,"name":"She's The Man","id":"219270754768320"}
+Parker|movie	{"fans":313933,"is_verified":true,"name":"Parker Schnabel","id":"266076300104716"}
+Slumdog Millionaire|movie	{"fans":2735946,"is_verified":true,"name":"Slumdog Millionaire","id":"53180527367"}
+Monster House|movie	{"fans":816921,"is_verified":true,"name":"Monster House Movie","id":"388319487919109"}
+Flowers in the Attic|movie	{"fans":6600,"is_verified":false,"name":"Flowers in the Attic (2014 film)","id":"229905913886696"}
+The Best Man|movie	{"fans":1883875,"is_verified":true,"name":"The Best Man","id":"124075817776830"}
+Robin Hood|movie	{"fans":2657121,"is_verified":true,"name":"Robin Hood","id":"205230812622"}
+The Lost World: Jurassic Park|movie	{"fans":4538,"is_verified":false,"name":"The Lost World: Jurassic Park (console game)","id":"107872149234206"}
+Good Will Hunting|movie	{"fans":767933,"is_verified":true,"name":"Good Will Hunting","id":"152935421439530"}
+Poetic Justice|movie	{"fans":554651,"is_verified":false,"name":"Poetic Justice","id":"112340122111259"}
+Star Trek: Nemesis|movie	{"fans":122688,"is_verified":true,"name":"Star Trek Nemesis","id":"243992425636701"}
+Definitely\, Maybe|movie	{"fans":309011,"is_verified":true,"name":"Definitely Maybe","id":"115216275286230"}
+That's My Boy|movie	{"fans":940081,"is_verified":true,"name":"That's My Boy","id":"379356592079417"}
+Coyote Ugly|movie	{"fans":406883,"is_verified":false,"name":"Coyote Ugly","id":"109604585731800"}
+Blow|movie	{"fans":4239,"is_verified":false,"name":"Blowhorn","id":"543832052401525"}
+Tyler Perry's Madea Goes to Jail|movie	{"fans":7298,"is_verified":false,"name":"Tyler Perry's Madea Goes to Jail","id":"324695284270191"}
+Year One|movie	{"fans":178322,"is_verified":false,"name":"YearOne","id":"144480198919888"}
+It's Complicated|movie	{"fans":7346,"is_verified":false,"name":"Its Complicated","id":"142492962462723"}
+Battleship|movie	{"fans":2349045,"is_verified":true,"name":"Battleship","id":"116119711759494"}
+Identity Thief|movie	{"fans":439524,"is_verified":true,"name":"Identity Thief","id":"318290968215790"}
+Tomorrow Never Dies|movie	{"fans":203,"is_verified":false,"name":"Tomorrow Never Dies (song)","id":"112175242132808"}
+Armageddon|movie	{"fans":39183,"is_verified":false,"name":"Armageddon News","id":"1378840859009284"}
+Idiocracy|movie	{"fans":145517,"is_verified":false,"name":"Idiocracy","id":"108080785883628"}
+White Christmas|movie	{"fans":206502,"is_verified":true,"name":"White Christmas","id":"151506031586974"}
+Big|movie	{"fans":4937974,"is_verified":true,"name":"Bigg Boss","id":"599185270096920"}
+The Hobbit: An Unexpected Journey|movie	{"fans":29,"is_verified":false,"name":"The Hobbit: An Unexpected Journey (soundtrack)","id":"904406086269215"}
+Queen of the Damned|movie	{"fans":626748,"is_verified":true,"name":"Queen of the Damned","id":"146208748825505"}
+Zookeeper|movie	{"fans":1306147,"is_verified":true,"name":"Zookeeper","id":"163886830307501"}
+Paul|movie	{"fans":45073854,"is_verified":true,"name":"Paul Walker","id":"154329464601326"}
+Teen Beach Movie|movie	{"fans":140355,"is_verified":false,"name":"Teen Beach Movie","id":"341717952577024"}
+Knowing|movie	{"fans":11834,"is_verified":false,"name":"Knowing Buddha & 5000s.org","id":"172832452833695"}
+Conan the Barbarian|movie	{"fans":313622,"is_verified":true,"name":"Conan the Barbarian","id":"235530576465427"}
+Hotel Transylvania|movie	{"fans":57076,"is_verified":false,"name":"Hotel Transylvania 2","id":"798613956837879"}
+My Cousin Vinny|movie	{"fans":253907,"is_verified":false,"name":"My Cousin Vinny","id":"112451085432907"}
+Daddy Day Care|movie	{"fans":332588,"is_verified":false,"name":"Daddy Day Care","id":"107865922576286"}
+Push|movie	{"fans":8963097,"is_verified":true,"name":"Pusheen","id":"384381901588038"}
+Killers|movie	{"fans":25553,"is_verified":false,"name":"KillerSoap","id":"144387935598851"}
+Think Like a Man|movie	{"fans":4145772,"is_verified":true,"name":"Think Like A Man","id":"159899320736330"}
+Little Miss Sunshine|movie	{"fans":841265,"is_verified":false,"name":"Little Miss Sunshine Movie","id":"1486515668290043"}
+Cloverfield|movie	{"fans":533681,"is_verified":true,"name":"Cloverfield","id":"6727278580"}
+Lakeview Terrace|movie	{"fans":29028,"is_verified":true,"name":"Lakeview Terrace","id":"29342106405"}
+The Chronicles of Narnia: The Voyage of the Dawn Treader|movie	{"fans":790,"is_verified":false,"name":"The Chronicles of Narnia: The Voyage of the Dawn Treader (soundtrack)","id":"187737331256258"}
+Life as We Know It|movie	{"fans":961755,"is_verified":true,"name":"Life As We Know It","id":"164747456822"}
+Planet of the Apes|movie	{"fans":3417588,"is_verified":true,"name":"Planet of the Apes","id":"117612274953701"}
+Takers|movie	{"fans":4910,"is_verified":false,"name":"Takers","id":"112651328762028"}
+Looper|movie	{"fans":554858,"is_verified":true,"name":"Looper","id":"238489162910178"}
+The Cable Guy|movie	{"fans":57298,"is_verified":true,"name":"The Cable Guy","id":"173686126008815"}
+All About the Benjamins|movie	{"fans":16,"is_verified":false,"name":"All About The Benjamins\/Christians - Family Edition","id":"866571073431761"}
+The Silence of the Lambs|movie	{"fans":2784932,"is_verified":true,"name":"The Silence Of The Lambs","id":"166917970030242"}
+The Replacements|movie	{"fans":203622,"is_verified":true,"name":"The Replacements","id":"391665010943817"}
+Scooby-Doo|movie	{"fans":26526602,"is_verified":true,"name":"Scooby-Doo","id":"140330320960"}
+Alvin and the Chipmunks: The Squeakquel|movie	{"fans":93025,"is_verified":false,"name":"Alvin and the Chipmunks: The Squeakquel","id":"103104203063796"}
+Unforgiven|movie	{"fans":282431,"is_verified":true,"name":"Unforgiven","id":"169135256526826"}
+30 Minutes or Less|movie	{"fans":413588,"is_verified":true,"name":"30 Minutes Or Less","id":"210702582273745"}
+The Negotiator|movie	{"fans":79297,"is_verified":true,"name":"The Negotiator","id":"355225134522239"}
+Erin Brockovich|movie	{"fans":488307,"is_verified":true,"name":"Erin Brockovich","id":"75960805493"}
+Once Upon a Time in Mexico|movie	{"fans":145286,"is_verified":true,"name":"Once Upon A Time in Mexico","id":"178175948875871"}
+Minority Report|movie	{"fans":265270,"is_verified":true,"name":"Minority Report","id":"112241738862440"}
+Watchmen|movie	{"fans":653301,"is_verified":false,"name":"Watchmen","id":"6392763859"}
+Red Dawn|movie	{"fans":374907,"is_verified":true,"name":"Red Dawn","id":"371136526265945"}
+Platoon|movie	{"fans":819024,"is_verified":true,"name":"Platoon","id":"200634159970852"}
+Big Momma's House 2|movie	{"fans":20342,"is_verified":false,"name":"Big Momma's House 2","id":"109258725759629"}
+Shutter Island|movie	{"fans":1974544,"is_verified":true,"name":"Shutter Island","id":"132294760114"}
+Speed|movie	{"fans":425625,"is_verified":false,"name":"Speedo","id":"87691502056"}
+Deliver Us From Eva|movie	{"fans":116333,"is_verified":false,"name":"Deliver Us from Eva","id":"108381105850710"}
+The Punisher|movie	{"fans":712197,"is_verified":false,"name":"The Punisher","id":"112721928741749"}
+Ghost|movie	{"fans":1061125,"is_verified":true,"name":"Ghost","id":"114358401916298"}
+Click|movie	{"fans":15685,"is_verified":false,"name":"ClickZ","id":"146919581987912"}
+Warm Bodies|movie	{"fans":2385369,"is_verified":true,"name":"Warm Bodies","id":"417079061686000"}
+Footloose|movie	{"fans":1438780,"is_verified":true,"name":"Footloose","id":"118564764863242"}
+National Lampoon's Van Wilder|movie	{"fans":57,"is_verified":false,"name":"National Lampoon's Van Wilder","id":"597630903641812"}
+The Chronicles of Riddick|movie	{"fans":1835,"is_verified":false,"name":"The Chronicles of Riddick: Escape from Butcher Bay","id":"112424805436159"}
+Blade: Trinity|movie	{"fans":1341,"is_verified":false,"name":"Blade: Trinity (soundtrack)","id":"107732792581572"}
+Transporter 3|movie	{"fans":6197149,"is_verified":true,"name":"The Transporter 3","id":"122197134531175"}
+Total Recall|movie	{"fans":599421,"is_verified":true,"name":"Total Recall","id":"241485452542747"}
+P.S. I Love You|movie	{"fans":5012581,"is_verified":true,"name":"P.S. I Love You","id":"17407942890"}
+Under Siege|movie	{"fans":187384,"is_verified":true,"name":"Under Siege Fans","id":"127069757473422"}
+Semi-Pro|movie	{"fans":10732,"is_verified":false,"name":"Semi Colon Project","id":"313968578795054"}
+Tyler Perry's Why Did I Get Married Too?|movie	{"fans":229,"is_verified":false,"name":"Tyler Perry's Why Did I Get Married Too?!","id":"125837854096222"}
+Matilda|movie	{"fans":97534,"is_verified":true,"name":"Matildas","id":"118066964882809"}
+What Women Want|movie	{"fans":202260,"is_verified":false,"name":"What Women Want","id":"244675195668339"}
+The Hot Chick|movie	{"fans":2242,"is_verified":false,"name":"The Hot Chicken Project","id":"1582811875326764"}
+Robots|movie	{"fans":3166,"is_verified":true,"name":"Robots With Rayguns","id":"116034468409652"}
+Tin Cup|movie	{"fans":960,"is_verified":false,"name":"Tin Cup Pub","id":"484046801679728"}
+Life|movie	{"fans":2154725,"is_verified":true,"name":"Lifehacker","id":"7568536355"}
+Me\, Myself & Irene|movie	{"fans":179134,"is_verified":false,"name":"Me, Myself & Irene","id":"113171552026983"}
+The Emperor's New Groove|movie	{"fans":2553543,"is_verified":true,"name":"The Emperor's New Groove","id":"147865171903672"}
+The Adjustment Bureau|movie	{"fans":335024,"is_verified":true,"name":"The Adjustment Bureau","id":"118044381262"}
+Cheaper by the Dozen|movie	{"fans":189268,"is_verified":true,"name":"Cheaper By The Dozen","id":"555089201249931"}
+You Don't Mess With the Zohan|movie	{"fans":1277500,"is_verified":true,"name":"You Don't Mess With the Zohan","id":"9644529025"}
+Wayne's World|movie	{"fans":456802,"is_verified":true,"name":"Wayne's World","id":"190305811092561"}
+Ray|movie	{"fans":12436148,"is_verified":true,"name":"Ray-Ban","id":"81958664405"}
+Igor|movie	{"fans":53581,"is_verified":true,"name":"Igorrr","id":"241913148048"}
+When in Rome|movie	{"fans":605079,"is_verified":false,"name":"When In Rome","id":"114800731878"}
+Dear John|movie	{"fans":7440295,"is_verified":true,"name":"Dear John","id":"154526009569"}
+Jingle All the Way|movie	{"fans":70646,"is_verified":true,"name":"Jingle All The Way Movies","id":"535690543122641"}
+Practical Magic|movie	{"fans":5148,"is_verified":false,"name":"Practical Magick","id":"218917334933466"}
+Bring It On: All or Nothing|movie	{"fans":2629,"is_verified":false,"name":"All or Nothing (film)","id":"108043292557151"}
+John Q|movie	{"fans":309528,"is_verified":true,"name":"John Q","id":"323470037784015"}
+The Recruit|movie	{"fans":67919,"is_verified":false,"name":"The Recruit","id":"103123713060609"}
+Barbershop 2: Back in Business|movie	{"fans":3228,"is_verified":false,"name":"Barbershop 2: Back in Business","id":"112482042100285"}
+Madagascar|movie	{"fans":50213,"is_verified":false,"name":"Madagascar","id":"112583568754166"}
+Safe Haven|movie	{"fans":971524,"is_verified":true,"name":"Safe Haven Movie","id":"148254648536157"}
+Smokey and the Bandit|movie	{"fans":1010868,"is_verified":true,"name":"Smokey and the Bandit","id":"220777134664455"}
+The Amityville Horror|movie	{"fans":274171,"is_verified":true,"name":"The Amityville Horror","id":"166324830126126"}
+The Pelican Brief|movie	{"fans":57951,"is_verified":false,"name":"The Pelican Brief","id":"103764042995718"}
+Men of Honor|movie	{"fans":202319,"is_verified":false,"name":"Men of Honor","id":"113280495348719"}
+The Matrix Revolutions|movie	{"fans":298845,"is_verified":false,"name":"The Matrix Revolutions","id":"103732522998325"}
+Kevin Hart: Laugh at My Pain|movie	{"fans":13664,"is_verified":false,"name":"Kevin Hart: Laugh at My Pain","id":"314712308541915"}
+My Best Friend's Wedding|movie	{"fans":487951,"is_verified":false,"name":"My Best Friend's Wedding","id":"103765812995397"}
+The World Is Not Enough|movie	{"fans":2354,"is_verified":false,"name":"The World Is Not Enough (novel)","id":"112197882129904"}
+Master and Commander: The Far Side of the World|movie	{"fans":10056,"is_verified":false,"name":"Master and Commander: The Far Side of the World","id":"112053315473505"}
+Get Rich or Die Tryin'|movie	{"fans":706145,"is_verified":true,"name":"Get Rich or Die Tryin'","id":"213221922043731"}
+Alvin and the Chipmunks|movie	{"fans":20998,"is_verified":true,"name":"Alvin and The Chipmunks","id":"307698459372482"}
+Here Comes the Boom|movie	{"fans":703967,"is_verified":true,"name":"Here Comes The Boom","id":"276358242395872"}
+Class Act|movie	{"fans":26395,"is_verified":true,"name":"Class Actress","id":"169089547524"}
+Batman Forever|movie	{"fans":462338,"is_verified":true,"name":"Batman Forever","id":"255143574663250"}
+Holes|movie	{"fans":1460,"is_verified":false,"name":"Holesov","id":"112286952130189"}
+Law Abiding Citizen|movie	{"fans":1080692,"is_verified":false,"name":"Law Abiding Citizen","id":"78414982165"}
+Reservoir Dogs|movie	{"fans":2087233,"is_verified":true,"name":"Reservoir Dogs","id":"115393811836969"}
+Tombstone|movie	{"fans":3600,"is_verified":false,"name":"Tombstones","id":"108657941750"}
+Lara Croft: Tomb Raider|movie	{"fans":1297931,"is_verified":true,"name":"Tomb Raider","id":"287378891157"}
+21 and Over|movie	{"fans":547504,"is_verified":true,"name":"21 and Over","id":"243150209052207"}
+Norbit|movie	{"fans":1319099,"is_verified":false,"name":"Norbit","id":"105943752770728"}
+Rambo|movie	{"fans":19362697,"is_verified":true,"name":"Rambo","id":"157697300924538"}
+Drive Angry|movie	{"fans":118679,"is_verified":true,"name":"Drive Angry 3D","id":"142330685793903"}
+Once Upon a Time|movie	{"fans":6198395,"is_verified":true,"name":"Once Upon a Time","id":"168914433164059"}
+A Man Apart|movie	{"fans":97542,"is_verified":true,"name":"A Man Apart","id":"153945168073532"}
+Star Trek: First Contact|movie	{"fans":147186,"is_verified":true,"name":"Star Trek First Contact","id":"211609378893324"}
+Walk the Line|movie	{"fans":8469,"is_verified":false,"name":"Walk The Line   Tattoo-Art-Studio","id":"178036245574313"}
+Waist Deep|movie	{"fans":19485,"is_verified":false,"name":"Waist Deep","id":"134417156604974"}
+Halloween|movie	{"fans":1198483,"is_verified":false,"name":"Halloween","id":"126814497361932"}
+The Cabin in the Woods|movie	{"fans":656641,"is_verified":true,"name":"The Cabin in the Woods","id":"117746402460"}
+This Means War|movie	{"fans":241773,"is_verified":true,"name":"This Means War","id":"290847887611269"}
+Next Friday|movie	{"fans":3679,"is_verified":false,"name":"Next Friday","id":"1619596621650076"}
+Undercover Brother|movie	{"fans":71183,"is_verified":false,"name":"Undercover Brother","id":"103788159659751"}
+Son-in-Law|movie	{"fans":50443,"is_verified":false,"name":"Son in Law","id":"109587739067509"}
+B.A.P.S|movie	{"fans":1255,"is_verified":false,"name":"B.A.P.S. Swaminarayan. Mandir. Bochasan","id":"172696719484779"}
+Bad Santa|movie	{"fans":262568,"is_verified":true,"name":"Bad Santa","id":"277775422233185"}
+A Haunted House|movie	{"fans":2452161,"is_verified":true,"name":"A Haunted House","id":"284003678367935"}
+Black Sheep|movie	{"fans":2481,"is_verified":false,"name":"Black Sheep Flea","id":"847957778597363"}
+Austin Powers: International Man of Mystery|movie	{"fans":240825,"is_verified":false,"name":"Austin Powers: International Man of Mystery","id":"104055756298057"}
+Ever After: A Cinderella Story|movie	{"fans":2072324,"is_verified":true,"name":"A Cinderella Story","id":"171621416217757"}
+Road House|movie	{"fans":443363,"is_verified":true,"name":"Road House","id":"275512729181829"}
+Menace II Society|movie	{"fans":2784488,"is_verified":true,"name":"Menace II Society","id":"223758107745150"}
+A Bronx Tale|movie	{"fans":731174,"is_verified":true,"name":"A Bronx Tale","id":"116046771843711"}
+How High|movie	{"fans":1515090,"is_verified":true,"name":"How High","id":"423144997707584"}
+Sky High|movie	{"fans":1471,"is_verified":false,"name":"Sky High Volleyball","id":"199881873387213"}
+Meet the Robinsons|movie	{"fans":559903,"is_verified":true,"name":"Meet the Robinsons","id":"167363479982274"}
+Fun With Dick & Jane|movie	{"fans":125290,"is_verified":false,"name":"Fun with Dick and Jane","id":"112241955454700"}
+Hitman|movie	{"fans":3301901,"is_verified":true,"name":"Hitman","id":"82040998986"}
+Galaxy Quest|movie	{"fans":75211,"is_verified":false,"name":"Galaxy Quest","id":"112798922066340"}
+Waiting ...|movie	{"fans":82210,"is_verified":false,"name":"Waiting for Arya -3","id":"170200766353188"}
+Jack Reacher|movie	{"fans":258711,"is_verified":true,"name":"Jack Reacher Movie","id":"377913978923867"}
+Space Cowboys|movie	{"fans":25448,"is_verified":true,"name":"Space Cowboys","id":"295046410310"}
+Accepted|movie	{"fans":8815,"is_verified":false,"name":"Accepted.com","id":"8255073883"}
+Surrogates|movie	{"fans":60062,"is_verified":false,"name":"Surrogates","id":"62211814590"}
+Eraser|movie	{"fans":582000,"is_verified":false,"name":"Eraserheads","id":"115794205101812"}
+Bee Movie|movie	{"fans":1033776,"is_verified":false,"name":"Bee Movie","id":"108706229154562"}
+Stand by Me|movie	{"fans":922475,"is_verified":true,"name":"Stand By Me","id":"198535763497184"}
+Heartbreak Ridge|movie	{"fans":77710,"is_verified":true,"name":"Heartbreak Ridge","id":"160439967424860"}
+Friday|movie	{"fans":19340,"is_verified":false,"name":"Friday the 13th: The Game","id":"1190494044299425"}
+Bringing Down the House|movie	{"fans":84256,"is_verified":false,"name":"Bringing Down the House","id":"108079095881057"}
+Red Dawn|movie	{"fans":374907,"is_verified":true,"name":"Red Dawn","id":"371136526265945"}
+Jay and Silent Bob Strike Back|movie	{"fans":659372,"is_verified":true,"name":"Jay And Silent Bob Strike Back","id":"106654629429245"}
+Cop Out|movie	{"fans":319997,"is_verified":true,"name":"Cop Out","id":"207318324557"}
+Despicable Me 2|movie	{"fans":258241,"is_verified":false,"name":"Despicable Me 2","id":"405563672797469"}
+Lethal Weapon 4|movie	{"fans":106587,"is_verified":false,"name":"Lethal Weapon 4","id":"112102695473648"}
+Lara Croft Tomb Raider: The Cradle of Life|movie	{"fans":44658,"is_verified":false,"name":"Lara Croft Tomb Raider: The Cradle of Life","id":"107402965956069"}
+The Aviator|movie	{"fans":335534,"is_verified":true,"name":"The Aviator","id":"195123347202287"}
+The Legend of Zorro|movie	{"fans":88009,"is_verified":false,"name":"The Legend of Zorro","id":"112355038781772"}
+Balls of Fury|movie	{"fans":10208,"is_verified":false,"name":"Balls of Fury","id":"108736859186300"}
+The Outlaw Josey Wales|movie	{"fans":31768,"is_verified":true,"name":"The Outlaw Josey Wales","id":"139928092811114"}
+21|movie	{"fans":31153,"is_verified":false,"name":"2143","id":"385260898169015"}
+Face/Off|movie	{"fans":943515,"is_verified":true,"name":"Face\/Off","id":"175420445847283"}
+It's a Wonderful Life|movie	{"fans":707713,"is_verified":true,"name":"It's a Wonderful Life","id":"228464707169807"}
+The Untouchables|movie	{"fans":249269,"is_verified":true,"name":"The Untouchables","id":"178730355527261"}
+White Men Can't Jump|movie	{"fans":169290,"is_verified":true,"name":"White Men Can't Jump","id":"197291173749129"}
+Major Payne|movie	{"fans":224234,"is_verified":false,"name":"Major Payne","id":"103121069728759"}
+Tooth Fairy|movie	{"fans":3441,"is_verified":false,"name":"Tooth fairy","id":"103809222991348"}
+The Last Song|movie	{"fans":7765060,"is_verified":true,"name":"The Last Song","id":"104617043136"}
+Prometheus|movie	{"fans":881963,"is_verified":true,"name":"Prometheus","id":"111092022321197"}
+Welcome Home Roscoe Jenkins|movie	{"fans":127691,"is_verified":false,"name":"Welcome Home Roscoe Jenkins","id":"112172948799698"}
+Fool's Gold|movie	{"fans":5322,"is_verified":false,"name":"Fool's Gold TV","id":"739486252762124"}
+Halloween|movie	{"fans":1198483,"is_verified":false,"name":"Halloween","id":"126814497361932"}
+Scrooged|movie	{"fans":35806,"is_verified":true,"name":"Scrooged","id":"206329589406210"}
+Mickey's Once Upon a Christmas|movie	{"fans":227991,"is_verified":false,"name":"Mickey's Once Upon a Christmas","id":"107908929237709"}
+Guess Who|movie	{"fans":16113,"is_verified":false,"name":"Le Guess Who?","id":"123320941020409"}
+Fireproof|movie	{"fans":19805,"is_verified":false,"name":"Fireproof Games","id":"442380532448512"}
+Julie & Julia|movie	{"fans":131128,"is_verified":true,"name":"Julie & Julia","id":"79590367580"}
+John Carter|movie	{"fans":754645,"is_verified":true,"name":"John Carter","id":"192790732230"}
+National Lampoon's Animal House|movie	{"fans":502316,"is_verified":true,"name":"National Lampoon's Animal House","id":"138394736234343"}
+Rain Man|movie	{"fans":568674,"is_verified":true,"name":"Rain Man","id":"363957553619426"}
+Are We Done Yet?|movie	{"fans":137293,"is_verified":false,"name":"Are We Done Yet?","id":"112154135464007"}
+Clue|movie	{"fans":4409,"is_verified":true,"name":"Clue","id":"503902689650813"}
+Legends of the Fall|movie	{"fans":592213,"is_verified":false,"name":"Legends of the Fall","id":"104005366301305"}
+Edward Scissorhands|movie	{"fans":5710289,"is_verified":true,"name":"Edward Scissorhands","id":"332239196802533"}
+Pocahontas|movie	{"fans":5924707,"is_verified":true,"name":"Pocahontas","id":"153049423827"}
+Blade|movie	{"fans":61724,"is_verified":true,"name":"Blade & Soul","id":"340891479440715"}
+The Scorpion King|movie	{"fans":515655,"is_verified":true,"name":"The Scorpion King","id":"273170409367758"}
+Jarhead|movie	{"fans":298665,"is_verified":true,"name":"Jarhead","id":"100847299997738"}
+The Usual Suspects|movie	{"fans":915124,"is_verified":true,"name":"The Usual Suspects","id":"487680604610929"}
+As Good as It Gets|movie	{"fans":2307,"is_verified":false,"name":"As Good As It Gets Cafe","id":"117784293788"}
+Mission: Impossible 2|movie	{"fans":70746,"is_verified":false,"name":"Mission: Impossible II","id":"111763862174288"}
+Robin Hood: Prince of Thieves|movie	{"fans":53801,"is_verified":true,"name":"Robin Hood: Prince of Thieves","id":"146300248827206"}
+You\, Me and Dupree|movie	{"fans":70608,"is_verified":true,"name":"You, Me and Dupree","id":"281977731961250"}
+Look Who's Talking|movie	{"fans":67493,"is_verified":false,"name":"Look Who's Talking","id":"112579042087252"}
+Blackfish|movie	{"fans":439760,"is_verified":true,"name":"Blackfish","id":"150354588450861"}
+Police Academy|movie	{"fans":755208,"is_verified":true,"name":"Police Academy","id":"168331286621151"}
+Air Force One|movie	{"fans":95098,"is_verified":true,"name":"Air Force One","id":"189085211111200"}
+Constantine|movie	{"fans":2285153,"is_verified":true,"name":"Constantine","id":"215380638665932"}
+The Little Rascals|movie	{"fans":901421,"is_verified":true,"name":"The Little Rascals","id":"428100977247484"}
+Red Dragon|movie	{"fans":6549,"is_verified":false,"name":"Dragon Red","id":"22032435232"}
+The Princess Diaries 2: Royal Engagement|movie	{"fans":45958,"is_verified":false,"name":"The Princess Diaries 2: Royal Engagement","id":"113006955380979"}
+War of the Worlds|movie	{"fans":547233,"is_verified":true,"name":"War of the Worlds","id":"164382733625558"}
+Scary Movie 4|movie	{"fans":2966646,"is_verified":false,"name":"Scary Movie 4","id":"113048328706458"}
+My Sister's Keeper|movie	{"fans":2534948,"is_verified":true,"name":"My Sister's Keeper","id":"88756821652"}
+The Crow|movie	{"fans":1246217,"is_verified":true,"name":"The Crow","id":"261098967258197"}
+The Man in the Iron Mask|movie	{"fans":104366,"is_verified":false,"name":"The Man in the Iron Mask","id":"108587329166333"}
+Daddy's Little Girls|movie	{"fans":737252,"is_verified":false,"name":"Daddy's Little Girls","id":"104050826296754"}
+The Fighter|movie	{"fans":263972,"is_verified":true,"name":"The Fighter","id":"144258942282205"}
+Unknown|movie	{"fans":10085,"is_verified":false,"name":"Unknown TV","id":"1738447799716910"}
+The Smurfs|movie	{"fans":13935496,"is_verified":true,"name":"The Smurfs","id":"125628237476762"}
+Lean on Me|movie	{"fans":94,"is_verified":false,"name":"Lean on Meals","id":"787058934747665"}
+Coach Carter|movie	{"fans":658245,"is_verified":false,"name":"Coach Carter","id":"108236329204304"}
+Disturbia|movie	{"fans":180352,"is_verified":false,"name":"Disturbia Clothing","id":"116529665025377"}
+Prince of Persia: The Sands of Time|movie	{"fans":5366825,"is_verified":true,"name":"Prince of Persia: The Sands of Time","id":"139195819664"}
+Wrath of the Titans|movie	{"fans":1101728,"is_verified":true,"name":"Wrath of the Titans","id":"110889212362856"}
+We Were Soldiers|movie	{"fans":695705,"is_verified":true,"name":"We Were Soldiers","id":"133450066730093"}
+The Secret Life of Bees|movie	{"fans":210708,"is_verified":false,"name":"The Secret Life of Bees","id":"105568606142739"}
+Hanna|movie	{"fans":11582175,"is_verified":false,"name":"Hannah Montana","id":"6467276946"}
+Misery|movie	{"fans":142510,"is_verified":true,"name":"Misery","id":"297353537034278"}
+Sahara|movie	{"fans":127162,"is_verified":false,"name":"Sahara Star","id":"215813731778216"}
+Dark Shadows|movie	{"fans":2520773,"is_verified":true,"name":"Dark Shadows","id":"164201903640452"}
+Wreck-It Ralph|movie	{"fans":3261743,"is_verified":true,"name":"Wreck-It Ralph","id":"217155721634610"}
+Analyze This|movie	{"fans":58185,"is_verified":true,"name":"Analyze This","id":"205674972893834"}
+Bewitched|movie	{"fans":206208,"is_verified":false,"name":"Bewitched","id":"107635292592513"}
+Gridiron Gang|movie	{"fans":269998,"is_verified":true,"name":"Gridiron Gang","id":"195600777153829"}
+Cadillac Records|movie	{"fans":153153,"is_verified":true,"name":"Cadillac Records","id":"29455527228"}
+Lottery Ticket|movie	{"fans":1528650,"is_verified":false,"name":"Lottery Ticket","id":"186627729128"}
+Limitless|movie	{"fans":1541387,"is_verified":true,"name":"Limitless","id":"150444495003892"}
+Safe|movie	{"fans":12139,"is_verified":false,"name":"Safety Officer Jobs & Information","id":"466417500093183"}
+Oblivion|movie	{"fans":390782,"is_verified":true,"name":"Oblivion","id":"334845253203345"}
+Wall Street|movie	{"fans":4236290,"is_verified":true,"name":"The Wall Street Journal","id":"8304333127"}
+In the Line of Fire|movie	{"fans":20959,"is_verified":false,"name":"In the Line of Fire","id":"107995119222309"}
+The Family Man|movie	{"fans":3959,"is_verified":false,"name":"The Manson Family","id":"113238425353428"}
+The Lake House|movie	{"fans":545891,"is_verified":true,"name":"The Lake House","id":"373820575985089"}
+The Watch|movie	{"fans":116989,"is_verified":true,"name":"The Watch","id":"122610817835793"}
+Big Trouble in Little China|movie	{"fans":199718,"is_verified":true,"name":"Big Trouble in Little China","id":"443632089043381"}
+The Last Airbender|movie	{"fans":3804515,"is_verified":false,"name":"The Last Airbender","id":"106059130632"}
+Planes\, Trains and Automobiles|movie	{"fans":221225,"is_verified":true,"name":"Planes, Trains & Automobiles","id":"150941301642917"}
+The Lovely Bones|movie	{"fans":1979360,"is_verified":false,"name":"The Lovely Bones","id":"115941171284"}
+For Colored Girls|movie	{"fans":454129,"is_verified":true,"name":"For Colored Girls","id":"148183965237294"}
+Life of Pi|movie	{"fans":12701,"is_verified":false,"name":"Life of Pikelet","id":"198367553654812"}
+Fargo|movie	{"fans":490054,"is_verified":true,"name":"Fargo","id":"143743819137192"}
+The First Wives Club|movie	{"fans":10813,"is_verified":false,"name":"First Wives Club The Musical","id":"80636548169"}
+Good Luck Chuck|movie	{"fans":201305,"is_verified":false,"name":"Good Luck Chuck","id":"112193858791983"}
+ParaNorman|movie	{"fans":845533,"is_verified":true,"name":"ParaNorman","id":"177367302324350"}
+This Is 40|movie	{"fans":105470,"is_verified":false,"name":"This Is 40","id":"272939942770255"}
+The Professional|movie	{"fans":24453,"is_verified":false,"name":"The Professionals","id":"108192692534176"}
+Invincible|movie	{"fans":10219,"is_verified":false,"name":"Invincible Worldwide","id":"115223098537776"}
+Happy Feet|movie	{"fans":9947205,"is_verified":true,"name":"Happy Feet","id":"162387307441"}
+I Think I Love My Wife|movie	{"fans":85260,"is_verified":false,"name":"I Think I Love My Wife","id":"112051098806452"}
+Eat Pray Love|movie	{"fans":1864464,"is_verified":true,"name":"Eat Pray Love","id":"364240691392"}
+Oz the Great and Powerful|movie	{"fans":1358090,"is_verified":true,"name":"Oz The Great and Powerful","id":"177046445687618"}
+Austin Powers: The Spy Who Shagged Me|movie	{"fans":189294,"is_verified":true,"name":"Austin Powers: The Spy Who Shagged Me Movie","id":"710751252284775"}
+What to Expect When You're Expecting|movie	{"fans":176608,"is_verified":true,"name":"What To Expect","id":"49050172877"}
+Alien vs. Predator|movie	{"fans":1866364,"is_verified":true,"name":"Alien Vs. Predator","id":"353082744773903"}
+Pride & Prejudice|movie	{"fans":153796,"is_verified":true,"name":"Pride + Prejudice + Zombies","id":"540201742789043"}
+Daybreakers|movie	{"fans":287307,"is_verified":true,"name":"Daybreakers","id":"112417400445"}
+Beastly|movie	{"fans":1495731,"is_verified":true,"name":"Beastly","id":"91020894633"}
+Jackass 3.5|movie	{"fans":117,"is_verified":false,"name":"Jackass 3.5","id":"219722838069209"}
+Jack Frost|movie	{"fans":2643397,"is_verified":false,"name":"Jack Frost","id":"266122806809645"}
+Jackass: Number Two|movie	{"fans":943704,"is_verified":false,"name":"Jackass 2","id":"112027372149836"}
+Source Code|movie	{"fans":276192,"is_verified":true,"name":"Source Code","id":"133344733387900"}
+Honey\, I Shrunk the Kids|movie	{"fans":76615,"is_verified":false,"name":"Honey, I Shrunk the Kids","id":"108581689165771"}
+The Time Traveler's Wife|movie	{"fans":647290,"is_verified":true,"name":"The Time Traveler's Wife","id":"98429472921"}
+Escape From New York|movie	{"fans":71611,"is_verified":false,"name":"Escape from New York","id":"108036882557381"}
+Enter the Dragon|movie	{"fans":2195477,"is_verified":true,"name":"Enter the Dragon","id":"397303686963673"}
+Stealth|movie	{"fans":5534,"is_verified":true,"name":"Stealth","id":"173530416030138"}
+Hellboy II: The Golden Army|movie	{"fans":1043165,"is_verified":true,"name":"Hellboy II: The Golden Army","id":"13053600929"}
+Seven Pounds|movie	{"fans":1485516,"is_verified":true,"name":"Seven Pounds","id":"33420113545"}
+Faster|movie	{"fans":3288,"is_verified":false,"name":"Fastershire","id":"479848462052735"}
+Blue Crush|movie	{"fans":313580,"is_verified":true,"name":"Blue Crush","id":"145149285523338"}
+Outlander|movie	{"fans":938327,"is_verified":true,"name":"Outlander","id":"524783437580870"}
+Sex Drive|movie	{"fans":278890,"is_verified":false,"name":"Sex Drive","id":"103754759662589"}
+Jaws|movie	{"fans":26247,"is_verified":true,"name":"JAWS","id":"209102652521226"}
+Lethal Weapon|movie	{"fans":561562,"is_verified":true,"name":"Lethal Weapon","id":"249862561769213"}
+Enemy of the State|movie	{"fans":212240,"is_verified":false,"name":"Enemy of the State","id":"104097856293587"}
+Unbreakable|movie	{"fans":245461,"is_verified":true,"name":"Unbreakable Kimmy Schmidt","id":"751893428177527"}
+The Mechanic|movie	{"fans":632616,"is_verified":false,"name":"The Mechanic Movie","id":"141856752524741"}
+Killer Elite|movie	{"fans":461631,"is_verified":true,"name":"Killer Elite","id":"214669605220259"}
+Hansel & Gretel: Witch Hunters|movie	{"fans":1569518,"is_verified":true,"name":"Hansel & Gretel: Witch Hunters","id":"225868820803184"}
+The Twilight Saga: Breaking Dawn Part 2|movie	{"fans":7504,"is_verified":false,"name":"The Twilight Saga: Breaking Dawn \u2013 Part 2 (soundtrack)","id":"359987084090937"}
+Executive Decision|movie	{"fans":29554,"is_verified":false,"name":"Executive Decision","id":"112940415387375"}
+Sleepy Hollow|movie	{"fans":1737179,"is_verified":true,"name":"Sleepy Hollow","id":"467026763375961"}
+Eternal Sunshine of the Spotless Mind|movie	{"fans":2070407,"is_verified":true,"name":"Eternal Sunshine of the Spotless Mind","id":"307909672574831"}
+Raising Arizona|movie	{"fans":142683,"is_verified":true,"name":"Raising Arizona","id":"446649335407034"}
+Predator 2|movie	{"fans":223602,"is_verified":false,"name":"Predator 2","id":"105533939481025"}
+Coneheads|movie	{"fans":292,"is_verified":false,"name":"Coneheads Lahore","id":"632644496849680"}
+Legally Blonde 2: Red\, White & Blonde|movie	{"fans":122,"is_verified":false,"name":"Legally Blondes 2","id":"148337001848274"}
+Just Wright|movie	{"fans":25677,"is_verified":true,"name":"Just Wright","id":"354199419149"}
+You Again|movie	{"fans":567994,"is_verified":true,"name":"You Again","id":"186129454562"}
+The Exorcist|movie	{"fans":2188996,"is_verified":true,"name":"The Exorcist","id":"232430166854139"}
+One Flew Over the Cuckoo's Nest|movie	{"fans":927044,"is_verified":true,"name":"One Flew Over The Cuckoo's Nest","id":"309680635765274"}
+A Thin Line Between Love and Hate|movie	{"fans":317931,"is_verified":false,"name":"A Thin Line Between Love and Hate","id":"105492962818868"}
+The Ringer|movie	{"fans":10464,"is_verified":false,"name":"The Ringer (2005 film)","id":"106445576059513"}
+Little Nicky|movie	{"fans":310229,"is_verified":false,"name":"Little Nicky","id":"112378985439799"}
+Black Knight|movie	{"fans":4835,"is_verified":false,"name":"Black Knights","id":"750220498327687"}
+Catfish|movie	{"fans":171650,"is_verified":true,"name":"Catfish and the Bottlemen","id":"165173797505"}
+Jack the Giant Slayer|movie	{"fans":454461,"is_verified":true,"name":"Jack the Giant Slayer","id":"112693455481982"}
+Romeo Must Die|movie	{"fans":194721,"is_verified":false,"name":"Romeo Must Die Movie","id":"1458617264358151"}
+Tyler Perry's Good Deeds|movie	{"fans":2071,"is_verified":false,"name":"Tyler Perry's Good Deeds","id":"331325050293149"}
+Resident Evil: Retribution|movie	{"fans":65387,"is_verified":false,"name":"Resident Evil: Retribution","id":"123477961068651"}
+Poseidon|movie	{"fans":7580,"is_verified":false,"name":"Poseidon Pub","id":"171357646338586"}
+Stick It|movie	{"fans":183367,"is_verified":false,"name":"Stick It","id":"104160229620929"}
+The Ninth Gate|movie	{"fans":100959,"is_verified":true,"name":"Ninth Gate","id":"224919340869287"}
+Crazy\, Stupid\, Love.|movie	{"fans":1007912,"is_verified":true,"name":"Crazy, Stupid, Love.","id":"162702857087239"}
+35 & Ticking|movie	{"fans":11312,"is_verified":false,"name":"35 and Ticking","id":"157339017649548"}
+WarGames|movie	{"fans":13638,"is_verified":true,"name":"War Games","id":"232704873491539"}
+Star Trek III: The Search for Spock|movie	{"fans":1995,"is_verified":false,"name":"Star Trek: The Search for Spock","id":"114733418541582"}
+Space Jam|movie	{"fans":408346,"is_verified":true,"name":"Space Jam","id":"406079119442701"}
+Star Trek: Insurrection|movie	{"fans":110376,"is_verified":false,"name":"Star Trek Insurrection","id":"203255649736641"}
+The One|movie	{"fans":38306175,"is_verified":true,"name":"One Direction","id":"121930497861753"}
+Uptown Girls|movie	{"fans":448,"is_verified":false,"name":"Uptown Girls Studio","id":"389850997757511"}
+The Passion of the Christ|movie	{"fans":3493912,"is_verified":true,"name":"The Passion Of The Christ","id":"595135110501065"}
+Déjà Vu|movie	{"fans":1313,"is_verified":false,"name":"D\u00e9ja Vu Calzados","id":"986793978054835"}
+Race to Witch Mountain|movie	{"fans":244547,"is_verified":false,"name":"Race to Witch Mountain","id":"35911438151"}
+The Last House on the Left|movie	{"fans":2882,"is_verified":false,"name":"Last House on the Left","id":"263033166191"}
+Get Shorty|movie	{"fans":26507,"is_verified":false,"name":"Get Shorty","id":"105445776155715"}
+Because I Said So|movie	{"fans":155516,"is_verified":false,"name":"Because I Said So","id":"112322445450887"}
+Harlem Nights|movie	{"fans":709,"is_verified":false,"name":"Harlem Nights","id":"1549601531949910"}
+Kindergarten Cop|movie	{"fans":111080,"is_verified":true,"name":"Kindergarten Cop","id":"690126717712598"}
+Blue Streak|movie	{"fans":165080,"is_verified":false,"name":"Blue Streak","id":"103115676394843"}
+Lemony Snicket's A Series of Unfortunate Events|movie	{"fans":27554,"is_verified":false,"name":"A Series Of Unfortunate Events by Lemony Snicket","id":"105994492774183"}
+The Change-Up|movie	{"fans":376105,"is_verified":true,"name":"The Change-Up","id":"120534874634367"}
+The Hunt for Red October|movie	{"fans":227955,"is_verified":false,"name":"The Hunt for Red October","id":"108005529221291"}
+Nacho Libre|movie	{"fans":1115852,"is_verified":true,"name":"Nacho Libre","id":"307113062707615"}
+Jumping the Broom|movie	{"fans":1168599,"is_verified":true,"name":"Jumping the Broom","id":"109062392492028"}
+Rise of the Guardians|movie	{"fans":3494755,"is_verified":true,"name":"Rise of the Guardians","id":"150067278381160"}
+Anaconda|movie	{"fans":22076,"is_verified":false,"name":"Anaconda","id":"107500345945896"}
+South Park: The Movie|movie	{"fans":198846,"is_verified":false,"name":"South Park: The Movie","id":"111576788860647"}
+Any Given Sunday|movie	{"fans":180662,"is_verified":true,"name":"Any Given Sunday","id":"121713224635762"}
+Love Don't Cost a Thing|movie	{"fans":1584385,"is_verified":true,"name":"Love Don't Cost a Thing","id":"299228930113245"}
+Wall Street: Money Never Sleeps|movie	{"fans":353997,"is_verified":false,"name":"Wall Street - Money Never Sleeps","id":"277054837484"}
+Gremlins 2: The New Batch|movie	{"fans":776,"is_verified":false,"name":"Gremlins 2: The New Batch (video game)","id":"109340755752326"}
+Money Train|movie	{"fans":19977,"is_verified":false,"name":"Money Train","id":"108119472542309"}
+Mystic River|movie	{"fans":262482,"is_verified":true,"name":"Mystic River","id":"319205441443700"}
+Scooby-Doo 2: Monsters Unleashed|movie	{"fans":81902,"is_verified":false,"name":"Scooby-Doo 2: Monsters Unleashed","id":"108327002522308"}
+Cirque du Freak: The Vampire's Assistant|movie	{"fans":180987,"is_verified":true,"name":"Cirque Du Freak: The Vampire's Assistant","id":"113128602489"}
+Luv|movie	{"fans":5985,"is_verified":false,"name":"Luvo","id":"106044112759814"}
+House Party|movie	{"fans":281219,"is_verified":false,"name":"House Party","id":"196970066980280"}
+Donnie Brasco|movie	{"fans":366274,"is_verified":false,"name":"Donnie Brasco","id":"313936685451722"}
+Ronin|movie	{"fans":4339,"is_verified":false,"name":"Ronin Motorworks","id":"130536803649480"}
+Crash|movie	{"fans":14568,"is_verified":false,"name":"Crash Course","id":"273796356058126"}
+Beerfest|movie	{"fans":10985,"is_verified":false,"name":"Beerfest Singapore","id":"465185913612558"}
+The Heartbreak Kid|movie	{"fans":47449,"is_verified":false,"name":"The Heartbreak Kid","id":"111815085502536"}
+Machete|movie	{"fans":2947,"is_verified":false,"name":"Machete 187","id":"136092816587444"}
+Sleeping With the Enemy|movie	{"fans":119249,"is_verified":false,"name":"Sleeping with the Enemy","id":"107497065946984"}
+A Night at the Roxbury|movie	{"fans":0,"is_verified":false,"name":"A Night At The Roxbury.","id":"299266643438183"}
+Seventeen Again|movie	{"fans":35752,"is_verified":false,"name":"Seventeen Again","id":"109343009083695"}
+XXX: State of the Union|movie	{"fans":2589,"is_verified":false,"name":"XXx: State of the Union (soundtrack)","id":"103690043003783"}
+Into the Blue|movie	{"fans":157984,"is_verified":false,"name":"Into the Blue","id":"121162641289834"}
+Open Season|movie	{"fans":1862661,"is_verified":true,"name":"Open Season","id":"174332352581255"}
+Paranormal Activity|movie	{"fans":19725409,"is_verified":true,"name":"Paranormal Activity","id":"138793027632"}
+Airplane!|movie	{"fans":511662,"is_verified":true,"name":"Airplane","id":"195253817187054"}
+The Warriors|movie	{"fans":208920,"is_verified":true,"name":"The Warriors","id":"248661761922105"}
+Uncle Buck|movie	{"fans":5140,"is_verified":true,"name":"Uncle Buck ABC","id":"1422189264755788"}
+Barbershop|movie	{"fans":408535,"is_verified":true,"name":"Barbershop","id":"625005247526397"}
+Goldfinger|movie	{"fans":205682,"is_verified":true,"name":"Goldfinger","id":"6533403001"}
+The Jerk|movie	{"fans":5797,"is_verified":false,"name":"The Rich Jerk","id":"1617102598539982"}
+Grease 2|movie	{"fans":110486,"is_verified":false,"name":"Grease 2","id":"109212939097109"}
+La Bamba|movie	{"fans":213220,"is_verified":false,"name":"La Bamba","id":"108995559120307"}
+The Karate Kid Part III|movie	{"fans":7671,"is_verified":false,"name":"The Karate Kid, Part III","id":"109175459100193"}
+My Girl|movie	{"fans":426023,"is_verified":false,"name":"My Girl","id":"1055664884448938"}
+Hope Floats|movie	{"fans":265268,"is_verified":true,"name":"Hope Floats","id":"274856829307560"}
+The Core|movie	{"fans":116064,"is_verified":false,"name":"The Core","id":"112003698815505"}
+Pay It Forward|movie	{"fans":368015,"is_verified":true,"name":"Pay It Forward","id":"659724160739133"}
+Johnson Family Vacation|movie	{"fans":58861,"is_verified":false,"name":"Johnson Family Vacation","id":"105593029474838"}
+The Happening|movie	{"fans":115192,"is_verified":false,"name":"The Happening","id":"105638396136785"}
+The Sound of Music|movie	{"fans":2448741,"is_verified":true,"name":"The Sound Of Music","id":"348630689004"}
+Heat|movie	{"fans":348023,"is_verified":false,"name":"Heath Ledger","id":"181612015226998"}
+Pearl Harbor|movie	{"fans":1588096,"is_verified":false,"name":"Pearl Harbor","id":"104093616294591"}
+Honey|movie	{"fans":32659,"is_verified":false,"name":"Honeywell","id":"107982359223732"}
+The Benchwarmers|movie	{"fans":29,"is_verified":false,"name":"The Benchwarmers","id":"1196381013721657"}
+9|movie	{"fans":143835,"is_verified":false,"name":"Iraq","id":"103415006357417"}
+Another Cinderella Story|movie	{"fans":12693,"is_verified":false,"name":"Another Cinderella Story","id":"95091271005"}
+Super 8|movie	{"fans":474933,"is_verified":true,"name":"Super 8","id":"116874495000094"}
+Immortals|movie	{"fans":766826,"is_verified":true,"name":"Immortals","id":"189806031055696"}
+Fun With Dick and Jane|movie	{"fans":125290,"is_verified":false,"name":"Fun with Dick and Jane","id":"112241955454700"}
+Weird Science|movie	{"fans":166721,"is_verified":true,"name":"Weird Science","id":"448121598539322"}
+E.T. the Extra-Terrestrial|movie	{"fans":1040112,"is_verified":true,"name":"E.T. The Extra-Terrestrial","id":"242274155802821"}
+The Game|movie	{"fans":7225671,"is_verified":true,"name":"The Game","id":"10705539669"}
+Crank|movie	{"fans":8790,"is_verified":false,"name":"Crank Lucas","id":"235742389941529"}
+Coraline|movie	{"fans":4328019,"is_verified":true,"name":"Coraline","id":"42168616288"}
+(500) Days of Summer|movie	{"fans":3012620,"is_verified":true,"name":"500 Days of Summer","id":"61178318999"}
+Act of Valor|movie	{"fans":437997,"is_verified":false,"name":"Act of Valor","id":"174059575955363"}
+Ghost Rider: Spirit of Vengeance|movie	{"fans":65410,"is_verified":false,"name":"Ghost Rider Spirit of Vengeance UK","id":"271087776257788"}
+Fried Green Tomatoes|movie	{"fans":265972,"is_verified":true,"name":"Fried Green Tomatoes","id":"319397778143254"}
+Beavis and Butt-head Do America|movie	{"fans":101526,"is_verified":false,"name":"Beavis And Butthead Do America","id":"110315365656295"}
+Meet the Browns|movie	{"fans":1161133,"is_verified":false,"name":"Meet the Browns","id":"105688936131852"}
+Confessions of a Shopaholic|movie	{"fans":112632,"is_verified":false,"name":"Confessions of a Shopaholic Movie","id":"60933434152"}
+Escape From Planet Earth|movie	{}
+Rocky|movie	{"fans":11312034,"is_verified":true,"name":"Rocky","id":"224332791564"}
+Cruel Intentions|movie	{"fans":537765,"is_verified":true,"name":"Cruel Intentions","id":"441669589243833"}
+Dude\, Where's My Car?|movie	{"fans":628442,"is_verified":true,"name":"Dude, Where's My Car?","id":"398526576833258"}
+Daredevil|movie	{"fans":1296328,"is_verified":true,"name":"Marvel's Daredevil","id":"1405070773062495"}
+Radio|movie	{"fans":749260,"is_verified":true,"name":"Radio City","id":"417546858312612"}
+Extract|movie	{"fans":1028,"is_verified":false,"name":"Extract 15","id":"870517086319360"}
+Did You Hear About the Morgans?|movie	{"fans":50561,"is_verified":true,"name":"Did You Hear About the Morgans","id":"184940713560"}
+Invictus|movie	{"fans":467737,"is_verified":true,"name":"Invictus","id":"112090277160"}
+Open Range|movie	{"fans":88234,"is_verified":false,"name":"Open Range","id":"105604616138601"}
+You Got Served|movie	{"fans":770487,"is_verified":true,"name":"You Got Served","id":"219470428072576"}
+Fools Rush In|movie	{"fans":4302,"is_verified":false,"name":"Fools Rush In (1997 film)","id":"207805572592113"}
+Along Came a Spider|movie	{"fans":260,"is_verified":false,"name":"Along Came a Spider (album)","id":"109468069078847"}
+Freddy vs. Jason|movie	{"fans":1176793,"is_verified":false,"name":"Freddy vs. Jason","id":"103126863060322"}
+The Wedding Date|movie	{"fans":369435,"is_verified":true,"name":"The Wedding Date","id":"113506172060451"}
+Project X|movie	{"fans":1531524,"is_verified":true,"name":"Project X","id":"136588786389818"}
+Malcolm X|movie	{"fans":571870,"is_verified":true,"name":"Malcolm X","id":"211784722247695"}
+The Sandlot|movie	{"fans":1673949,"is_verified":true,"name":"The Sandlot","id":"330233173696817"}
+Eve's Bayou|movie	{"fans":77733,"is_verified":true,"name":"Eve's Bayou","id":"183015871778435"}
+Valkyrie|movie	{"fans":185231,"is_verified":true,"name":"Valkyrie","id":"36151163682"}
+True Grit|movie	{"fans":173993,"is_verified":true,"name":"True Grit","id":"158278904199044"}
+Alice in Wonderland|movie	{"fans":535776,"is_verified":true,"name":"Alice in Wonderland by Lewis Carroll","id":"305048979646606"}
+Crouching Tiger\, Hidden Dragon|movie	{"fans":173765,"is_verified":false,"name":"Crouching Tiger, Hidden Dragon - Viral Film","id":"1474478812814611"}
+Rock Star|movie	{"fans":154292,"is_verified":false,"name":"Rock Star Games","id":"124156194268619"}
+Rumor Has It ...|movie	{"fans":1162,"is_verified":false,"name":"Rumor Has it","id":"153823124731710"}
+The Pursuit of Happyness|movie	{"fans":2730744,"is_verified":true,"name":"Pursuit of Happyness","id":"400024903412192"}
+Stomp the Yard|movie	{"fans":2101505,"is_verified":true,"name":"Stomp the Yard","id":"134848776528294"}
+Ip Man|movie	{"fans":1307767,"is_verified":false,"name":"Ip Man","id":"215998897008"}
+Young Frankenstein|movie	{"fans":80749,"is_verified":true,"name":"Young Frankenstein","id":"535456279803868"}
+The Five Heartbeats|movie	{"fans":748482,"is_verified":false,"name":"The Five Heartbeats","id":"112655242080537"}
+Maverick|movie	{"fans":3236,"is_verified":false,"name":"Maverick Game","id":"376670392532361"}
+All About Steve|movie	{"fans":47065,"is_verified":false,"name":"All About Steve","id":"113314335345840"}
+Snow White and the Huntsman|movie	{"fans":2810022,"is_verified":true,"name":"Snow White and the Huntsman","id":"186450181387455"}

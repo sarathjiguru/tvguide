@@ -1,0 +1,835 @@
+The Big Bang Theory|tv	{"all_critic":{"rt_rating":84,"rt_users":71,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":80,"rt_users":2601,"best_rt_rating":100,"worst_rt_rating":0}}
+Criminal Minds|tv	{"all_critic":{"rt_rating":42,"rt_users":26,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":33,"rt_users":6,"best_rt_rating":100,"worst_rt_rating":0}}
+Friends|tv	{"all_critic":{"rt_rating":48,"rt_users":23,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":50,"rt_users":2,"best_rt_rating":100,"worst_rt_rating":0}}
+The Walking Dead|tv	{"all_critic":{"rt_rating":77,"rt_users":66,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":62,"rt_users":1019,"best_rt_rating":100,"worst_rt_rating":0}}
+House|tv	{"all_critic":{"rt_rating":81,"rt_users":111,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":89,"rt_users":3762,"best_rt_rating":100,"worst_rt_rating":0}}
+Modern Family|tv	{"all_critic":{"rt_rating":89,"rt_users":45,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":91,"rt_users":1259,"best_rt_rating":100,"worst_rt_rating":0}}
+Bones|tv	{"all_critic":{"rt_rating":27,"rt_users":26,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":19,"rt_users":30,"best_rt_rating":100,"worst_rt_rating":0}}
+It's Always Sunny in Philadelphia|tv	{"all_critic":{"rt_rating":96,"rt_users":23,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":94,"rt_users":1111,"best_rt_rating":100,"worst_rt_rating":0}}
+Supernatural|tv	{"all_critic":{"rt_rating":91,"rt_users":36,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":88,"rt_users":3217,"best_rt_rating":100,"worst_rt_rating":0}}
+Breaking Bad|tv	{"all_critic":{"rt_rating":95,"rt_users":128,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":97,"rt_users":11783,"best_rt_rating":100,"worst_rt_rating":0}}
+Almost Human|tv	{"all_critic":{"rt_rating":69,"rt_users":45,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":87,"rt_users":430,"best_rt_rating":100,"worst_rt_rating":0}}
+Grey's Anatomy|tv	{"all_critic":{"rt_rating":74,"rt_users":23,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":81,"rt_users":845,"best_rt_rating":100,"worst_rt_rating":0}}
+30 Rock|tv	{"all_critic":{"rt_rating":81,"rt_users":93,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":92,"rt_users":601,"best_rt_rating":100,"worst_rt_rating":0}}
+Monk|tv	{"all_critic":{"rt_rating":61,"rt_users":33,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":81,"rt_users":351,"best_rt_rating":100,"worst_rt_rating":0}}
+Scandal|tv	{"all_critic":{"rt_rating":92,"rt_users":57,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":82,"rt_users":608,"best_rt_rating":100,"worst_rt_rating":0}}
+Sons of Anarchy|tv	{"all_critic":{"rt_rating":89,"rt_users":101,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":90,"rt_users":1958,"best_rt_rating":100,"worst_rt_rating":0}}
+Once Upon a Time|tv	{"all_critic":{"rt_rating":81,"rt_users":66,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":85,"rt_users":1734,"best_rt_rating":100,"worst_rt_rating":0}}
+Glee|tv	{"all_critic":{"rt_rating":68,"rt_users":45,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":69,"rt_users":942,"best_rt_rating":100,"worst_rt_rating":0}}
+Pretty Little Liars|tv	{"all_critic":{"rt_rating":81,"rt_users":17,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":83,"rt_users":762,"best_rt_rating":100,"worst_rt_rating":0}}
+Marvel's Agents of S.H.I.E.L.D.|tv	{"all_critic":{"rt_rating":93,"rt_users":72,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":82,"rt_users":2858,"best_rt_rating":100,"worst_rt_rating":0}}
+The Vampire Diaries|tv	{"all_critic":{"rt_rating":84,"rt_users":40,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":84,"rt_users":1210,"best_rt_rating":100,"worst_rt_rating":0}}
+Doctor Who|tv	{"all_critic":{"rt_rating":89,"rt_users":86,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":87,"rt_users":3720,"best_rt_rating":100,"worst_rt_rating":0}}
+Sleepy Hollow|tv	{"all_critic":{"rt_rating":86,"rt_users":61,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":74,"rt_users":948,"best_rt_rating":100,"worst_rt_rating":0}}
+New Girl|tv	{"all_critic":{"rt_rating":91,"rt_users":72,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":84,"rt_users":901,"best_rt_rating":100,"worst_rt_rating":0}}
+Person of Interest|tv	{"all_critic":{"rt_rating":87,"rt_users":52,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":94,"rt_users":962,"best_rt_rating":100,"worst_rt_rating":0}}
+American Horror Story|tv	{"all_critic":{"rt_rating":72,"rt_users":210,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":73,"rt_users":5755,"best_rt_rating":100,"worst_rt_rating":0}}
+Revenge|tv	{"all_critic":{"rt_rating":75,"rt_users":44,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":77,"rt_users":531,"best_rt_rating":100,"worst_rt_rating":0}}
+Parks and Recreation|tv	{"all_critic":{"rt_rating":90,"rt_users":83,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":91,"rt_users":1972,"best_rt_rating":100,"worst_rt_rating":0}}
+The Blacklist|tv	{"all_critic":{"rt_rating":80,"rt_users":61,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":93,"rt_users":1352,"best_rt_rating":100,"worst_rt_rating":0}}
+Arrow|tv	{"all_critic":{"rt_rating":96,"rt_users":66,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":87,"rt_users":4139,"best_rt_rating":100,"worst_rt_rating":0}}
+Elementary|tv	{"all_critic":{"rt_rating":94,"rt_users":49,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":85,"rt_users":452,"best_rt_rating":100,"worst_rt_rating":0}}
+Bob's Burgers|tv	{"all_critic":{"rt_rating":89,"rt_users":25,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":86,"rt_users":546,"best_rt_rating":100,"worst_rt_rating":0}}
+Community|tv	{"all_critic":{"rt_rating":86,"rt_users":91,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":87,"rt_users":2183,"best_rt_rating":100,"worst_rt_rating":0}}
+Suits|tv	{"all_critic":{"rt_rating":76,"rt_users":28,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":93,"rt_users":1193,"best_rt_rating":100,"worst_rt_rating":0}}
+Revolution|tv	{"all_critic":{"rt_rating":69,"rt_users":54,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":64,"rt_users":270,"best_rt_rating":100,"worst_rt_rating":0}}
+Grimm|tv	{"all_critic":{"rt_rating":86,"rt_users":43,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":88,"rt_users":684,"best_rt_rating":100,"worst_rt_rating":0}}
+Teen Wolf|tv	{"all_critic":{"rt_rating":79,"rt_users":40,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":83,"rt_users":904,"best_rt_rating":100,"worst_rt_rating":0}}
+The Good Wife|tv	{"all_critic":{"rt_rating":97,"rt_users":102,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":93,"rt_users":1308,"best_rt_rating":100,"worst_rt_rating":0}}
+Archer|tv	{"all_critic":{"rt_rating":97,"rt_users":62,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":93,"rt_users":1227,"best_rt_rating":100,"worst_rt_rating":0}}
+Awkward.|tv	{"all_critic":{"rt_rating":82,"rt_users":40,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":74,"rt_users":272,"best_rt_rating":100,"worst_rt_rating":0}}
+Game of Thrones|tv	{"all_critic":{"rt_rating":94,"rt_users":221,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":94,"rt_users":13702,"best_rt_rating":100,"worst_rt_rating":0}}
+Fringe|tv	{"all_critic":{"rt_rating":92,"rt_users":42,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":94,"rt_users":805,"best_rt_rating":100,"worst_rt_rating":0}}
+The Closer|tv	{"all_critic":{"rt_rating":86,"rt_users":23,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":92,"rt_users":37,"best_rt_rating":100,"worst_rt_rating":0}}
+Under the Dome|tv	{"all_critic":{"rt_rating":69,"rt_users":68,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":46,"rt_users":700,"best_rt_rating":100,"worst_rt_rating":0}}
+Dexter|tv	{"all_critic":{"rt_rating":79,"rt_users":115,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":78,"rt_users":4168,"best_rt_rating":100,"worst_rt_rating":0}}
+The Following|tv	{"all_critic":{"rt_rating":56,"rt_users":61,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":66,"rt_users":600,"best_rt_rating":100,"worst_rt_rating":0}}
+Arrested Development|tv	{"all_critic":{"rt_rating":89,"rt_users":29,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":92,"rt_users":976,"best_rt_rating":100,"worst_rt_rating":0}}
+Falling Skies|tv	{"all_critic":{"rt_rating":84,"rt_users":43,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":68,"rt_users":553,"best_rt_rating":100,"worst_rt_rating":0}}
+True Blood|tv	{"all_critic":{"rt_rating":70,"rt_users":109,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":71,"rt_users":1328,"best_rt_rating":100,"worst_rt_rating":0}}
+Covert Affairs|tv	{"all_critic":{"rt_rating":80,"rt_users":15,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":88,"rt_users":126,"best_rt_rating":100,"worst_rt_rating":0}}
+Being Human|tv	{"all_critic":{"rt_rating":72,"rt_users":11,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":93,"rt_users":151,"best_rt_rating":100,"worst_rt_rating":0}}
+Raising Hope|tv	{"all_critic":{"rt_rating":91,"rt_users":35,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":94,"rt_users":120,"best_rt_rating":100,"worst_rt_rating":0}}
+Mad Men|tv	{"all_critic":{"rt_rating":94,"rt_users":243,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":95,"rt_users":2324,"best_rt_rating":100,"worst_rt_rating":0}}
+Parenthood|tv	{"all_critic":{"rt_rating":90,"rt_users":55,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":95,"rt_users":245,"best_rt_rating":100,"worst_rt_rating":0}}
+Weeds|tv	{"all_critic":{"rt_rating":77,"rt_users":41,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":72,"rt_users":486,"best_rt_rating":100,"worst_rt_rating":0}}
+Entourage|tv	{"all_critic":{"rt_rating":66,"rt_users":40,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":88,"rt_users":627,"best_rt_rating":100,"worst_rt_rating":0}}
+Switched at Birth|tv	{"all_critic":{"rt_rating":100,"rt_users":6,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":86,"rt_users":106,"best_rt_rating":100,"worst_rt_rating":0}}
+Warehouse 13|tv	{"all_critic":{"rt_rating":75,"rt_users":18,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":83,"rt_users":130,"best_rt_rating":100,"worst_rt_rating":0}}
+Justified|tv	{"all_critic":{"rt_rating":97,"rt_users":165,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":92,"rt_users":1385,"best_rt_rating":100,"worst_rt_rating":0}}
+Witches of East End|tv	{"all_critic":{"rt_rating":70,"rt_users":23,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":85,"rt_users":228,"best_rt_rating":100,"worst_rt_rating":0}}
+The League|tv	{"all_critic":{"rt_rating":75,"rt_users":33,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":80,"rt_users":362,"best_rt_rating":100,"worst_rt_rating":0}}
+Heroes|tv	{"all_critic":{"rt_rating":70,"rt_users":19,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":65,"rt_users":633,"best_rt_rating":100,"worst_rt_rating":0}}
+Wilfred|tv	{"all_critic":{"rt_rating":75,"rt_users":49,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":85,"rt_users":290,"best_rt_rating":100,"worst_rt_rating":0}}
+Anger Management|tv	{"all_critic":{"rt_rating":21,"rt_users":33,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":64,"rt_users":67,"best_rt_rating":100,"worst_rt_rating":0}}
+Boardwalk Empire|tv	{"all_critic":{"rt_rating":90,"rt_users":158,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":95,"rt_users":1597,"best_rt_rating":100,"worst_rt_rating":0}}
+Mike & Mike|tv	{"all_critic":{"rt_rating":82,"rt_users":11,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":95,"rt_users":118,"best_rt_rating":100,"worst_rt_rating":0}}
+Bates Motel|tv	{"all_critic":{"rt_rating":86,"rt_users":63,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":90,"rt_users":1027,"best_rt_rating":100,"worst_rt_rating":0}}
+The Tomorrow People|tv	{"all_critic":{"rt_rating":45,"rt_users":40,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":77,"rt_users":183,"best_rt_rating":100,"worst_rt_rating":0}}
+Defiance|tv	{"all_critic":{"rt_rating":80,"rt_users":25,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":87,"rt_users":447,"best_rt_rating":100,"worst_rt_rating":0}}
+Curb Your Enthusiasm|tv	{"all_critic":{"rt_rating":96,"rt_users":34,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":97,"rt_users":339,"best_rt_rating":100,"worst_rt_rating":0}}
+Nikita|tv	{"all_critic":{"rt_rating":79,"rt_users":43,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":91,"rt_users":210,"best_rt_rating":100,"worst_rt_rating":0}}
+Brooklyn Nine-Nine|tv	{"all_critic":{"rt_rating":92,"rt_users":71,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":94,"rt_users":1207,"best_rt_rating":100,"worst_rt_rating":0}}
+Cougar Town|tv	{"all_critic":{"rt_rating":77,"rt_users":43,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":70,"rt_users":99,"best_rt_rating":100,"worst_rt_rating":0}}
+The Killing|tv	{"all_critic":{"rt_rating":69,"rt_users":96,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":88,"rt_users":951,"best_rt_rating":100,"worst_rt_rating":0}}
+The Bridge|tv	{"all_critic":{"rt_rating":88,"rt_users":63,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":87,"rt_users":445,"best_rt_rating":100,"worst_rt_rating":0}}
+Once Upon a Time in Wonderland|tv	{"all_critic":{"rt_rating":59,"rt_users":27,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":66,"rt_users":148,"best_rt_rating":100,"worst_rt_rating":0}}
+Shameless|tv	{"all_critic":{"rt_rating":94,"rt_users":55,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":90,"rt_users":1005,"best_rt_rating":100,"worst_rt_rating":0}}
+Dracula|tv	{"all_critic":{"rt_rating":52,"rt_users":46,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":79,"rt_users":305,"best_rt_rating":100,"worst_rt_rating":0}}
+The Mindy Project|tv	{"all_critic":{"rt_rating":86,"rt_users":91,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":91,"rt_users":399,"best_rt_rating":100,"worst_rt_rating":0}}
+Major Crimes|tv	{"all_critic":{"rt_rating":66,"rt_users":23,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":94,"rt_users":89,"best_rt_rating":100,"worst_rt_rating":0}}
+The Crazy Ones|tv	{"all_critic":{"rt_rating":55,"rt_users":40,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":66,"rt_users":127,"best_rt_rating":100,"worst_rt_rating":0}}
+Firefly|tv	{"all_critic":{"rt_rating":80,"rt_users":20,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":97,"rt_users":260,"best_rt_rating":100,"worst_rt_rating":0}}
+Hostages|tv	{"all_critic":{"rt_rating":57,"rt_users":42,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":67,"rt_users":73,"best_rt_rating":100,"worst_rt_rating":0}}
+Sherlock|tv	{"all_critic":{"rt_rating":99,"rt_users":74,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":97,"rt_users":5197,"best_rt_rating":100,"worst_rt_rating":0}}
+Lost|tv	{"all_critic":{"rt_rating":89,"rt_users":44,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":91,"rt_users":2318,"best_rt_rating":100,"worst_rt_rating":0}}
+Chuck|tv	{"all_critic":{"rt_rating":86,"rt_users":27,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":90,"rt_users":624,"best_rt_rating":100,"worst_rt_rating":0}}
+The Bible|tv	{"all_critic":{"rt_rating":13,"rt_users":15,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":69,"rt_users":59,"best_rt_rating":100,"worst_rt_rating":0}}
+Ravenswood|tv	{"all_critic":{"rt_rating":80,"rt_users":10,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":72,"rt_users":30,"best_rt_rating":100,"worst_rt_rating":0}}
+Reign|tv	{"all_critic":{"rt_rating":78,"rt_users":51,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":88,"rt_users":489,"best_rt_rating":100,"worst_rt_rating":0}}
+The Goldbergs|tv	{"all_critic":{"rt_rating":77,"rt_users":40,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":91,"rt_users":299,"best_rt_rating":100,"worst_rt_rating":0}}
+Girlfriends|tv	{"all_critic":{"rt_rating":81,"rt_users":21,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":77,"rt_users":173,"best_rt_rating":100,"worst_rt_rating":0}}
+The Sopranos|tv	{"all_critic":{"rt_rating":97,"rt_users":86,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":97,"rt_users":1250,"best_rt_rating":100,"worst_rt_rating":0}}
+Suburgatory|tv	{"all_critic":{"rt_rating":88,"rt_users":33,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":87,"rt_users":101,"best_rt_rating":100,"worst_rt_rating":0}}
+Longmire|tv	{"all_critic":{"rt_rating":87,"rt_users":16,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":95,"rt_users":478,"best_rt_rating":100,"worst_rt_rating":0}}
+House of Cards|tv	{"all_critic":{"rt_rating":81,"rt_users":111,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":89,"rt_users":3762,"best_rt_rating":100,"worst_rt_rating":0}}
+Bonnie & Clyde|tv	{"all_critic":{"rt_rating":61,"rt_users":31,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":37,"rt_users":49,"best_rt_rating":100,"worst_rt_rating":0}}
+Louie|tv	{"all_critic":{"rt_rating":93,"rt_users":116,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":94,"rt_users":1165,"best_rt_rating":100,"worst_rt_rating":0}}
+Vikings|tv	{"all_critic":{"rt_rating":91,"rt_users":51,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":93,"rt_users":1219,"best_rt_rating":100,"worst_rt_rating":0}}
+Happy Endings|tv	{"all_critic":{"rt_rating":67,"rt_users":27,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":86,"rt_users":100,"best_rt_rating":100,"worst_rt_rating":0}}
+Betrayal|tv	{"all_critic":{"rt_rating":8,"rt_users":24,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":70,"rt_users":38,"best_rt_rating":100,"worst_rt_rating":0}}
+Friday Night Lights|tv	{"all_critic":{"rt_rating":96,"rt_users":93,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":93,"rt_users":334,"best_rt_rating":100,"worst_rt_rating":0}}
+The Carrie Diaries|tv	{"all_critic":{"rt_rating":81,"rt_users":30,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":85,"rt_users":150,"best_rt_rating":100,"worst_rt_rating":0}}
+Alphas|tv	{"all_critic":{"rt_rating":87,"rt_users":27,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":75,"rt_users":41,"best_rt_rating":100,"worst_rt_rating":0}}
+Hannibal|tv	{"all_critic":{"rt_rating":88,"rt_users":96,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":93,"rt_users":4798,"best_rt_rating":100,"worst_rt_rating":0}}
+The Neighbors|tv	{"all_critic":{"rt_rating":32,"rt_users":34,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":81,"rt_users":52,"best_rt_rating":100,"worst_rt_rating":0}}
+Terra Nova|tv	{"all_critic":{"rt_rating":71,"rt_users":28,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":64,"rt_users":53,"best_rt_rating":100,"worst_rt_rating":0}}
+Downton Abbey|tv	{"all_critic":{"rt_rating":84,"rt_users":149,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":87,"rt_users":1385,"best_rt_rating":100,"worst_rt_rating":0}}
+The Secret Circle|tv	{"all_critic":{"rt_rating":46,"rt_users":28,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":68,"rt_users":33,"best_rt_rating":100,"worst_rt_rating":0}}
+The Millers|tv	{"all_critic":{"rt_rating":46,"rt_users":35,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":49,"rt_users":69,"best_rt_rating":100,"worst_rt_rating":0}}
+Fairly Legal|tv	{"all_critic":{"rt_rating":57,"rt_users":26,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":50,"rt_users":5,"best_rt_rating":100,"worst_rt_rating":0}}
+The Americans|tv	{"all_critic":{"rt_rating":95,"rt_users":138,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":94,"rt_users":1641,"best_rt_rating":100,"worst_rt_rating":0}}
+The Client List|tv	{"all_critic":{"rt_rating":45,"rt_users":11,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":75,"rt_users":10,"best_rt_rating":100,"worst_rt_rating":0}}
+Intelligence|tv	{"all_critic":{"rt_rating":36,"rt_users":33,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":65,"rt_users":102,"best_rt_rating":100,"worst_rt_rating":0}}
+Whitney|tv	{"all_critic":{"rt_rating":21,"rt_users":29,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":41,"rt_users":13,"best_rt_rating":100,"worst_rt_rating":0}}
+Up All Night|tv	{"all_critic":{"rt_rating":71,"rt_users":30,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":92,"rt_users":14,"best_rt_rating":100,"worst_rt_rating":0}}
+Harry's Law|tv	{"all_critic":{"rt_rating":43,"rt_users":14,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":37,"rt_users":7,"best_rt_rating":100,"worst_rt_rating":0}}
+Touch|tv	{"all_critic":{"rt_rating":64,"rt_users":25,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":68,"rt_users":40,"best_rt_rating":100,"worst_rt_rating":0}}
+The Newsroom|tv	{"all_critic":{"rt_rating":63,"rt_users":86,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":87,"rt_users":765,"best_rt_rating":100,"worst_rt_rating":0}}
+Smash|tv	{"all_critic":{"rt_rating":68,"rt_users":66,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":72,"rt_users":36,"best_rt_rating":100,"worst_rt_rating":0}}
+The Michael J. Fox Show|tv	{"all_critic":{"rt_rating":70,"rt_users":43,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":57,"rt_users":33,"best_rt_rating":100,"worst_rt_rating":0}}
+Southland|tv	{"all_critic":{"rt_rating":86,"rt_users":98,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":96,"rt_users":73,"best_rt_rating":100,"worst_rt_rating":0}}
+Nip/Tuck|tv	{"all_critic":{"rt_rating":79,"rt_users":45,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":88,"rt_users":105,"best_rt_rating":100,"worst_rt_rating":0}}
+Ray Donovan|tv	{"all_critic":{"rt_rating":77,"rt_users":61,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":91,"rt_users":467,"best_rt_rating":100,"worst_rt_rating":0}}
+Eastbound & Down|tv	{"all_critic":{"rt_rating":80,"rt_users":26,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":92,"rt_users":265,"best_rt_rating":100,"worst_rt_rating":0}}
+Super Fun Night|tv	{"all_critic":{"rt_rating":33,"rt_users":43,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":64,"rt_users":54,"best_rt_rating":100,"worst_rt_rating":0}}
+Stargate Universe|tv	{"all_critic":{"rt_rating":50,"rt_users":6,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":66,"rt_users":64,"best_rt_rating":100,"worst_rt_rating":0}}
+No Ordinary Family|tv	{"all_critic":{"rt_rating":68,"rt_users":22,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":73,"rt_users":16,"best_rt_rating":100,"worst_rt_rating":0}}
+Family Guy|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":66,"rt_users":1438,"best_rt_rating":100,"worst_rt_rating":0}}
+NCIS|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":77,"rt_users":105,"best_rt_rating":100,"worst_rt_rating":0}}
+How I Met Your Mother|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":81,"rt_users":2943,"best_rt_rating":100,"worst_rt_rating":0}}
+no tv listing,SpongeBob SquarePants|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Law & Order: Special Victims Unit|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":96,"rt_users":202,"best_rt_rating":100,"worst_rt_rating":0}}
+American Dad|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":87,"rt_users":573,"best_rt_rating":100,"worst_rt_rating":0}}
+Duck Dynasty|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":33,"rt_users":3,"best_rt_rating":100,"worst_rt_rating":0}}
+Tosh.0|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":95,"rt_users":20,"best_rt_rating":100,"worst_rt_rating":0}}
+South Park|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":90,"rt_users":1325,"best_rt_rating":100,"worst_rt_rating":0}}
+Two and a Half Men|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":67,"rt_users":694,"best_rt_rating":100,"worst_rt_rating":0}}
+Pawn Stars|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+no tv listing,The King of Queens|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Ridiculousness|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":91,"rt_users":13,"best_rt_rating":100,"worst_rt_rating":0}}
+Futurama|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":97,"rt_users":399,"best_rt_rating":100,"worst_rt_rating":0}}
+Seinfeld|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":96,"rt_users":237,"best_rt_rating":100,"worst_rt_rating":0}}
+The Simpsons|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":71,"rt_users":1631,"best_rt_rating":100,"worst_rt_rating":0}}
+Law & Order: Criminal Intent|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":63,"rt_users":26,"best_rt_rating":100,"worst_rt_rating":0}}
+Castle|tv	{"all_critic":{"rt_rating":96,"rt_users":27,"worstrt_rating":0,"bestrt_rating":100},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Everybody Loves Raymond|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+American Pickers|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+no tv listing,That '70s Show|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Office|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":1,"best_rt_rating":100,"worst_rt_rating":0}}
+Cops|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Martin|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":12,"best_rt_rating":100,"worst_rt_rating":0}}
+Diners, Drive-Ins and Dives|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+America's Funniest Home Videos|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+CSI: Miami|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":87,"rt_users":50,"best_rt_rating":100,"worst_rt_rating":0}}
+Storage Wars|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Saturday Night Live|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+no tv listing,King of the Hill|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Burn Notice|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":95,"rt_users":156,"best_rt_rating":100,"worst_rt_rating":0}}
+Good Luck Charlie|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Keeping Up With the Kardashians|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+MythBusters|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Top Gear|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":66,"rt_users":3,"best_rt_rating":100,"worst_rt_rating":0}}
+no tv listing,Phineas and Ferb|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Daily Show With Jon Stewart|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":59,"best_rt_rating":100,"worst_rt_rating":0}}
+no tv listing,Chopped|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+CNN Newsroom|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+no tv listing,Modern Marvels|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Fresh Prince of Bel-Air|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":96,"rt_users":146,"best_rt_rating":100,"worst_rt_rating":0}}
+no tv listing,The Golden Girls|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+CSI: Crime Scene Investigation|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":81,"rt_users":211,"best_rt_rating":100,"worst_rt_rating":0}}
+House Hunters|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+no tv listing,How It's Made|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+no tv listing,The Fairly OddParents|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Voice|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":62,"rt_users":45,"best_rt_rating":100,"worst_rt_rating":0}}
+The First 48|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":1,"best_rt_rating":100,"worst_rt_rating":0}}
+Law & Order|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+George Lopez|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":76,"rt_users":35,"best_rt_rating":100,"worst_rt_rating":0}}
+The Mentalist|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":85,"rt_users":440,"best_rt_rating":100,"worst_rt_rating":0}}
+Star Trek: The Next Generation|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":85,"rt_users":156,"best_rt_rating":100,"worst_rt_rating":0}}
+Full House|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":73,"rt_users":136,"best_rt_rating":100,"worst_rt_rating":0}}
+Wipeout|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":66,"rt_users":5,"best_rt_rating":100,"worst_rt_rating":0}}
+Roseanne|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Colbert Report|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+no tv listing,Jessie|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Bar Rescue|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+NCIS: Los Angeles|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":77,"rt_users":105,"best_rt_rating":100,"worst_rt_rating":0}}
+Married ... With Children|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+no tv listing,Frasier|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+House Hunters International|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Cosby Show|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Adventure Time|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Real Housewives of Atlanta|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Rules of Engagement|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":51,"rt_users":71,"best_rt_rating":100,"worst_rt_rating":0}}
+no tv listing,Today|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Psych|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+no tv listing,Family Feud|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+no tv listing,Sex and the City|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Fast N' Loud|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Scrubs|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":89,"rt_users":868,"best_rt_rating":100,"worst_rt_rating":0}}
+Hardcore Pawn|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Cleveland Show|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":44,"rt_users":79,"best_rt_rating":100,"worst_rt_rating":0}}
+My Wife and Kids|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+no tv listing,Ancient Aliens|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Catfish: The TV Show|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":60,"rt_users":12,"best_rt_rating":100,"worst_rt_rating":0}}
+Regular Show|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Jersey Shore|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":35,"rt_users":30,"best_rt_rating":100,"worst_rt_rating":0}}
+The Daily Show|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":59,"best_rt_rating":100,"worst_rt_rating":0}}
+no tv listing,Ghost Adventures|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Impractical Jokers|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+no tv listing,The Nanny|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Conan|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":80,"rt_users":18,"best_rt_rating":100,"worst_rt_rating":0}}
+Boy Meets World|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Ellen DeGeneres Show|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Wendell & Vinnie|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The New Adventures of Old Christine|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":66,"rt_users":24,"best_rt_rating":100,"worst_rt_rating":0}}
+Property Brothers|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Man v. Food|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+White Collar|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":90,"rt_users":476,"best_rt_rating":100,"worst_rt_rating":0}}
+Love It or List It|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Wizards of Waverly Place|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+World's Dumbest ...|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Mickey Mouse Clubhouse|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+iCarly|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Flashpoint|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":86,"rt_users":44,"best_rt_rating":100,"worst_rt_rating":0}}
+Kitchen Nightmares|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":13,"rt_users":10,"best_rt_rating":100,"worst_rt_rating":0}}
+Shark Tank|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":27,"best_rt_rating":100,"worst_rt_rating":0}}
+The Middle|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":82,"rt_users":265,"best_rt_rating":100,"worst_rt_rating":0}}
+America's Got Talent|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+American Idol|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":84,"rt_users":31,"best_rt_rating":100,"worst_rt_rating":0}}
+Cold Case|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Restaurant: Impossible|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+I Love Lucy|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Hawaii Five-0|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":77,"rt_users":147,"best_rt_rating":100,"worst_rt_rating":0}}
+Shake It Up!|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+2 Broke Girls|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":66,"rt_users":383,"best_rt_rating":100,"worst_rt_rating":0}}
+Chelsea Lately|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+TMZ|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Late Night With Jimmy Fallon|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":25,"rt_users":3,"best_rt_rating":100,"worst_rt_rating":0}}
+Everybody Hates Chris|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Girl Code|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":2,"best_rt_rating":100,"worst_rt_rating":0}}
+Good Morning America|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Suite Life on Deck|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Tyler Perry's House of Payne|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Avatar: The Last Airbender|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Undercover Boss|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The X Factor|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":78,"rt_users":10,"best_rt_rating":100,"worst_rt_rating":0}}
+The Amazing Race|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Deadliest Catch|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+NOVA|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+E! News|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Bizarre Foods With Andrew Zimmern|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Tonight Show With Jay Leno|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+CSI: NY|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":82,"rt_users":36,"best_rt_rating":100,"worst_rt_rating":0}}
+The Dr. Oz Show|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Game|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Cops Reloaded|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+M*A*S*H|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Judge Judy|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+My Name Is Earl|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Austin & Ally|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Weather Center Live|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+America's Next Top Model|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Teen Mom 2|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Through the Wormhole With Morgan Freeman|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Real Husbands of Hollywood|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":83,"rt_users":4,"best_rt_rating":100,"worst_rt_rating":0}}
+Love & Hip Hop: Atlanta|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Tyler Perry's Meet the Browns|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Love & Hip Hop|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Big Brother|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":75,"rt_users":12,"best_rt_rating":100,"worst_rt_rating":0}}
+Will & Grace|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":86,"rt_users":56,"best_rt_rating":100,"worst_rt_rating":0}}
+Anderson Cooper 360|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Jimmy Kimmel Live|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Real Housewives of New Jersey|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Real Housewives of Beverly Hills|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Late Show With David Letterman|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+American Restoration|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Chappelle's Show|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Dog the Bounty Hunter|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Ghost Whisperer|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":84,"rt_users":57,"best_rt_rating":100,"worst_rt_rating":0}}
+Workaholics|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":90,"rt_users":296,"best_rt_rating":100,"worst_rt_rating":0}}
+Leverage|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":91,"rt_users":67,"best_rt_rating":100,"worst_rt_rating":0}}
+Wheel of Fortune|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Guy Code|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Alaska State Troopers|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Iron Chef America|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Chicago Fire|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":88,"rt_users":144,"best_rt_rating":100,"worst_rt_rating":0}}
+Anthony Bourdain: No Reservations|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Counting Cars|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The O'Reilly Factor|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Without a Trace|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":75,"rt_users":10,"best_rt_rating":100,"worst_rt_rating":0}}
+Untold Stories of the E.R.|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+1,000 Ways to Die|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Hoarding: Buried Alive|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Ghost Hunters|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Key & Peele|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":91,"rt_users":170,"best_rt_rating":100,"worst_rt_rating":0}}
+MasterChef|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":57,"rt_users":23,"best_rt_rating":100,"worst_rt_rating":0}}
+American Greed|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Wayans Bros.|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Cake Boss|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Amazing World of Gumball|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Buffy the Vampire Slayer|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":91,"rt_users":501,"best_rt_rating":100,"worst_rt_rating":0}}
+The Originals|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":92,"rt_users":464,"best_rt_rating":100,"worst_rt_rating":0}}
+The Andy Griffith Show|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Millionaire Matchmaker|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Long Island Medium|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Yes, Dear|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Dance Moms|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":1,"best_rt_rating":100,"worst_rt_rating":0}}
+Rizzoli & Isles|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":86,"rt_users":83,"best_rt_rating":100,"worst_rt_rating":0}}
+Dancing With the Stars|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+American Ninja Warrior|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Project Runway|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Nature|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Smallville|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":81,"rt_users":773,"best_rt_rating":100,"worst_rt_rating":0}}
+The Late Late Show With Craig Ferguson|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Cash Cab|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Cold Case Files|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Hell's Kitchen|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+River Monsters: Unhooked|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Mike & Molly|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":63,"rt_users":87,"best_rt_rating":100,"worst_rt_rating":0}}
+Blue Bloods|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":83,"rt_users":156,"best_rt_rating":100,"worst_rt_rating":0}}
+General Hospital|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Sesame Street|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Malcolm in the Middle|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Lizard Lick Towing|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Real Housewives of Orange County|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Aqua Teen Hunger Force|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Ink Master|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Gilmore Girls|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":92,"rt_users":356,"best_rt_rating":100,"worst_rt_rating":0}}
+Top Gear|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":66,"rt_users":3,"best_rt_rating":100,"worst_rt_rating":0}}
+The Wendy Williams Show|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Swamp People|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Top 20 Most Shocking|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Dog With a Blog|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+NBC Nightly News|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Entertainment Tonight|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Cheers|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":88,"rt_users":60,"best_rt_rating":100,"worst_rt_rating":0}}
+Dateline NBC|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Face Off|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":96,"rt_users":22,"best_rt_rating":100,"worst_rt_rating":0}}
+Mob Wives|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Nick Cannon Presents: Wild 'n Out|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Royal Pains|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":72,"rt_users":48,"best_rt_rating":100,"worst_rt_rating":0}}
+Big Time Rush|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Good Eats|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Dog Whisperer|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Doc McStuffins|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Curious George|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Caillou|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+So You Think You Can Dance|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":79,"rt_users":57,"best_rt_rating":100,"worst_rt_rating":0}}
+The People's Court|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+NUMB3RS|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":85,"rt_users":42,"best_rt_rating":100,"worst_rt_rating":0}}
+FOX and Friends|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Hot in Cleveland|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":87,"rt_users":57,"best_rt_rating":100,"worst_rt_rating":0}}
+The Rachel Maddow Show|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+16 and Pregnant|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Nashville|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+According to Jim|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Judge Mathis|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Bad Girls Club|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Gold Rush: Alaska|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Brain Games|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+One Tree Hill|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":59,"rt_users":1385,"best_rt_rating":100,"worst_rt_rating":0}}
+Sanford & Son|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Say Yes to the Dress|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Dexter's Laboratory|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Cupcake Wars|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+60 Minutes|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Biggest Loser|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Jake and the Never Land Pirates|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Bubble Guppies|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Degrassi: The Next Generation|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Treehouse Masters|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Bernie Mac Show|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Most Shocking|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Cat in the Hat Knows a Lot About That!|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Fear Factor|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Bachelor|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Haves and the Have Nots|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Dragon Ball Z Kai|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Let's Make a Deal|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Are We There Yet?|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":4,"best_rt_rating":100,"worst_rt_rating":0}}
+Top Chef|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Drugs, Inc.|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Legend of Korra|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":91,"rt_users":506,"best_rt_rating":100,"worst_rt_rating":0}}
+Squidbillies|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":54,"rt_users":30,"best_rt_rating":100,"worst_rt_rating":0}}
+Wife Swap|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+106 & Park: BET's Top 10 Live|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Super Why!|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Too Cute!|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Fashion Police|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+PBS NewsHour|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Total Divas|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Unit|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Auction Hunters|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Morning Express With Robin Meade|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Beyond Scared Straight|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Survivor: Caramoan -- Fans vs. Favorites|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Hell on Wheels|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":89,"rt_users":417,"best_rt_rating":100,"worst_rt_rating":0}}
+Last Man Standing|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":74,"rt_users":164,"best_rt_rating":100,"worst_rt_rating":0}}
+Tattoo Nightmares|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Anthony Bourdain: Parts Unknown|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Joyce Meyer: Enjoying Everyday Life|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Forensic Files|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Survivor: Philippines|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":1,"best_rt_rating":100,"worst_rt_rating":0}}
+T.I. and Tiny: The Family Hustle|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Survivor|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Shipping Wars|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The 65th Primetime Emmy Awards|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Deadly Women|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Desperate Housewives|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":91,"rt_users":289,"best_rt_rating":100,"worst_rt_rating":0}}
+Tia & Tamera|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Devious Maids|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":85,"rt_users":124,"best_rt_rating":100,"worst_rt_rating":0}}
+Little House on the Prairie|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":6,"best_rt_rating":100,"worst_rt_rating":0}}
+Paranormal Witness|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Income Property|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Basketball Wives|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Jamie Foxx Show|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Comedy Central Presents|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Living Single|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+River Monsters|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Teen Titans Go!|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+CMT Music|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Arthur|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":90,"rt_users":12,"best_rt_rating":100,"worst_rt_rating":0}}
+Ned's Declassified School Survival Guide|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Property Virgins|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Here Comes Honey Boo Boo|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Amish Mafia|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+South Beach Tow|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Hey Arnold!|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+2013 American Music Awards|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Antiques Roadshow|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+A Haunting|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Braxton Family Values|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Hoarders|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Dual Survival|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Team Umizoomi|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+XFINITY On Demand|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Naked and Afraid|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Being Mary Jane|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":75,"rt_users":16,"best_rt_rating":100,"worst_rt_rating":0}}
+The Bad Girls Club: Atlanta|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Live! With Kelly and Michael|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Hart of Dixie|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":87,"rt_users":202,"best_rt_rating":100,"worst_rt_rating":0}}
+Bridezillas|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+On the Record With Greta Van Susteren|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Gravity Falls|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Extreme Makeover: Home Edition|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Call of the Wildman: More Live Action!|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Graceland|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":85,"rt_users":111,"best_rt_rating":100,"worst_rt_rating":0}}
+Bad Girls Club: Mexico|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Joel Osteen|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Homeland|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Gossip Girl|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":75,"rt_users":408,"best_rt_rating":100,"worst_rt_rating":0}}
+Masterpiece Mystery!|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Whose Line Is It Anyway?|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":97,"rt_users":35,"best_rt_rating":100,"worst_rt_rating":0}}
+Nancy Grace|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Fosters|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":91,"rt_users":210,"best_rt_rating":100,"worst_rt_rating":0}}
+Scooby-Doo, Where Are You!|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Charlie Rose|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Situation Room|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Operation Repo|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Snooki & JWOWW|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Suite Life of Zack & Cody|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Boondocks|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":78,"rt_users":227,"best_rt_rating":100,"worst_rt_rating":0}}
+Un Show Más|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Arsenio Hall Show|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Gator Boys|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Private Practice|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":90,"rt_users":32,"best_rt_rating":100,"worst_rt_rating":0}}
+Ax Men|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Man vs. Wild|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Bait Car|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Steve Wilkos Show|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Doomsday Preppers|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+NBA GameTime|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+America's News Headquarters|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Lost Girl|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":78,"rt_users":159,"best_rt_rating":100,"worst_rt_rating":0}}
+20/20|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+La Médium|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+48 Hours: Hard Evidence|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Chew|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":2,"best_rt_rating":100,"worst_rt_rating":0}}
+Black Ink Crew|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The View|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Beauty and the Beast|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":79,"rt_users":200,"best_rt_rating":100,"worst_rt_rating":0}}
+Wild Kratts|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+CBS This Morning|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Steve Harvey Show|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Lockup: Raw|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Sofia the First|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Bad Girls Club: Miami|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Pair of Kings|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Star Trek|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":88,"rt_users":67,"best_rt_rating":100,"worst_rt_rating":0}}
+RENO 911!|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":70,"rt_users":32,"best_rt_rating":100,"worst_rt_rating":0}}
+Pit Bulls and Parolees|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Access Hollywood|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Secret Life of the American Teenager|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":47,"rt_users":49,"best_rt_rating":100,"worst_rt_rating":0}}
+Dancing With the Stars: All-Stars|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Top Chef: Seattle|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Ramsay's Kitchen Nightmares|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Storage Wars Texas|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Betty White's Off Their Rockers|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":33,"rt_users":4,"best_rt_rating":100,"worst_rt_rating":0}}
+Dinosaur Train|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Toddlers & Tiaras|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Project Runway All Stars|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+ABC World News With Diane Sawyer|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Say Yes to the Dress: Atlanta|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Kung Fu Panda: Legends of Awesomeness|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+This Old House|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Frontline|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Sister Wives|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Cutthroat Kitchen|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+America's Test Kitchen From Cook's Illustrated|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Celebrity Ghost Stories|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Talk|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Three's Company|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Hardball With Chris Matthews|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Teen Mom 3|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":50,"rt_users":2,"best_rt_rating":100,"worst_rt_rating":0}}
+The Bachelorette|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Auction Kings|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Tyler Perry's For Better or Worse|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":50,"rt_users":8,"best_rt_rating":100,"worst_rt_rating":0}}
+Teen Mom|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Single Ladies|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Haven|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":89,"rt_users":167,"best_rt_rating":100,"worst_rt_rating":0}}
+Jerseylicious|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Extra|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Top Chef: Texas|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Finding Bigfoot|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Shahs of Sunset|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Franklin & Bash|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":91,"rt_users":38,"best_rt_rating":100,"worst_rt_rating":0}}
+The Real Housewives of Miami|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Continuum|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":84,"rt_users":357,"best_rt_rating":100,"worst_rt_rating":0}}
+Bad Ink|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+American Horror Story: Coven|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Hollywood Hillbillies|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Kevin Hart: I'm a Grown Little Man|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+CBS News Sunday Morning|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Body of Proof|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":83,"rt_users":11,"best_rt_rating":100,"worst_rt_rating":0}}
+Property Brothers: Buying & Selling|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Merlin|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":77,"rt_users":194,"best_rt_rating":100,"worst_rt_rating":0}}
+Necessary Roughness|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":47,"rt_users":9,"best_rt_rating":100,"worst_rt_rating":0}}
+Call of the Wildman|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Kourtney and Kim Take Miami|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Real Time With Bill Maher|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Drop Dead Diva|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":41,"rt_users":79,"best_rt_rating":100,"worst_rt_rating":0}}
+CatDog|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Watch What Happens: Live|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+UFC Reloaded|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Dads|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":1,"best_rt_rating":100,"worst_rt_rating":0}}
+Twisted|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+What's New Scooby-Doo?|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Rookie Blue|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":68,"rt_users":55,"best_rt_rating":100,"worst_rt_rating":0}}
+Holmes Inspection|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Beverly Hills Pawn|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Dragons' Den|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Divorce Court|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Yard Crashers|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+How the Universe Works: Expanded Edition|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Real World|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":93,"rt_users":18,"best_rt_rating":100,"worst_rt_rating":0}}
+House Hunters Renovation|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Star Wars: The Clone Wars|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":89,"rt_users":422,"best_rt_rating":100,"worst_rt_rating":0}}
+Top Shot|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Campus PD|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Jail|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Special Report With Bret Baier|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+My Little Pony: Friendship Is Magic|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Pranked|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Supernanny|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Rehab Addict|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Glades|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":71,"rt_users":15,"best_rt_rating":100,"worst_rt_rating":0}}
+Ask This Old House|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Intervention|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Breaking Amish|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Brickleberry|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":65,"rt_users":70,"best_rt_rating":100,"worst_rt_rating":0}}
+Full Throttle Saloon|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Mystery Diners|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Dead Files|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Baby Daddy|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":87,"rt_users":115,"best_rt_rating":100,"worst_rt_rating":0}}
+Punk'd|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":11,"best_rt_rating":100,"worst_rt_rating":0}}
+The Dukes of Hazzard|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Melissa & Joey|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":82,"rt_users":76,"best_rt_rating":100,"worst_rt_rating":0}}
+Fast N' Loud: Revved Up|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+48 Hours on ID|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Mistresses|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+What I Like About You|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Kourtney & Kim Take New York|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+How the Universe Works|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Brothers & Sisters|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":80,"rt_users":50,"best_rt_rating":100,"worst_rt_rating":0}}
+Lab Rats|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Monsters Inside Me|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Extreme Couponing|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Restaurant Stakeout|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+How It's Made: Dream Cars|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+World's Wildest Police Videos|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Inside Edition|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+America's Newsroom|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Dateline on ID|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Stargate Atlantis|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Storage Hunters|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Tom and Jerry Tales|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+My Fair Wedding With David Tutera|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+19 Kids and Counting|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Jefe Encubierto|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Regis & Kathie Lee|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+90210|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":36,"rt_users":100,"best_rt_rating":100,"worst_rt_rating":0}}
+Kevin Hart: Seriously Funny|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+CrazySexyCool: The TLC Story|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+48 Hours|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+RuPaul's Drag Race|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Newlywed Game|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+CTV News|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Weatherscan Local From The Weather Channel|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+60 Minutes on CNBC|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Whose Line Is It Anyway?|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":97,"rt_users":35,"best_rt_rating":100,"worst_rt_rating":0}}
+T.U.F.F. Puppy|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Johnny Bravo|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Kick Buttowski: Suburban Daredevil|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Khloe and Lamar|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Caught on Camera|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":1,"best_rt_rating":100,"worst_rt_rating":0}}
+Unforgettable|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":82,"rt_users":30,"best_rt_rating":100,"worst_rt_rating":0}}
+The Queen Latifah Show|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Unsealed: Alien Files|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+What Would You Do?|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":73,"rt_users":7,"best_rt_rating":100,"worst_rt_rating":0}}
+Barter Kings|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+American History TV|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Only in America With Larry the Cable Guy|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Perception|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":79,"rt_users":62,"best_rt_rating":100,"worst_rt_rating":0}}
+Vanderpump Rules|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Local Origination|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Courage the Cowardly Dog|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Flip This House|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+MAD|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Beverly Hills, 90210|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Mom|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":1,"best_rt_rating":100,"worst_rt_rating":0}}
+Paranormal State|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Transformers Prime|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Farscape|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Nightline|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+CBS Evening News With Scott Pelley|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Bold and the Beautiful|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Tanked: Unfiltered|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+I Dream of NeNe: The Wedding|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+'Til Death|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":7,"best_rt_rating":100,"worst_rt_rating":0}}
+My Strange Addiction|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Giuliana & Bill|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+America Unearthed|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Cook's Country From America's Test Kitchen|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Dish Nation|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Cavuto|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The FOX Report With Shepard Smith|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Meet the Press|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Rifleman|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+FOX News Sunday With Chris Wallace|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Ugly Betty|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":88,"rt_users":63,"best_rt_rating":100,"worst_rt_rating":0}}
+What Would You Do?|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":73,"rt_users":7,"best_rt_rating":100,"worst_rt_rating":0}}
+House Crashers|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Sing-Off|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Wheeler Dealers|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Little Couple|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Eureka|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":75,"rt_users":87,"best_rt_rating":100,"worst_rt_rating":0}}
+Judge Joe Brown|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Octonauts|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Scare Tactics|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Say Yes to the Dress: Bridesmaids|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+MTV Jams|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Chasing Classic Cars|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Locked Up Abroad|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Stan Lee's Superhumans|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Gangsters: America's Most Evil|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Planet Earth|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":9,"best_rt_rating":100,"worst_rt_rating":0}}
+Ben 10: Omniverse|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Best Ink|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The This Old House Hour|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Dragons: Riders of Berk|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Last Word With Lawrence O'Donnell|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Martha Speaks|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Ultimate Spider-Man|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Bering Sea Gold|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The X-Files|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":84,"rt_users":317,"best_rt_rating":100,"worst_rt_rating":0}}
+Las Vegas|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":80,"rt_users":9,"best_rt_rating":100,"worst_rt_rating":0}}
+Unusual Suspects|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+¡Llegó Honey Boo Boo!|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Million Dollar Listing|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Venture Bros.|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Sonny With a Chance|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Ice Road Truckers|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Haunted Hathaways|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Giada at Home|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Hit the Floor|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":75,"rt_users":21,"best_rt_rating":100,"worst_rt_rating":0}}
+Attack of the Show!|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Wicked Attraction|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Adventures of Jimmy Neutron: Boy Genius|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+BBC World News|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+LA Ink|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The 56th Annual Grammy Awards|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Manhunters: Fugitive Task Force|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Kenan & Kel|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Morning Joe|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Who Wants to Be a Millionaire|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+MSNBC Live|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Wicked Tuna|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Piers Morgan Tonight|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Batman|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":86,"rt_users":43,"best_rt_rating":100,"worst_rt_rating":0}}
+Happening Now|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+8 Simple Rules|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+After the First 48|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Daniel Tiger's Neighborhood|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":1,"best_rt_rating":100,"worst_rt_rating":0}}
+Angel|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":77,"rt_users":105,"best_rt_rating":100,"worst_rt_rating":0}}
+ABC World News Now|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+PAW Patrol|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Shameless USA|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+My Ghost Story: Caught on Camera|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Oprah's Next Chapter|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Nightmare Next Door|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Army Wives|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":63,"rt_users":25,"best_rt_rating":100,"worst_rt_rating":0}}
+Tabatha's Salon Takeover|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Adult Content|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Judge Alex|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Erin Burnett OutFront|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+WordGirl|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Lie to Me|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":87,"rt_users":128,"best_rt_rating":100,"worst_rt_rating":0}}
+The Kelly File|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+On the Case With Paula Zahn|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Secrets of the Dead|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Zap2it Program Guide|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Dog and Beth: On the Hunt|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Mégastructures|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Extreme Weight Loss|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Top 20 Country Countdown|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Challenge: Rivals II|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Who Do You Think You Are?|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Airplane Repo|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+24|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Untamed and Uncut|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Dick Van Dyke Show|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+BBQ Pitmasters|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Hollywood Game Night|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":2,"best_rt_rating":100,"worst_rt_rating":0}}
+Finding Bigfoot: Further Evidence|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Diff'rent Strokes|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Bizarre Foods America|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Buckwild|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Ultimate Survival Alaska|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Food Network Star|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Top Shot All-Stars|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The 700 Club|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Bath Crashers|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Coast Guard Alaska|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Extreme Cheapskates|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Pioneer Woman|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Real Housewives of New York City|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Beyond Belief: Fact or Fiction?|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Invader Zim|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Animal Cops Houston|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Criss Angel BeLIEve|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Blue Planet: Seas of Life|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Million Dollar Listing New York|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+American Horror Story: Asylum|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Chrissy & Mr. Jones|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Life Below Zero|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Markets Now|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Celebrity Apprentice|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Scooby-Doo! Mystery Incorporated|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Iyanla, Fix My Life|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Batman: The Animated Series|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Guy's Grocery Games|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Fact or Faked: Paranormal Files|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Renovation Realities|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Hotel Impossible|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+My Cat From Hell|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Dogs 101|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Pingüinos de Madagascar|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Drunk History|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":96,"rt_users":29,"best_rt_rating":100,"worst_rt_rating":0}}
+World's Deadliest|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Preachers of L.A.|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Capitol Hill Hearings|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+West Coast Customs|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Danny Phantom|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Silent Library|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+My First Place|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Cake Boss: Next Great Baker|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Man v. Food Nation|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Hollywood Exes|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Buying Alaska|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Mexico: One Plate at a Time With Rick Bayless|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+VH1 Soul Player|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Frozen Planet|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":2,"best_rt_rating":100,"worst_rt_rating":0}}
+Sanjay and Craig|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Are You Smarter Than a 5th Grader?|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Planet Sheen|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Sanctuary|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":91,"rt_users":8,"best_rt_rating":100,"worst_rt_rating":0}}
+The First 48: Missing Persons|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":1,"best_rt_rating":100,"worst_rt_rating":0}}
+Kitchen Crashers|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+¿Quién da más? Texas|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Free Movies on Demand|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Planet Earth|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":9,"best_rt_rating":100,"worst_rt_rating":0}}
+Bienvenue à Cougar Town|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Jeff Dunham: Spark of Insanity|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Kevin Hart: Laugh at My Pain|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Oprah Winfrey Show|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+House of Anubis|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Steven and Chris|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Chicago PD|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":78,"rt_users":105,"best_rt_rating":100,"worst_rt_rating":0}}
+FOX and Friends Saturday|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Politics & Public Policy Today|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Ice Loves Coco|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Alfred Hitchcock Presents|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Yo Gabba Gabba!|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Taste|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Brad Meltzer's Decoded|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+HLN Weekend Express With Natasha Curry|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Dateline on OWN|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Nancy Grace Mysteries|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Whodunnit?|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":100,"rt_users":1,"best_rt_rating":100,"worst_rt_rating":0}}
+American Chopper: Senior vs. Junior|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Disney On Demand|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Still Standing|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+MotorWeek|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+I Shouldn't Be Alive|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Flipping Vegas|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Talking Dead|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":91,"rt_users":9,"best_rt_rating":100,"worst_rt_rating":0}}
+Special Agent Oso|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Romanian Programming|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Welcome to Sweetie Pie's|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+En man och hans fruar|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Gator Boys: Xtra Bites|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Everyday Italian|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Gabriel Iglesias: Aloha Fluffy|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Lou Dobbs Tonight|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Fanboy and Chum Chum|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Leave It to Beaver|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Big Cat Diary|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Fullmetal Alchemist Brotherhood|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The Challenge: Battle of the Exes|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Survivorman Ten Days|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Gene Simmons Family Jewels|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Daniel Tosh: Happy Thoughts|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+The E! True Hollywood Story|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Ain't That America|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
+Murder, She Wrote|tv	{"all_critic":{"rt_rating":0,"rt_users":0,"worstrt_rating":0,"bestrt_rating":0},"avg_audience":{"rt_rating":0,"rt_users":0,"best_rt_rating":0,"worst_rt_rating":0}}
