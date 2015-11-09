@@ -11,6 +11,16 @@ class ScrapeHelper(object):
     def __init__(self, read):
         self.soup = BeautifulSoup.BeautifulSoup(read.decode('utf-8', 'ignore'))
 
+    def is_table_exists(self, class_, soup=None):
+        soup = soup or self.soup
+        try:
+            table = soup.find('table', attrs={'class': class_})
+            if table:
+                return True
+        except AttributeError:
+            return False
+        return False
+
     def find_table_by_class(self, class_, soup=None):
         """
         find table and extract rows by a class name
