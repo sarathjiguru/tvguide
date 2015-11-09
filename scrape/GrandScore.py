@@ -1,3 +1,6 @@
+"""
+GrandScore: loads the file contains ratings from all sources; creates an grand rating score
+"""
 import json
 from sys import argv
 import collections
@@ -7,7 +10,7 @@ import operator
 __author__ = 'sarath'
 
 
-class JsonToCsv(object):
+class GrandScore(object):
     def __init__(self, imdb_file):
         self.grand_rating = collections.defaultdict(dict)
         handle = open(imdb_file, 'r')
@@ -25,6 +28,10 @@ class JsonToCsv(object):
         handle.close()
 
     def parseTsv(self):
+        """
+        function is used to return grand rating; this is used to explore data in excel and not used for any calculation
+        :return: prints csv data
+        """
         for key in self.imdb:
             val = self.imdb[key]
             msg = key + "|" + str(val.get('users', 0)) + "|" + str(val.get('rating', 0)) + "|" + str(
@@ -36,11 +43,26 @@ class JsonToCsv(object):
             print(msg)
 
     def normalized_rating(self, metric, users, min_rating, confidence):
-        ratings = {}
+        """
+        given the min rating and confidence, calculates the normalized rating.
+        Since we have multiple rating keys like rt_rating for rottentomatoes and ratings for imdb, need to send metric and users.
+
+        The task of finding the min_rating and confidence is unburdened from this module. As of now, we are eye balling on the graph
+        created for exploring and setting the min_rating and confidence
+        :param metric: rating: example rating
+        :param users: users: example users
+        :param min_rating: min_rating
+        :param confidence: confidence
+        :return: normalized rating
+        """
+        # sum of ratings for the show, if there is no rating given by any user
         min_sum = min_rating * confidence
-        actual_sum = 0
+
         for key in self.imdb:
+            # actual sum of ratings given for the show
+            actual_sum = 0
             show = self.imdb[key]
+            total_users = confidence
             if metric in show:
                 actual_sum = show[metric] * show[users]
                 total_users = confidence + show[users]
@@ -48,16 +70,28 @@ class JsonToCsv(object):
             self.update_grand_rating(key, value)
 
     def update_grand_rating(self, key, value):
+        """
+        upate the grandrating with the current rating value
+        :param key:
+        :param value:
+        :return:
+        """
         if key in self.grand_rating:
             self.grand_rating[key].update(value)
         else:
             self.grand_rating[key] = value
 
     def avg_support(self, fans):
+        """
+        calculate the support of fb/twitter users for the listing. fans_for_listing/max_fans
+        :param fans: fan type twitter_fans for twitter
+        :return: return support for the listing (in the range of 1 to 10)
+        """
         users = []
         for key in self.imdb:
             show = self.imdb[key]
             users.append(show.get(fans, 0))
+        # get maximum no. of users
         max_users = max(users)
 
         for key in self.imdb:
@@ -66,6 +100,11 @@ class JsonToCsv(object):
             self.update_grand_rating(key, value)
 
     def get_grand_ranking(self, ratings_file):
+        """
+        calculates grand ranking. Formuala: (5*imdb_rating+2.5*twitter_support+2.5*facebook_support)/10
+        :param ratings_file:
+        :return:
+        """
         ratings = {}
         sorted_output = open(ratings_file, 'w')
         self.normalized_rating('rating', 'users', 3.5, 28230)
@@ -84,5 +123,6 @@ class JsonToCsv(object):
 
 
 if __name__ == '__main__':
-    jsontocsv = JsonToCsv(argv[1])
-    jsontocsv.get_grand_ranking(argv[2])
+    # expects the file, that contains the ratings from all sources and the file to write the sorted tv listings
+    grandscore = GrandScore(argv[1])
+    grandscore.get_grand_ranking(argv[2])
