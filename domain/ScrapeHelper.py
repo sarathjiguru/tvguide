@@ -71,8 +71,17 @@ class ScrapeHelper(object):
         :param soup: [Beautiful soup] object
         :return: list of anchor tags
         """
+        return self.find_all_elements('a', soup)
+
+    def find_all_elements(self, tag, soup=None):
+        """
+        find all anchor tags in the soup
+        :param tag: tag to search for
+        :param soup: [Beautiful soup] object
+        :return: list of  tags
+        """
         soup = soup or self.soup
-        return soup.findAll('a')
+        return soup.findAll(tag)
 
     def find_by_class(self, tag, class_, soup=None):
         """
